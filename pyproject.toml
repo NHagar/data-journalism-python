@@ -1,0 +1,20 @@
+[project]
+name = "data-journalism-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "download-link-replacer>=1.0.4",
+    "jupyterbook-patches>=1.4.4",
+    "sphinx-exercise>=1.0.1",
+    "sphinx-iframes>=1.0.5",
+    "sphinx-image-inverter>=1.1.3",
+    "sphinx-named-colors>=1.0.1",
+    "sphinx-thebe",
+    "teachbooks>=0.2.0",
+    "teachbooks-sphinx-tippy>=1.0.8",
+]
+
+[tool.uv.sources]
+sphinx-thebe = { git = "https://github.com/TeachBooks/Sphinx-Thebe" }
