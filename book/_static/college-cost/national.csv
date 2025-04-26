@@ -1,0 +1,1522 @@
+INSTNM,STABBR,UGDS,ADM_RATE,COSTT4_A,C150_4
+Alabama A & M University,AL,5196,0.684,23167,0.2678
+University of Alabama at Birmingham,AL,12776,0.8668,26257,0.6442
+University of Alabama in Huntsville,AL,6985,0.781,25777,0.6295
+Alabama State University,AL,3296,0.966,21900,0.2773
+The University of Alabama,AL,31360,0.8006,31024,0.7276
+Auburn University at Montgomery,AL,3307,0.9223,19771,0.3584
+Auburn University,AL,25234,0.4374,33650,0.8075
+Birmingham-Southern College,AL,968,0.5717,35495,0.6463
+Faulkner University,AL,1587,0.8241,36169,0.33
+Huntingdon College,AL,810,0.6595,39717,0.5018
+Jacksonville State University,AL,7066,0.7846,22153,0.5224
+University of West Alabama,AL,2424,0.6886,22456,0.3846
+University of Mobile,AL,1108,0.8408,37908,0.4574
+University of Montevallo,AL,2128,0.5984,26185,0.5476
+University of North Alabama,AL,5408,0.9568,21621,0.523
+Oakwood University,AL,1378,0.6805,38377,0.4667
+Samford University,AL,3668,0.8326,52514,0.7779
+University of South Alabama,AL,8171,0.6536,22667,0.4767
+Spring Hill College,AL,932,0.7263,35488,0.6156
+Stillman College,AL,727,0.6454,25678,0.248
+Troy University,AL,10316,0.9484,22005,0.4552
+Tuskegee University,AL,2100,0.2969,41924,0.6728
+University of Alaska Anchorage,AK,6778,0.6532,23461,0.2995
+Alaska Pacific University,AK,457,0.9931,36422,0.3611
+Arizona State University Campus Immersion,AZ,64778,0.8975,26937,0.669
+University of Arizona,AZ,37979,0.8676,27682,0.6793
+Embry-Riddle Aeronautical University-Prescott,AZ,3114,0.68,58036,0.7062
+Grand Canyon University,AZ,65147,0.7787,31440,0.4505
+Northern Arizona University,AZ,23090,0.79990000000000006,28648,0.5912
+Prescott College,AZ,313,0.9838,45439,0.5532
+Arizona Christian University,AZ,1028,0.7014,47865,0.4531
+University of Arkansas at Little Rock,AR,4802,0.6146,21300,0.4193
+Lyon College,AR,489,0.5984,44749,0.3831
+University of Arkansas,AR,26002,0.7893,24611,0.6919
+University of Arkansas at Pine Bluff,AR,2155,0.6933,19968,0.4115
+Arkansas State University,AR,7463,0.6951,21176,0.5281
+University of Central Arkansas,AR,7563,0.9121,23167,0.5008
+Central Baptist College,AR,489,0.6394,28293,0.392
+Harding University,AR,3198,0.4512,34168,0.6947
+Henderson State University,AR,1800,0.7066,26032,0.3922
+Hendrix College,AR,1127,0.6028,49928,0.6857
+John Brown University,AR,1354,0.5664,42128,0.7121
+Ouachita Baptist University,AR,1587,0.7232,43878,0.6506
+University of the Ozarks,AR,767,0.6008,35272,0.4096
+Williams Baptist University,AR,556,0.5931,30718,0.4495
+Southern Arkansas University Main Campus,AR,2787,0.6361,24242,0.4454
+Art Center College of Design,CA,2113,0.7097,70276,0.7547
+Azusa Pacific University,CA,3344,0.87,54157,0.6127
+Biola University,CA,3474,0.5663,57785,0.7206
+California Baptist University,CA,8077,0.7992,49531,0.6325
+California College of the Arts,CA,1134,0.7569,74618,0.7216
+California Institute of Technology,CA,982,0.0269,79947,0.9404
+California Lutheran University,CA,2510,0.8718,60992,0.732
+California Polytechnic State University-San Luis Obispo,CA,20976,0.3043,29680,0.8547
+California State University-Bakersfield,CA,8108,0.8655,18410,0.4969
+California State University-Stanislaus,CA,8836,0.9661,16968,0.5526
+California State University-San Bernardino,CA,16712,0.9108,18750,0.5442
+California State Polytechnic University-Pomona,CA,25080,0.5538,21655,0.6632
+California State University-Chico,CA,12853,0.95,24766,0.6418
+California State University-Dominguez Hills,CA,13903,0.8913,14958,0.4646
+California State University-Fresno,CA,20985,0.9543,17508,0.5623
+California State University-Fullerton,CA,35249,0.6672,17337,0.693
+California State University-East Bay,CA,10709,0.962,20693,0.4552
+California State University-Long Beach,CA,32780,0.3995,18983,0.7265
+California State University-Los Angeles,CA,22690,0.8694,17010,0.5143
+California State University-Northridge,CA,32103,0.9123,19585,0.5599
+California State University-Sacramento,CA,28544,0.9321,21396,0.5446
+University of California-Berkeley,CA,32475,0.1133,41130,0.9403
+University of California-Davis,CA,31512,0.3734,36975,0.8634
+University of California-Irvine,CA,28651,0.2115,34731,0.8661
+University of California-Los Angeles,CA,32423,0.0857,35689,0.9248
+University of California-Riverside,CA,22842,0.6869,34100,0.7602
+University of California-San Diego,CA,33092,0.2371,35274,0.8773
+University of California-Santa Barbara,CA,23419,0.2585,36607,0.8567
+University of California-Santa Cruz,CA,17502,0.4692,37707,0.7691
+California Institute of the Arts,CA,931,0.2476,75865,0.6382
+California State University Maritime Academy,CA,808,0.955,27186,0.6314
+Chapman University,CA,7665,0.7252,78549,0.8363
+Concordia University-Irvine,CA,1691,0.6899,54221,0.6305
+Claremont McKenna College,CA,1383,0.1035,78723,0.9128
+University of Silicon Valley,CA,373,0.6466,36955,0.4381
+Design Institute of San Diego,CA,90,1,36656,0.75
+Dominican University of California,CA,1139,0.9318,67130,0.7893
+Fresno Pacific University,CA,1743,0.75,41576,0.5024
+Harvey Mudd College,CA,906,0.1336,82236,0.9202
+Holy Names University,CA,564,1,55459,0.5368
+California State Polytechnic University-Humboldt,CA,5373,0.9818,24202,0.4555
+Life Pacific University,CA,395,0.9448,32241,0.4667
+University of La Verne,CA,3363,0.7351,59394,0.6322
+Laguna College of Art and Design,CA,729,0.8837,54255,0.631
+La Sierra University,CA,1216,0.9185,46981,0.5385
+The Master's University and Seminary,CA,1496,0.7818,43642,0.7326
+Loyola Marymount University,CA,7138,0.4131,72553,0.8152
+Menlo College,CA,786,0.6172,63412,0.5695
+Mount Saint Mary's University,CA,1778,0.7576,62383,0.5959
+Newschool of Architecture and Design,CA,229,0.4495,56958,0.4167
+Occidental College,CA,1935,0.394,77878,0.8267
+Otis College of Art and Design,CA,1264,0.8329,68808,0.6158
+Hope International University,CA,590,0.3222,49503,0.5
+Pacific Union College,CA,772,0.4846,45219,0.4661
+University of the Pacific,CA,3266,0.9323,64996,0.7372
+Pepperdine University,CA,3656,0.4871,80152,0.8398
+Pitzer College,CA,1212,0.184,79558,0.8545
+Point Loma Nazarene University,CA,3149,0.8193,54207,0.7593
+Pomona College,CA,1699,0.0702,77810,0.9463
+University of Redlands,CA,2301,0.8187,70206,0.669
+San Diego State University,CA,31810,0.3926,23482,0.7801
+University of San Diego,CA,5569,0.5261,72092,0.8262
+San Francisco Conservatory of Music,CA,221,0.4158,73761,0.6296
+San Francisco State University,CA,21035,0.942,23609,0.5469
+University of San Francisco,CA,5980,0.7118,73981,0.7437
+William Jessup University,CA,1123,0.6592,53732,0.5152
+San Jose State University,CA,26735,0.7671,24114,0.6842
+Santa Clara University,CA,6103,0.5211,75576,0.8852
+Scripps College,CA,1073,0.2791,79740,0.8407
+Shasta Bible College and Graduate School,CA,24,1,23673,0.5
+Saint Mary's College of California,CA,1994,0.8789,71268,0.7206
+Sonoma State University,CA,5892,0.94,23866,0.597
+Vanguard University of Southern California,CA,2001,0.7484,53254,0.5951
+Southern California Institute of Architecture,CA,245,0.5984,67666,0.8571
+University of Southern California,CA,20505,0.1202,81298,0.925
+Thomas Aquinas College,CA,516,0.8473,38428,0.8506
+Westmont College,CA,1284,0.8199,67000,0.7356
+Whittier College,CA,1124,0.7545,62130,0.6557
+Woodbury University,CA,868,0.626,55779,0.5481
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,CA,142,0.6148,27600,0.18
+Adams State University,CO,1307,0.9918,22772,0.28
+University of Colorado Denver/Anschutz Medical Campus,CO,10922,0.7458,23895,0.4385
+University of Colorado Colorado Springs,CO,9102,0.8477,23180,0.4251
+University of Colorado Boulder,CO,30598,0.8073,32351,0.7474
+Colorado College,CO,2174,0.163,79229,0.8609
+Colorado School of Mines,CO,5662,0.58,37114,0.8181
+Colorado State University-Fort Collins,CO,25150,0.9077,28277,0.6662
+University of Denver,CO,5986,0.7768,72540,0.7745
+Fort Lewis College,CO,3113,0.9098,24017,0.3877
+Colorado Mesa University,CO,7654,0.8176,22346,0.3915
+Metropolitan State University of Denver,CO,14947,0.9791,22428,0.2898
+Naropa University,CO,338,1,51737,0.3103
+University of Northern Colorado,CO,6024,0.7854,26352,0.5191
+Regis University,CO,2239,0.7609,52045,0.668
+Colorado State University Pueblo,CO,3008,0.9879,22545,0.3505
+Western Colorado University,CO,1673,0.9185,24833,0.4698
+Albertus Magnus College,CT,978,0.805,53621,0.4961
+University of Bridgeport,CT,1604,0.8151,53749,0.4689
+Central Connecticut State University,CT,7500,0.7671,22904,0.5347
+Connecticut College,CT,1915,0.404,79575,0.8411
+University of Connecticut,CT,18768,0.5451,35236,0.8318
+Eastern Connecticut State University,CT,3534,0.7383,28648,0.6006
+Fairfield University,CT,4706,0.5218,71215,0.8419
+University of Hartford,CT,3876,0.8275,60887,0.5694
+Mitchell College,CT,480,0.7684,52006,0.6218
+University of New Haven,CT,4765,0.9124,60918,0.621
+Paier College,CT,198,0.9545,34613,0.5714
+Quinnipiac University,CT,6021,0.8379,68761,0.7726
+Sacred Heart University,CT,6729,0.6571,64621,0.7292
+University of Saint Joseph,CT,821,0.7485,54432,0.608
+Southern Connecticut State University,CT,6246,0.8292,25857,0.5322
+Trinity College,CT,2141,0.3614,79605,0.8357
+Wesleyan University,CT,3006,0.1443,82245,0.9315
+Western Connecticut State University,CT,3679,0.8351,22683,0.5121
+Yale University,CT,6639,0.0457,82170,0.9781
+Delaware State University,DE,4588,0.5492,24248,0.4548
+University of Delaware,DE,18665,0.7381,28744,0.7961
+Goldey-Beacom College,DE,617,0.6272,23846,0.6709
+American University,DC,7669,0.4063,68494,0.7943
+The Catholic University of America,DC,2958,0.8559,70559,0.7635
+Gallaudet University,DC,910,0.5921,39402,0.4367
+George Washington University,DC,10798,0.4898,77900,0.848
+Georgetown University,DC,7343,0.1223,81515,0.9561
+Howard University,DC,9243,0.5343,48214,0.7
+Trinity Washington University,DC,1369,0.9697,32886,0.3801
+The Baptist College of Florida,FL,254,0.9211,19539,0.5938
+Barry University,FL,2539,0.5963,44485,0.3904
+Bethune-Cookman University,FL,2628,0.8497,29551,0.3471
+Lynn University,FL,2789,0.8011,58188,0.5209
+Albizu University-Miami,FL,217,0.8889,36515,0.6667
+Johnson University Florida,FL,154,0.7931,29073,0.4857
+University of Central Florida,FL,57874,0.4104,22662,0.7558
+Eckerd College,FL,1986,0.6509,65354,0.6754
+Edward Waters University,FL,1142,0.8354,26598,0.303
+Embry-Riddle Aeronautical University-Daytona Beach,FL,7155,0.6453,57754,0.6348
+Florida Agricultural and Mechanical University,FL,7436,0.3293,23985,0.6041
+Florida Atlantic University,FL,23074,0.8132,20118,0.6214
+Flagler College,FL,2591,0.8095,38585,0.5717
+AdventHealth University,FL,917,0.3372,35258,0.5469
+Florida Institute of Technology,FL,3114,0.6437,57630,0.6702
+Florida International University,FL,39277,0.6386,19666,0.6918
+Florida Memorial University,FL,1098,0.6994,31302,0.3547
+Florida Southern College,FL,2702,0.5661,55055,0.6812
+Florida State University,FL,32691,0.2504,23308,0.8479
+University of Florida,FL,33673,0.2335,21359,0.9001
+Jacksonville University,FL,2541,0.5769,58927,0.5313
+University of Miami,FL,12215,0.1894,73776,0.8411
+University of North Florida,FL,13866,0.705,18984,0.6767
+Nova Southeastern University,FL,6885,0.758,53370,0.6198
+Palm Beach Atlantic University,FL,2396,0.9466,52625,0.5631
+Ringling College of Art and Design,FL,1704,0.647,73962,0.7662
+Rollins College,FL,2567,0.4999,70679,0.777
+Saint Leo University,FL,6717,0.801,40214,0.4934
+University of South Florida,FL,36763,0.4393,21383,0.7412
+St. Thomas University,FL,1896,0.6515,50684,0.4264
+Stetson University,FL,2517,0.938,67631,0.6366
+Southeastern University,FL,4931,0.6086,42569,0.4267
+The University of Tampa,FL,9593,0.2635,48273,0.6572
+Trinity Baptist College,FL,319,0.4959,23973,0.2892
+Trinity College of Florida,FL,175,0.5977,25298,0.04
+Warner University,FL,738,0.551,39677,0.4045
+Webber International University,FL,1093,0.4897,46822,0.3277
+The University of West Florida,FL,8806,0.4803,18357,0.5306
+Abraham Baldwin Agricultural College,GA,3160,0.6696,13323,0.3971
+Agnes Scott College,GA,923,0.6652,58167,0.7684
+Point University,GA,1041,0.242,34203,0.2555
+Clark Atlanta University,GA,3419,0.5626,39446,0.462
+Berry College,GA,2232,0.6631,54975,0.6473
+Brenau University,GA,1184,0.8655,45992,0.457
+Brewton-Parker College,GA,646,0.9476,34951,0.1974
+College of Coastal Georgia,GA,2812,0.9833,18167,0.2292
+Clayton  State University,GA,4540,0.5632,17613,0.3449
+Columbus State University,GA,5637,0.878,20838,0.434
+Covenant College,GA,808,0.8413,51713,0.7396
+Emmanuel College,GA,730,0.6266,33421,0.3739
+Emory University,GA,7017,0.1135,75594,0.8999
+Fort Valley State University,GA,2347,0.4309,20211,0.4555
+Georgia Institute of Technology-Main Campus,GA,17379,0.1713,29148,0.926
+Georgia Southwestern State University,GA,2092,0.7318,19915,0.3621
+Georgia College & State University,GA,5185,0.7995,28118,0.6237
+Georgia Southern University,GA,20996,0.8889,22652,0.5274
+Georgia State University,GA,28439,0.6678,27149,0.549
+University of Georgia,GA,30566,0.4255,27821,0.8811
+LaGrange College,GA,597,0.5912,46803,0.5064
+Life University,GA,910,0.9777,40129,0.3125
+Mercer University,GA,4568,0.7468,55068,0.7351
+Morehouse College,GA,2564,0.6001,48890,0.5898
+Oglethorpe University,GA,1426,0.7099,57647,0.571
+Paine College,GA,299,0.5151,27632,0.1782
+Piedmont University,GA,1212,0.6435,42631,0.4835
+Reinhardt University,GA,1014,0.6233,42776,0.3743
+Savannah College of Art and Design,GA,13352,0.8173,58970,0.7253
+Shorter University,GA,1121,0.9747,33819,0.3186
+Spelman College,GA,3098,0.2839,47717,0.7401
+Thomas University,GA,726,0.4609,18420,0.6703
+Toccoa Falls College,GA,835,0.6801,33983,0.4638
+Truett McConnell University,GA,828,0.8083,35484,0.4633
+Valdosta State University,GA,7277,0.8947,20694,0.4031
+Wesleyan College,GA,510,0.668,39010,0.4563
+University of West Georgia,GA,7939,0.8012,23870,0.4324
+Young Harris College,GA,837,0.7729,44631,0.4923
+Chaminade University of Honolulu,HI,1505,0.9341,41667,0.6641
+University of Hawaii at Hilo,HI,2381,0.8424,21526,0.4246
+University of Hawaii at Manoa,HI,13915,0.7277,22185,0.6233
+Hawaii Pacific University,HI,2650,0.871,49353,0.4499
+University of Hawaii-West Oahu,HI,2491,0.9637,15528,0.3271
+Boise Bible College,ID,95,1,25426,0.4688
+Boise State University,ID,16979,0.8393,23497,0.5968
+University of Idaho,ID,7120,0.7385,22108,0.611
+The College of Idaho,ID,1052,0.4552,47926,0.5992
+Lewis-Clark State College,ID,2344,0.8677,17295,0.3516
+Northwest Nazarene University,ID,1115,0.8819,46897,0.5817
+Brigham Young University-Idaho,ID,42213,0.9556,12807,0.5382
+School of the Art Institute of Chicago,IL,2819,0.7896,72278,0.6677
+Augustana College,IL,2274,0.6122,59262,0.7762
+Aurora University,IL,3987,0.819,38012,0.5975
+Blackburn College,IL,342,0.6437,35726,0.3571
+Bradley University,IL,4133,0.7514,50881,0.761
+Chicago State University,IL,1364,0.4851,21961,0.2763
+University of Chicago,IL,7511,0.0543,84126,0.9558
+Columbia College Chicago,IL,6378,0.9477,45611,0.4723
+Concordia University-Chicago,IL,1285,0.9304,44022,0.4832
+DePaul University,IL,13968,0.7017,57824,0.6935
+Eastern Illinois University,IL,4586,0.6796,25334,0.5464
+Elmhurst University,IL,2897,0.7601,51455,0.6352
+Eureka College,IL,544,0.8672,38968,0.5359
+Governors State University,IL,2589,0.5748,20901,0.2066
+Greenville University,IL,902,0.9412,43239,0.575
+Hebrew Theological College,IL,73,0.7143,21196,0.2045
+University of Illinois Chicago,IL,21567,0.7869,24375,0.6162
+Benedictine University,IL,2026,0.9312,46422,0.5344
+University of Illinois Urbana-Champaign,IL,34031,0.4482,31636,0.8469
+Illinois Wesleyan University,IL,1518,0.4222,66835,0.7948
+Illinois College,IL,1011,0.7718,46023,0.6735
+Illinois Institute of Technology,IL,2877,0.6144,67233,0.75
+Illinois State University,IL,18019,0.86240000000000006,32151,0.6698
+Judson University,IL,781,0.582,39201,0.5311
+Knox College,IL,1051,0.7332,63874,0.7457
+Lake Forest College,IL,1724,0.5972,65637,0.7778
+Lewis University,IL,3650,0.7406,44513,0.6231
+Loyola University Chicago,IL,11626,0.7915,62997,0.7087
+McKendree University,IL,1528,0.6835,46576,0.5548
+Methodist College,IL,433,0.3333,36059,0.7368
+Millikin University,IL,1603,0.754,40918,0.5779
+Monmouth College,IL,761,0.907,54707,0.5684
+Moody Bible Institute,IL,1716,0.9414,31963,0.6066
+National Louis University,IL,3791,0.9205,23734,0.3067
+North Central College,IL,2304,0.6087,54661,0.6333
+North Park University,IL,1866,0.6801,41988,0.55
+Northern Illinois University,IL,11408,0.7068,26534,0.5308
+Northwestern University,IL,8837,0.0721,83803,0.9652
+Northeastern Illinois University,IL,4058,0.627,24517,0.1867
+Olivet Nazarene University,IL,2460,0.578,49685,0.6662
+Quincy University,IL,1027,0.617,43381,0.5
+Rockford University,IL,908,0.5491,45985,0.4014
+Roosevelt University,IL,2362,0.8832,46360,0.4257
+Dominican University,IL,2119,0.8953,43574,0.587
+University of St Francis,IL,1390,0.5842,43760,0.6495
+Saint Xavier University,IL,2963,0.8413,41127,0.5276
+University of Illinois Springfield,IL,2348,0.8203,24287,0.5322
+Southern Illinois University-Carbondale,IL,7922,0.915,28970,0.4934
+Southern Illinois University-Edwardsville,IL,9283,0.9751,24429,0.5352
+Telshe Yeshiva-Chicago,IL,79,0.9429,20200,0.1
+Trinity Christian College,IL,783,0.7068,46996,0.6875
+Trinity International University-Illinois,IL,409,0.9126,46333,0.4965
+VanderCook College of Music,IL,67,1,36975,0.5714
+Western Illinois University,IL,5196,0.75,27039,0.473
+Wheaton College,IL,2141,0.8843,54537,0.8827
+Anderson University,IN,1111,0.5175,48027,0.5934
+Ball State University,IN,13466,0.6895,24478,0.6387
+Bethel University,IN,1115,0.9947,41570,0.5685
+Butler University,IN,4304,0.8206,62673,0.8078
+DePauw University,IN,1732,0.658,70394,0.7925
+Earlham College,IN,589,0.7324,62999,0.7465
+University of Evansville,IN,1460,0.7632,52798,0.6499
+Franklin College,IN,859,0.9286,49403,0.6298
+Goshen College,IN,704,0.9354,47366,0.6378
+Grace College and Theological Seminary,IN,1458,0.8462,39454,0.6633
+Hanover College,IN,949,0.7411,55210,0.6916
+Holy Cross College,IN,422,0.7617,47029,0.3256
+Huntington University,IN,1066,0.775,40132,0.7056
+Purdue University Fort Wayne,IN,5482,0.8066,19050,0.3569
+Indiana University-Purdue University-Indianapolis,IN,17278,0.8289,21624,0.5634
+University of Indianapolis,IN,3444,0.7614,47597,0.5992
+Indiana Institute of Technology,IN,1341,0.6466,41982,0.3733
+University of Southern Indiana,IN,5491,0.9444,20435,0.5106
+Indiana State University,IN,6926,0.923,23136,0.4413
+Indiana University-Kokomo,IN,2419,0.8575,13332,0.416
+Indiana University-South Bend,IN,3666,0.8688,15251,0.3616
+Indiana University-Bloomington,IN,35401,0.8241,27131,0.8113
+Indiana University-Northwest,IN,2711,0.8031,13597,0.3732
+Indiana University-Southeast,IN,3133,0.8523,14752,0.3456
+Indiana University-East,IN,2472,0.7755,15899,0.4249
+Manchester University,IN,914,0.6639,46583,0.4807
+Marian University,IN,2347,0.9384,51522,0.6359
+Indiana Wesleyan University-Marion,IN,2097,0.8672,41692,0.6667
+University of Notre Dame,IN,8917,0.1291,78347,0.9633
+Oakland City University,IN,604,0.5572,40024,0.5349
+Rose-Hulman Institute of Technology,IN,2154,0.7302,72651,0.8085
+University of Saint Francis-Fort Wayne,IN,1572,0.9806,43022,0.5575
+Saint Mary-of-the-Woods College,IN,801,0.7817,43905,0.519
+Saint Mary's College,IN,1378,0.8389,63986,0.7488
+Taylor University,IN,1767,0.7461,50672,0.7797
+Trine University,IN,2250,0.9188,48921,0.6508
+Valparaiso University,IN,2342,0.9415,56969,0.6984
+Wabash College,IN,835,0.6149,60150,0.7535
+Buena Vista University,IA,1419,0.7727,51406,0.5792
+Central College,IA,1135,0.7924,34302,0.7143
+Clarke University,IA,724,0.848,51322,0.5759
+Cornell College,IA,1056,0.7933,62571,0.6341
+Dordt University,IA,1472,0.8767,49104,0.6701
+Drake University,IA,2794,0.6723,60642,0.764
+University of Dubuque,IA,1439,0.8505,47851,0.3926
+Faith Baptist Bible College and Theological Seminary,IA,313,0.5245,29489,0.5484
+Graceland University-Lamoni,IA,860,0.7449,46380,0.481
+Grand View University,IA,1525,0.9841,43078,0.5224
+Grinnell College,IA,1709,0.1076,75698,0.8838
+Iowa State University,IA,24994,0.9022,21932,0.7445
+Iowa Wesleyan University,IA,734,0.8081,46894,0.297
+University of Iowa,IA,21545,0.86,26358,0.7369
+Loras College,IA,1192,0.8984,46656,0.6779
+Luther College,IA,1603,0.7532,61175,0.7423
+Maharishi International University,IA,681,0.9429,28730,0.5
+Mercy College of Health Sciences,IA,909,0.9671,31905,0.44
+Morningside University,IA,1175,0.7061,48778,0.5618
+Mount Mercy University,IA,1201,0.7527,51154,0.5738
+University of Northern Iowa,IA,7571,0.9495,20969,0.6384
+Northwestern College,IA,1106,0.8733,47339,0.6299
+Saint Ambrose University,IA,2108,0.7392,48547,0.6402
+Simpson College,IA,1115,0.891,57690,0.6667
+Upper Iowa University,IA,2203,0.5423,48044,0.4206
+Waldorf University,IA,2231,0.7386,36036,0.2578
+Wartburg College,IA,1402,0.9745,59828,0.6719
+William Penn University,IA,1362,0.5767,39936,0.2987
+Baker University,KS,1115,0.9175,47258,0.479
+Benedictine College,KS,2155,0.9883,51009,0.6764
+Bethany College,KS,684,0.6603,50636,0.2947
+Bethel College-North Newton,KS,497,0.9715,46600,0.5248
+Emporia State University,KS,2663,0.9567,19376,0.5189
+Fort Hays State University,KS,10066,0.8802,18598,0.5054
+Barclay College,KS,152,0.5268,38490,0.4167
+Friends University,KS,993,0.6327,43844,0.454
+University of Kansas,KS,18539,0.8784,24888,0.6728
+Newman University,KS,883,0.5103,44536,0.5196
+Kansas State University,KS,14762,0.9514,24923,0.6857
+Kansas Wesleyan University,KS,787,0.6962,44048,0.323
+Manhattan Christian College,KS,121,0.4796,32545,0.5333
+McPherson College,KS,812,0.6588,47059,0.4948
+MidAmerica Nazarene University,KS,975,0.6682,51534,0.419
+Ottawa University-Ottawa,KS,851,0.7823,50165,0.2849
+Pittsburg State University,KS,4221,0.8618,19841,0.5553
+University of Saint Mary,KS,798,0.8193,43809,0.3852
+Southwestern College,KS,1050,0.7016,51374,0.3846
+Sterling College,KS,566,0.611,42886,0.3672
+Tabor College,KS,507,0.5271,46710,0.4412
+Wichita State University,KS,10304,0.9485,20964,0.5159
+Alice Lloyd College,KY,538,0.9833,27810,0.4048
+Asbury University,KY,1256,0.7873,44967,0.7003
+Bellarmine University,KY,2275,0.8778,58078,0.5972
+Berea College,KY,1412,0.2458,54396,0.6187
+Brescia University,KY,551,0.5036,40632,0.4309
+Centre College,KY,1347,0.6285,60700,0.8675
+University of the Cumberlands,KY,4609,0.8302,24278,0.4425
+Eastern Kentucky University,KY,11215,0.6431,21228,0.4924
+Georgetown College,KY,1204,0.7152,55456,0.4613
+Kentucky Mountain Bible College,KY,71,0.45,16340,0.5625
+Kentucky State University,KY,1343,0.915,21223,0.3229
+Kentucky Wesleyan College,KY,760,0.6855,41058,0.4845
+University of Kentucky,KY,22115,0.9489,30635,0.6877
+Kentucky Christian University,KY,448,0.4439,37121,0.3072
+University of Louisville,KY,13822,0.8154,29595,0.6216
+Midway University,KY,1187,0.9376,40723,0.4341
+Morehead State University,KY,4864,0.8397,21837,0.4723
+Murray State University,KY,6588,0.8398,21641,0.5846
+Northern Kentucky University,KY,8677,0.8601,18899,0.5005
+Spalding University,KY,635,0.9764,42917,0.4467
+Thomas More University,KY,1420,0.9424,45868,0.4442
+Transylvania University,KY,976,0.9079,57015,0.6901
+Union College,KY,711,0.5342,41450,0.3308
+Western Kentucky University,KY,12149,0.9695,23211,0.5136
+Centenary College of Louisiana,LA,511,0.6365,57199,0.6
+Dillard University,LA,1220,0.7989,33520,0.4803
+Grambling State University,LA,4163,0.4237,24264,0.3688
+Louisiana State University-Alexandria,LA,3600,0.5767,14892,0.3147
+Louisiana State University and Agricultural & Mechanical College,LA,27729,0.7572,33322,0.6985
+Louisiana State University-Shreveport,LA,2137,0.8891,18196,0.3254
+Louisiana Christian University,LA,767,0.7461,28160,0.3629
+Louisiana Tech University,LA,7434,0.6237,23390,0.5986
+Loyola University New Orleans,LA,3160,0.7811,59044,0.6705
+McNeese State University,LA,4928,0.7124,20355,0.4648
+University of New Orleans,LA,4925,0.6976,22232,0.3824
+Nicholls State University,LA,4808,0.9843,20961,0.4557
+University of Louisiana at Monroe,LA,5032,0.7011,22653,0.5075
+Northwestern State University of Louisiana,LA,6243,0.9793,23950,0.4636
+University of Holy Cross,LA,453,0.8735,26352,0.3649
+Franciscan Missionaries of Our Lady University,LA,844,0.8478,25871,0.4286
+Southeastern Louisiana University,LA,9567,0.9898,21784,0.4377
+Southern University and A & M College,LA,5171,0.539,24483,0.3035
+Southern University at New Orleans,LA,1144,0.9353,20982,0.1704
+University of Louisiana at Lafayette,LA,11932,0.7456,23800,0.5115
+Tulane University of Louisiana,LA,8490,0.1145,80932,0.8744
+Xavier University of Louisiana,LA,2681,0.9516,38603,0.5053
+College of the Atlantic,ME,372,0.6008,54969,0.5823
+Bates College,ME,1790,0.1374,77870,0.9256
+Bowdoin College,ME,1909,0.0919,76310,0.9404
+Colby College,ME,2299,0.0761,78665,0.8804
+University of Maine at Farmington,ME,1217,0.9417,23772,0.5333
+University of Maine at Fort Kent,ME,650,0.9924,18231,0.3659
+University of Maine,ME,8720,0.9396,25586,0.5527
+Maine Maritime Academy,ME,874,0.5765,29140,0.6612
+University of Maine at Presque Isle,ME,1100,0.9699,16717,0.2945
+University of New England,ME,2272,0.9628,59327,0.5939
+Maine College of Art & Design,ME,380,0.7396,55612,0.4833
+Saint Joseph's College of Maine,ME,963,0.8084,56612,0.6955
+University of Southern Maine,ME,4322,0.8543,21010,0.4172
+Thomas College,ME,673,0.9724,42804,0.5
+Unity College,ME,3679,0.9431,21676,0.5263
+University of Baltimore,MD,1351,0.8933,25573,0.3333
+Bowie State University,MD,5289,0.8654,23671,0.4019
+Capitol Technology University,MD,296,0.6434,39553,0.5532
+Washington Adventist University,MD,499,0.5143,33024,0.5
+Coppin State University,MD,1708,0.4495,18010,0.2376
+Frostburg State University,MD,2873,0.8788,25798,0.4934
+Goucher College,MD,981,0.8024,65729,0.5831
+Hood College,MD,1182,0.7787,56858,0.6119
+Johns Hopkins University,MD,5643,0.0725,78415,0.9405
+Loyola University Maryland,MD,3968,0.8348,69819,0.7868
+University of Maryland-Baltimore County,MD,10557,0.8055,27183,0.7034
+University of Maryland-College Park,MD,29982,0.4461,26781,0.8927
+Maryland Institute College of Art,MD,1401,0.7958,69047,0.7652
+University of Maryland Eastern Shore,MD,1877,0.8156,24564,0.3739
+Morgan State University,MD,7599,0.8538,24726,0.4559
+Mount St. Mary's University,MD,1824,0.7957,60493,0.6475
+Ner Israel Rabbinical College,MD,246,0.7222,24450,0.4286
+Notre Dame of Maryland University,MD,634,0.6958,56689,0.6022
+Salisbury University,MD,6145,0.9106,25314,0.6858
+St. Mary's College of Maryland,MD,1476,0.773,30421,0.7066
+St. John's College,MD,462,0.499,51458,0.7717
+Towson University,MD,16734,0.786,25928,0.6976
+Stevenson University,MD,2979,0.841,55942,0.6513
+Washington College,MD,935,0.7471,67427,0.7146
+McDaniel College,MD,1748,0.8205,63340,0.6624
+Hult International Business School,MA,682,0.4774,74000,0.6437
+American International College,MA,1142,0.8936,53236,0.3688
+Amherst College,MA,1898,0.0726,80060,0.9193
+Anna Maria College,MA,991,0.6958,55594,0.4037
+Assumption University,MA,1676,0.823,60262,0.7205
+Babson College,MA,2709,0.2235,76360,0.9267
+Boston Baptist College,MA,39,1,26691,0.25
+Bay Path University,MA,1263,0.7563,46775,0.4706
+Bentley University,MA,4070,0.5788,74902,0.8798
+Berklee College of Music,MA,7395,0.5423,66950,0.6859
+Boston College,MA,9751,0.1666,80560,0.9092
+Boston University,MA,17668,0.1437,79463,0.8896
+Brandeis University,MA,3675,0.3941,79342,0.8734
+Bridgewater State University,MA,7911,0.8771,24818,0.5606
+Clark University,MA,2363,0.5032,61716,0.7616
+Curry College,MA,1804,0.8752,60570,0.5207
+Dean College,MA,1180,0.7595,61170,0.4472
+Eastern Nazarene College,MA,408,0.6192,39617,0.494
+Emerson College,MA,4147,0.4275,75777,0.7716
+Emmanuel College,MA,1855,0.7969,61953,0.6594
+Endicott College,MA,2999,0.7331,55970,0.7809
+Fisher College,MA,1131,0.7423,51555,0.2632
+Fitchburg State University,MA,2911,0.8606,22864,0.5639
+Framingham State University,MA,2712,0.8741,26377,0.5461
+Gordon College,MA,1255,0.9176,39666,0.6874
+Hampshire College,MA,505,0.689,69045,0.6031
+Harvard University,MA,7973,0.0324,81292,0.9777
+Hellenic College-Holy Cross Greek Orthodox School of Theology,MA,31,0.5789,40832,0.6
+College of the Holy Cross,MA,3062,0.3636,74286,0.9111
+Lasell University,MA,1236,0.7321,61057,0.6087
+Lesley University,MA,1406,0.8623,48919,0.6135
+University of Massachusetts-Lowell,MA,11985,0.8595,27701,0.7111
+University of Massachusetts-Amherst,MA,24111,0.6352,32355,0.8305
+University of Massachusetts-Boston,MA,11749,0.8076,28946,0.5101
+MCPHS University,MA,3488,0.8826,56414,0.6146
+Massachusetts College of Art and Design,MA,1753,0.7864,30956,0.6604
+Massachusetts Institute of Technology,MA,4638,0.0396,77020,0.9494
+Massachusetts Maritime Academy,MA,1323,0.894,33717,0.792
+Merrimack College,MA,4065,0.7463,65121,0.6813
+Mount Holyoke College,MA,2183,0.3976,75051,0.8257
+The New England Conservatory of Music,MA,363,0.3755,75230,0.8099
+Nichols College,MA,1164,0.8486,54138,0.5817
+Massachusetts College of Liberal Arts,MA,760,0.9245,25160,0.5569
+Northeastern University,MA,16172,0.068,78153,0.9124
+College of Our Lady of the Elms,MA,915,0.9091,49975,0.7485
+Regis College,MA,1095,0.8877,61392,0.6695
+Salem State University,MA,4592,0.9266,27335,0.5536
+Simmons University,MA,1786,0.7646,60828,0.7445
+Smith College,MA,2515,0.2286,78438,0.8853
+Springfield College,MA,2002,0.7563,56240,0.7301
+University of Massachusetts-Dartmouth,MA,5331,0.9552,29342,0.5458
+Stonehill College,MA,2466,0.7344,65513,0.7907
+Suffolk University,MA,4325,0.8679,59927,0.6036
+Tufts University,MA,6747,0.0969,81614,0.9371
+Wellesley College,MA,2353,0.1357,81090,0.9017
+Wentworth Institute of Technology,MA,3557,0.9231,55835,0.6876
+Western New England University,MA,2402,0.8801,54933,0.6745
+Westfield State University,MA,3693,0.8151,24963,0.5981
+Wheaton College (Massachusetts),MA,1653,0.7948,74460,0.7973
+Williams College,MA,2138,0.085,78086,0.9511
+Worcester Polytechnic Institute,MA,5146,0.5748,73842,0.8893
+Worcester State University,MA,4025,0.8766,20795,0.5885
+Adrian College,MI,1688,0.6906,56391,0.5061
+Albion College,MI,1445,0.6652,66805,0.592
+Alma College,MI,1222,0.6465,58657,0.6219
+Andrews University,MI,1249,0.9127,42774,0.7079
+Aquinas College,MI,1107,0.9078,47228,0.6115
+Baker College,MI,3230,0.3665,22902,0.2007
+Calvin University,MI,2833,0.7421,52094,0.7696
+Central Michigan University,MI,10297,0.7895,26077,0.6172
+Cleary University,MI,716,0.6753,37464,0.6364
+Concordia University Ann Arbor,MI,843,0.7018,47701,0.5176
+College for Creative Studies,MI,1317,0.492,58859,0.6406
+Davenport University,MI,3412,0.9891,34159,0.5009
+University of Detroit Mercy,MI,2322,0.9053,39217,0.7294
+Eastern Michigan University,MI,11206,0.8323,26085,0.4542
+Ferris State University,MI,8390,0.8788,25135,0.4936
+Kettering University,MI,1401,0.8075,58080,0.6934
+Grace Christian University,MI,817,0.9966,23616,0.5327
+Cornerstone University,MI,1383,0.8178,39524,0.6168
+Grand Valley State University,MI,18487,0.9037,25379,0.6628
+Hope College,MI,3173,0.8045,49892,0.8028
+Kalamazoo College,MI,1192,0.7925,68832,0.7977
+Lake Superior State University,MI,1468,0.7691,25607,0.5106
+Lawrence Technological University,MI,1864,0.8191,52558,0.6575
+Madonna University,MI,1693,0.6484,38500,0.4928
+Rochester University,MI,848,0.7137,34571,0.4063
+University of Michigan-Ann Arbor,MI,32448,0.1769,32139,0.9317
+Michigan State University,MI,39021,0.8795,29204,0.8157
+Michigan Technological University,MI,5633,0.9368,31297,0.6776
+University of Michigan-Dearborn,MI,5962,0.541,22327,0.56
+University of Michigan-Flint,MI,4029,0.6635,23278,0.4645
+Northern Michigan University,MI,6322,0.7055,25294,0.5292
+Northwood University,MI,1911,0.7968,45439,0.6262
+Oakland University,MI,12626,0.9005,23669,0.5764
+Olivet College,MI,859,0.8464,45023,0.4406
+Kuyper College,MI,78,0.7568,32542,0.5429
+Saginaw Valley State University,MI,6211,0.7637,22866,0.4996
+Siena Heights University,MI,1554,0.6498,41236,0.5119
+Spring Arbor University,MI,1021,0.4732,42903,0.6
+Finlandia University,MI,386,0.6657,36729,0.3116
+Wayne State University,MI,15669,0.7532,25942,0.6031
+Western Michigan University,MI,13264,0.8455,27150,0.5507
+Augsburg University,MN,2334,0.7651,55931,0.5563
+Bemidji State University,MN,3187,0.7752,21940,0.4994
+Bethany Lutheran College,MN,641,0.585,39103,0.5652
+Bethel University,MN,2090,0.7249,54444,0.7469
+Carleton College,MN,2007,0.1663,78315,0.9065
+Concordia College at Moorhead,MN,1800,0.6553,40870,0.6943
+Concordia University-Saint Paul,MN,2760,0.6909,33714,0.5124
+Martin Luther College,MN,697,0.8372,28613,0.7436
+Gustavus Adolphus College,MN,2069,0.739,63088,0.7579
+Hamline University,MN,1745,0.8055,55979,0.6905
+Macalester College,MN,2164,0.2842,76357,0.8792
+Minnesota State University-Mankato,MN,11354,0.7068,21824,0.5258
+Metropolitan State University,MN,5152,0.817,25964,0.325
+University of Minnesota-Twin Cities,MN,30560,0.7491,27446,0.8436
+University of Minnesota-Crookston,MN,1489,0.5722,24301,0.5333
+Minneapolis College of Art and Design,MN,689,0.5689,54675,0.5767
+Herzing University-Minneapolis,MN,808,0.9429,26953,0.7097
+University of Minnesota-Duluth,MN,7754,0.807,25901,0.6223
+University of Minnesota-Morris,MN,1024,0.7766,25262,0.5806
+Minnesota State University Moorhead,MN,3462,0.5662,23306,0.5544
+North Central University,MN,827,0.9081,40855,0.5911
+University of Northwestern-St Paul,MN,1512,0.9251,46115,0.7027
+College of Saint Benedict,MN,1428,0.878,64561,0.7833
+Saint Cloud State University,MN,5395,0.9528,20529,0.4437
+Saint Johns University,MN,1501,0.86240000000000006,64251,0.757
+Saint Mary's University of Minnesota,MN,1080,0.9683,52935,0.6537
+St Olaf College,MN,3019,0.5641,66570,0.8479
+Crown College,MN,757,0.6659,43264,0.5166
+The College of Saint Scholastica,MN,1923,0.9661,52561,0.6719
+University of St Thomas,MN,5868,0.77,62028,0.796
+St Catherine University,MN,2349,0.9253,56312,0.6388
+Southwest Minnesota State University,MN,1956,0.9159,21596,0.4079
+Winona State University,MN,5254,0.7375,22640,0.6047
+Alcorn State University,MS,2344,0.2993,24062,0.4733
+Belhaven University,MS,1414,0.426,36866,0.4558
+Blue Mountain Christian University,MS,540,0.957,29461,0.3945
+Delta State University,MS,1627,0.9861,21506,0.4636
+Jackson State University,MS,4905,0.8864,24120,0.3482
+Millsaps College,MS,622,0.6783,59877,0.5675
+University of Mississippi,MS,17157,0.9738,26788,0.6779
+Mississippi University for Women,MS,1701,0.9911,21008,0.3702
+Mississippi Valley State University,MS,1169,0.6478,21606,0.2577
+Mississippi College,MS,2098,0.3999,37689,0.6228
+Mississippi State University,MS,18154,0.7519,26353,0.631
+Rust College,MS,731,0.7876,16700,0.2469
+University of Southern Mississippi,MS,10149,0.9884,24425,0.5168
+Tougaloo College,MS,541,0.4931,23266,0.3085
+William Carey University,MS,1772,0.5358,28491,0.4167
+Avila University,MO,937,0.6763,31540,0.5099
+Cox College,MO,677,0.3333,28124,0.6667
+Calvary University,MO,202,0.6316,19317,0.5926
+Central Methodist University-College of Liberal Arts and Sciences,MO,1074,0.9786,42845,0.5187
+University of Central Missouri,MO,5920,0.7134,21179,0.5273
+Cottey College,MO,311,0.7302,34355,0.5638
+Culver-Stockton College,MO,854,0.9695,42218,0.4831
+Drury University,MO,1369,0.6343,45553,0.6359
+Evangel University,MO,1246,0.6791,38615,0.7171
+Fontbonne University,MO,668,0.9443,42271,0.5797
+Hannibal-LaGrange University,MO,397,0.6711,37045,0.3867
+Kansas City Art Institute,MO,735,0.5848,55084,0.5679
+Lindenwood University,MO,4627,0.7402,32719,0.5423
+Maryville University of Saint Louis,MO,5781,0.8776,44826,0.6679
+Midwestern Baptist Theological Seminary,MO,879,0.9429,28652,0.4091
+Missouri Baptist University,MO,1508,0.709,43860,0.4071
+Missouri Southern State University,MO,3245,0.9948,16972,0.3561
+Missouri Valley College,MO,1269,0.61240000000000006,35869,0.2294
+University of Missouri-Columbia,MO,23206,0.7913,28417,0.753
+University of Missouri-Kansas City,MO,6479,0.6948,23450,0.5538
+Missouri University of Science and Technology,MO,5453,0.8149,24736,0.6167
+University of Missouri-St Louis,MO,5378,0.5111,24160,0.5158
+Truman State University,MO,2920,0.4505,22335,0.7102
+Northwest Missouri State University,MO,4679,0.8556,21375,0.5394
+Ozark Christian College,MO,597,0.9443,24363,0.5263
+College of the Ozarks,MO,1481,0.2113,31353,0.625
+Rockhurst University,MO,1732,0.6646,54739,0.7711
+Saint Louis University,MO,7332,0.8471,65627,0.8123
+University of Health Sciences and Pharmacy in St. Louis,MO,264,0.9158,52232,0.7333
+Southwest Baptist University,MO,1475,0.9955,36941,0.4313
+Stephens College,MO,404,0.6415,41891,0.4563
+Southeast Missouri State University,MO,7010,0.8631,22420,0.5633
+Missouri State University-Springfield,MO,13332,0.9256,23168,0.5822
+Washington University in St Louis,MO,7801,0.1176,81620,0.9369
+Webster University,MO,2174,0.551,44148,0.5866
+Westminster College,MO,607,0.7528,48486,0.6356
+William Jewell College,MO,824,0.4099,33470,0.6224
+William Woods University,MO,754,0.6147,43809,0.5098
+Carroll College,MT,1108,0.7808,52132,0.7012
+University of Providence,MT,593,0.9548,41079,0.4105
+Montana Technological University,MT,1424,0.8947,21971,0.5659
+Montana State University,MT,14343,0.7333,22506,0.5682
+The University of Montana,MT,6937,0.9538,21814,0.4644
+Rocky Mountain College,MT,834,0.7517,42532,0.4583
+The University of Montana-Western,MT,1202,0.3631,18668,0.4526
+Clarkson College,NE,631,0.5606,24425,0.7188
+Bryan College of Health Sciences,NE,535,0.6757,34178,0.72
+Concordia University-Nebraska,NE,1138,0.9084,49230,0.5906
+Creighton University,NE,4261,0.7569,59663,0.7847
+Doane University,NE,988,0.7583,53750,0.6139
+Hastings College,NE,918,0.7133,47961,0.5458
+University of Nebraska at Kearney,NE,4159,0.8599,23925,0.5412
+Nebraska Methodist College of Nursing & Allied Health,NE,808,0.9053,29906,0.7209
+Midland University,NE,1204,0.649,49366,0.4375
+University of Nebraska at Omaha,NE,11866,0.8586,19830,0.4919
+Nebraska Wesleyan University,NE,1530,0.8148,51208,0.5905
+University of Nebraska-Lincoln,NE,19097,0.7864,24612,0.6494
+College of Saint Mary,NE,502,0.6458,32549,0.6667
+Union College,NE,475,0.9883,38874,0.5613
+York University,NE,442,0.5729,31500,0.433
+University of Nevada-Las Vegas,NV,24329,0.8531,19984,0.4716
+University of Nevada-Reno,NV,15896,0.8562,23859,0.6182
+Colby-Sawyer College,NH,814,0.7801,64901,0.6032
+Dartmouth College,NH,4412,0.0638,81501,0.9471
+Franklin Pierce University,NH,1115,0.9272,60490,0.5165
+Magdalen College,NH,59,0.9796,36456,0.7917
+New England College,NH,1036,0.9994,59050,0.3086
+Southern New Hampshire University,NH,138138,0.9637,36121,0.4138
+University of New Hampshire-Main Campus,NH,11396,0.8699,34090,0.7788
+Keene State College,NH,2690,0.8953,28794,0.5931
+University of New Hampshire at Manchester,NH,507,0.8528,27263,0.6324
+Plymouth State University,NH,3286,0.9755,28721,0.5084
+Rivier University,NH,1329,0.8447,50415,0.5769
+Saint Anselm College,NH,1955,0.823,63187,0.853
+Bloomfield College,NJ,1149,0.7818,44316,0.3446
+Caldwell University,NJ,1595,0.6637,51620,0.68
+Centenary University,NJ,1015,0.9654,49508,0.616
+Drew University,NJ,1419,0.7266,60012,0.7371
+Fairleigh Dickinson University-Metropolitan Campus,NJ,2415,0.8409,45688,0.5105
+Felician University,NJ,1696,0.8915,48466,0.5158
+Fairleigh Dickinson University-Florham Campus,NJ,2012,0.8912,50395,0.611
+Georgian Court University,NJ,1166,0.7579,47556,0.5385
+Rowan University,NJ,14914,0.7694,32251,0.6815
+New Jersey City University,NJ,4677,0.9014,30154,0.3864
+Kean University,NJ,10524,0.826,24102,0.5127
+Monmouth University,NJ,3799,0.9092,58567,0.6817
+Montclair State University,NJ,16902,0.9131,26041,0.6536
+New Jersey Institute of Technology,NJ,8365,0.6599,31357,0.7371
+Princeton University,NJ,5527,0.057,78490,0.9732
+Rabbinical College of America,NJ,193,0.9467,23500,0.275
+Ramapo College of New Jersey,NJ,4611,0.7047,28769,0.6953
+Rider University,NJ,3105,0.8413,52777,0.6655
+Rutgers University-Camden,NJ,4077,0.7652,29550,0.6478
+Rutgers University-New Brunswick,NJ,36090,0.6629,31851,0.8446
+Rutgers University-Newark,NJ,7188,0.7394,28522,0.6624
+Saint Peter's University,NJ,1918,0.8883,46980,0.6022
+Seton Hall University,NJ,5874,0.7507,62783,0.7169
+Saint Elizabeth University,NJ,672,0.7192,50509,0.4371
+Stevens Institute of Technology,NJ,4054,0.4622,73570,0.8786
+Stockton University,NJ,8105,0.8554,30214,0.7608
+Talmudical Academy-New Jersey,NJ,73,0.6667,21300,0.2
+The College of New Jersey,NJ,6840,0.6443,34878,0.8576
+William Paterson University of New Jersey,NJ,6591,0.9153,23631,0.5598
+Eastern New Mexico University-Main Campus,NM,2899,0.2755,17929,0.4132
+Institute of American Indian and Alaska Native Culture and Arts Development,NM,311,1,23124,0.2727
+New Mexico Institute of Mining and Technology,NM,1160,0.7443,20579,0.5503
+University of New Mexico-Main Campus,NM,15642,0.9607,19556,0.517
+New Mexico State University-Main Campus,NM,11065,0.7805,20465,0.509
+Adelphi University,NY,5004,0.7278,55566,0.6746
+Albany College of Pharmacy and Health Sciences,NY,584,0.6629,50853,0.6144
+Alfred University,NY,1305,0.5061,52337,0.5348
+Bard College,NY,2174,0.4608,78900,0.716
+Barnard College,NY,3126,0.0879,79717,0.9155
+Beth Hamedrash Shaarei Yosher Institute,NY,74,0.8621,16800,0.0909
+Canisius College,NY,1750,0.7773,40718,0.6616
+Cazenovia College,NY,633,0.751,53059,0.5528
+Central Yeshiva Tomchei Tmimim Lubavitz,NY,679,0.916,24604,0.1071
+Clarkson University,NY,2587,0.7842,73867,0.7252
+Colgate University,NY,3124,0.1243,80160,0.9125
+Metropolitan College of New York,NY,372,0.6549,33506,0.36
+Columbia University in the City of New York,NY,8902,0.0395,82617,0.9525
+The Cooper Union for the Advancement of Science and Art,NY,892,0.2247,64318,0.8349
+Cornell University,NY,15676,0.0747,80278,0.9529
+CUNY Bernard M Baruch College,NY,15554,0.4953,13540,0.7357
+CUNY Brooklyn College,NY,10785,0.5454,13586,0.5492
+CUNY City College,NY,11481,0.666,13514,0.585
+CUNY Hunter College,NY,16549,0.4786,13345,0.5636
+CUNY John Jay College of Criminal Justice,NY,11726,0.5066,13746,0.5362
+CUNY Lehman College,NY,10485,0.5531,13565,0.5372
+CUNY Medgar Evers College,NY,3239,0.8765,14890,0.2398
+CUNY New York City College of Technology,NY,12312,0.818,13725,0.2133
+CUNY Queens College,NY,13513,0.6948,13733,0.563
+CUNY York College,NY,4822,0.5914,13749,0.3333
+D'Youville  University,NY,1372,0.8404,43808,0.6569
+Daemen University,NY,1682,0.7994,42126,0.54990000000000006
+Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,NY,51,0.6667,22750,0.3333
+Dominican University New York,NY,1079,0.8897,44338,0.5336
+Elmira College,NY,603,0.9595,49138,0.5561
+Five Towns College,NY,472,0.5829,36554,0.4015
+Fordham University,NY,9843,0.5413,74795,0.8342
+Hamilton College,NY,2071,0.1178,77000,0.9237
+Hartwick College,NY,1085,0.5972,64262,0.5274
+Hilbert College,NY,827,0.9549,34125,0.5753
+Hobart William Smith Colleges,NY,1539,0.6838,78579,0.7367
+Hofstra University,NY,6051,0.6933,65796,0.6777
+Houghton University,NY,745,0.77,27969,0.6029
+Iona University,NY,2633,0.964,57113,0.5658
+Ithaca College,NY,4601,0.752,65542,0.7432
+Jewish Theological Seminary of America,NY,149,0.5076,86964,0.8095
+The Juilliard School,NY,476,0.1061,79572,0.8929
+Keuka College,NY,983,0.9279,52574,0.5207
+LIM College,NY,1075,0.8382,50573,0.5176
+Le Moyne College,NY,2459,0.7828,50504,0.7245
+Long Island University,NY,5751,0.9265,53506,0.4764
+Machzikei Hadath Rabbinical College,NY,142,0.95,22778,0.1481
+Manhattan College,NY,3066,0.823,61165,0.7199
+Manhattan School of Music,NY,503,0.5501,72477,0.7919
+Manhattanville College,NY,1276,0.8412,52355,0.6074
+Marist College,NY,5069,0.6285,62169,0.8131
+Marymount Manhattan College,NY,1568,0.7209,61863,0.5664
+Medaille University,NY,1185,0.688,40348,0.3549
+Mercy College,NY,5510,0.8586,30568,0.471
+Mesivta Torah Vodaath Rabbinical Seminary,NY,344,0.925,21060,0.2857
+Mesivtha Tifereth Jerusalem of America,NY,52,0.619,17250,0.1053
+Molloy College,NY,3207,0.7663,47058,0.6922
+Monroe College,NY,5434,0.5984,24603,0.5617
+Mount Saint Mary College,NY,1466,0.8829,48858,0.612
+College of Mount Saint Vincent,NY,2233,0.8889,49939,0.5711
+Nazareth College,NY,1978,0.8394,54255,0.6886
+The New School,NY,7136,0.5718,75533,0.6921
+New York University,NY,29136,0.1246,76563,0.8712
+Niagara University,NY,2668,0.8955,48664,0.7221
+New York Institute of Technology,NY,3279,0.7572,51737,0.5463
+Alliance University,NY,761,1,42665,0.399
+Pace University,NY,7766,0.8293,66074,0.6141
+Paul Smiths College of Arts and Science,NY,668,0.8492,49639,0.5435
+Davis College,NY,103,0.5,22030,0.4286
+Pratt Institute-Main,NY,3887,0.5045,72225,0.7604
+Rabbinical Academy Mesivta Rabbi Chaim Berlin,NY,135,0.9556,19450,0.2368
+Rabbinical College of Long Island,NY,148,1,18150,0.1951
+Rabbinical Seminary of America,NY,346,0.9895,19200,0.3636
+Rensselaer Polytechnic Institute,NY,5886,0.6451,77763,0.838
+Roberts Wesleyan University,NY,1033,0.995,47996,0.6814
+Rochester Institute of Technology,NY,13152,0.6717,68666,0.7227
+University of Rochester,NY,6569,0.3891,79490,0.8973
+Russell Sage College,NY,1117,0.7363,48739,0.6878
+St Bonaventure University,NY,1791,0.8111,53720,0.7298
+St. Francis College,NY,2245,0.8427,35647,0.5378
+St Lawrence University,NY,2130,0.635,77363,0.8345
+The College of Saint Rose,NY,1420,0.7801,50555,0.5507
+St. Thomas Aquinas College,NY,1016,0.8861,52230,0.5354
+Sarah Lawrence College,NY,1417,0.4988,76703,0.7162
+Siena College,NY,3480,0.8035,60794,0.7648
+Skidmore College,NY,2744,0.2554,79250,0.8417
+St. Joseph's University-New York,NY,3531,0.7671,37394,0.6879
+St. John Fisher University,NY,2616,0.7305,50348,0.72
+St. John's University-New York,NY,10081,0.8467,58553,0.6922
+SUNY College of Technology at Canton,NY,2758,0.9491,22789,0.4121
+SUNY College of Technology at Delhi,NY,2459,0.8315,25581,0.4407
+SUNY College of Agriculture and Technology at Cobleskill,NY,1774,0.8403,25912,0.4323
+Farmingdale State College,NY,8915,0.7317,16521,0.5417
+SUNY at Albany,NY,12175,0.679,27368,0.6556
+Binghamton University,NY,14398,0.4175,29143,0.8279
+University at Buffalo,NY,20569,0.6771,27603,0.7351
+Stony Brook University,NY,17406,0.4914,27617,0.7782
+SUNY College of Environmental Science and Forestry,NY,1604,0.6951,28191,0.7147
+SUNY Polytechnic Institute,NY,1852,0.8167,21692,0.6166
+SUNY Brockport,NY,5107,0.6794,24052,0.628
+SUNY Buffalo State University,NY,5370,0.8598,22821,0.3638
+SUNY Cortland,NY,5980,0.5978,25972,0.6866
+SUNY at Fredonia,NY,3193,0.8458,24650,0.6043
+SUNY College at Geneseo,NY,4078,0.7493,26453,0.7443
+State University of New York at New Paltz,NY,5990,0.5827,26233,0.732
+SUNY Oneonta,NY,4849,0.7253,26506,0.7487
+State University of New York at Oswego,NY,5957,0.8256,26135,0.6396
+SUNY College at Potsdam,NY,2078,0.8268,24361,0.4981
+SUNY at Purchase College,NY,3050,0.7468,28021,0.6694
+SUNY College at Old Westbury,NY,3800,0.921,20857,0.4841
+SUNY College at Plattsburgh,NY,3925,0.7024,26640,0.6477
+SUNY Maritime College,NY,1291,0.8033,28019,0.7282
+Syracuse University,NY,15071,0.5175,77494,0.8343
+Talmudical Seminary Oholei Torah,NY,347,0.7826,22617,0.1613
+Talmudical Institute of Upstate New York,NY,14,1,14550,1
+Touro University,NY,4005,0.7131,33946,0.6784
+Union College,NY,2077,0.4651,78611,0.8464
+United States Merchant Marine Academy,NY,931,0.2735,9380,0.7717
+Utica University,NY,2526,0.809,36222,0.5796
+Vassar College,NY,2430,0.1866,80784,0.9196
+Villa Maria College,NY,455,0.782,32007,0.3034
+School of Visual Arts,NY,3518,0.8741,72488,0.7384
+Wagner College,NY,1638,0.6854,62075,0.6168
+Webb Institute,NY,102,0.2077,76035,0.8929
+Wells College,NY,349,0.8768,48783,0.5076
+Yeshivath Shaar Hatorah,NY,71,0.7561,20480,0.56
+Yeshiva University,NY,2820,0.6322,66643,0.8457
+Yeshivath Viznitz,NY,778,0.8909,16096,0.7358
+Appalachian State University,NC,18467,0.8308,20735,0.7516
+Barton College,NC,1057,0.946,46781,0.475
+Belmont Abbey College,NC,1413,0.9717,32424,0.4693
+Bennett College,NC,168,0.4463,35872,0.193
+Brevard College,NC,731,0.3989,44388,0.3581
+Campbell University,NC,2933,0.8858,56823,0.5561
+Catawba College,NC,1076,0.6708,46573,0.5616
+Chowan University,NC,800,0.8668,37910,0.2548
+Davidson College,NC,1922,0.1695,73200,0.9163
+Duke University,NC,6570,0.0635,81138,0.9663
+East Carolina University,NC,20385,0.9234,23104,0.6514
+Elizabeth City State University,NC,1912,0.7415,13312,0.4208
+Elon University,NC,6337,0.7446,55329,0.8326
+Fayetteville State University,NC,5218,0.8124,16342,0.4359
+Gardner-Webb University,NC,1811,0.7495,46349,0.5248
+Greensboro College,NC,619,0.8428,33504,0.4016
+Guilford College,NC,1022,0.8351,54954,0.4941
+High Point University,NC,4965,0.7888,58699,0.6817
+Johnson C Smith University,NC,1041,0.2528,33121,0.4286
+Lees-McRae College,NC,854,0.6134,42325,0.4624
+Lenoir-Rhyne University,NC,1393,0.8289,55228,0.513
+Livingstone College,NC,839,0.6377,28236,0.2553
+Mars Hill University,NC,980,0.742,46975,0.4098
+Meredith College,NC,1294,0.7318,52815,0.6777
+Methodist University,NC,1442,0.7568,53462,0.408
+Montreat College,NC,816,0.6806,42969,0.4172
+University of Mount Olive,NC,1784,0.7459,34024,0.4873
+North Carolina A & T State University,NC,11553,0.5639,18518,0.5668
+University of North Carolina at Asheville,NC,2803,0.7431,21030,0.5867
+University of North Carolina at Chapel Hill,NC,19921,0.1711,24711,0.9132
+University of North Carolina at Charlotte,NC,23063,0.7964,21908,0.6996
+University of North Carolina at Greensboro,NC,13862,0.9194,19229,0.5799
+North Carolina Central University,NC,5101,0.8438,24744,0.4424
+University of North Carolina School of the Arts,NC,915,0.3178,23784,0.8169
+North Carolina State University at Raleigh,NC,25109,0.4717,24852,0.8463
+North Carolina Wesleyan University,NC,1204,0.6843,47109,0.3836
+University of North Carolina Wilmington,NC,13960,0.6883,25332,0.7428
+William Peace University,NC,640,0.6318,48188,0.4286
+University of North Carolina at Pembroke,NC,5544,0.8974,15183,0.4517
+Pfeiffer University,NC,683,0.6905,46678,0.3464
+Queens University of Charlotte,NC,1301,0.7127,54425,0.6859
+Mid-Atlantic Christian University,NC,125,0.6333,31575,0.4348
+Saint Augustine's University,NC,937,0.5885,31041,0.2035
+Salem College,NC,331,0.8749,44380,0.6176
+Shaw University,NC,918,0.6103,29754,0.1375
+St. Andrews University,NC,780,0.648,48850,0.2768
+Southeastern Baptist Theological Seminary,NC,458,0.8,20940,0.5556
+Wake Forest University,NC,5446,0.2137,79776,0.8964
+Warren Wilson College,NC,697,0.8398,54106,0.4486
+Wingate University,NC,2509,0.8615,55125,0.573
+Winston-Salem State University,NC,4449,0.7339,22372,0.4957
+Western Carolina University,NC,9809,0.8484,18731,0.6059
+Dickinson State University,ND,1148,0.7202,20098,0.4444
+University of Jamestown,ND,968,0.9204,35968,0.4885
+University of Mary,ND,2149,0.8139,31705,0.637
+Mayville State University,ND,767,0.7123,19966,0.3459
+Minot State University,ND,2168,0.9317,17273,0.4487
+University of North Dakota,ND,9066,0.8328,23680,0.6306
+North Dakota State University-Main Campus,ND,9795,0.9568,22936,0.6317
+Trinity Bible College and Graduate School,ND,162,0.4444,28135,0.4074
+Valley City State University,ND,914,0.8345,19362,0.4747
+University of Akron Main Campus,OH,10099,0.8287,23479,0.4772
+Art Academy of Cincinnati,OH,259,1,45274,0.4909
+Ashland University,OH,2332,0.7176,36822,0.6023
+Baldwin Wallace University,OH,2708,0.7704,53687,0.652
+Bluffton University,OH,649,0.9629,49458,0.4567
+Bowling Green State University-Main Campus,OH,12223,0.7866,27721,0.6142
+Capital University,OH,1905,0.7215,53060,0.6108
+Case Western Reserve University,OH,5927,0.2741,73706,0.8583
+Cedarville University,OH,3851,0.6488,45051,0.7503
+Central State University,OH,5395,0.8883,19757,0.254
+The Christ College of Nursing and Health Sciences,OH,860,0.7105,27952,0.5342
+University of Cincinnati-Main Campus,OH,27880,0.8622,27473,0.7205
+Cleveland Institute of Art,OH,575,0.6984,61751,0.7313
+Cleveland Institute of Music,OH,194,0.3624,57954,0.8269
+Cleveland State University,OH,9502,0.8532,25191,0.4894
+Columbus College of Art and Design,OH,956,0.9098,50459,0.5984
+University of Dayton,OH,8349,0.7405,62510,0.8135
+Defiance College,OH,478,0.6286,48202,0.4191
+Denison University,OH,2406,0.2196,73725,0.8457
+The University of Findlay,OH,2257,0.8598,51270,0.6544
+Gods Bible School and College,OH,268,0.6379,16030,0.451
+Heidelberg University,OH,913,0.7135,46603,0.5447
+Hiram College,OH,737,0.9314,38329,0.5266
+John Carroll University,OH,2358,0.8237,60766,0.7818
+Kent State University at Kent,OH,19179,0.8802,27976,0.6478
+Kenyon College,OH,1877,0.343,80270,0.8727
+Kettering College,OH,572,0.3441,27080,0.5
+Lake Erie College,OH,662,0.541,48054,0.4201
+Lourdes University,OH,749,0.6044,40824,0.5
+Malone University,OH,818,0.7756,46398,0.5113
+Marietta College,OH,1064,0.8285,51777,0.5041
+Miami University-Oxford,OH,16721,0.8792,35642,0.8069
+Mount Carmel College of Nursing,OH,628,0.6341,20151,0.6465
+University of Mount Union,OH,1867,0.7575,45724,0.6193
+Mount Vernon Nazarene University,OH,1481,0.8533,46543,0.686
+Mount Saint Joseph University,OH,1045,0.5435,42356,0.5083
+Muskingum University,OH,1436,0.8639,43742,0.5975
+Notre Dame College,OH,1067,0.7853,44370,0.4211
+Oberlin College,OH,2986,0.3487,81502,0.8346
+Ohio Dominican University,OH,795,0.5242,45465,0.5066
+Ohio Northern University,OH,2402,0.5437,51618,0.7241
+Ohio State University-Main Campus,OH,45140,0.5272,28133,0.8801
+Ohio University-Main Campus,OH,17611,0.8652,28182,0.6506
+Ohio Wesleyan University,OH,1401,0.5218,64069,0.6605
+Otterbein University,OH,2097,0.8368,46735,0.6941
+Rabbinical College Telshe,OH,55,0.9,20800,0.1429
+Franciscan University of Steubenville,OH,2605,0.6665,42004,0.7627
+Tiffin University,OH,1985,0.8284,44369,0.4525
+University of Toledo,OH,10787,0.9223,25294,0.5485
+Ursuline College,OH,618,0.8508,46641,0.4811
+The North Coast College,OH,43,0.875,36935,0.2381
+Walsh University,OH,1454,0.7251,44935,0.5849
+Wilberforce University,OH,639,0.4512,23450,0.4106
+Wilmington College,OH,1011,0.8813,40582,0.5097
+Wittenberg University,OH,1235,0.9393,55565,0.5732
+The College of Wooster,OH,1960,0.5627,70687,0.7403
+Wright State University-Main Campus,OH,6327,0.9522,23352,0.4378
+Wright State University-Lake Campus,OH,984,0.9985,17235,0.4255
+Xavier University,OH,4837,0.8454,59338,0.7376
+Youngstown State University,OH,7741,0.806,19194,0.4897
+Oklahoma Wesleyan University,OK,722,0.5213,42458,0.3394
+University of Central Oklahoma,OK,10400,0.6994,24920,0.3528
+East Central University,OK,2584,0.7008,17634,0.314
+Randall University,OK,242,0.4286,29213,0.1525
+Northeastern State University,OK,4885,0.9946,18427,0.38
+Northwestern Oklahoma State University,OK,1430,0.5642,18714,0.2685
+Oklahoma Christian University,OK,1856,0.9602,37935,0.5692
+Oklahoma State University-Main Campus,OK,20362,0.7063,24770,0.649
+Oklahoma Baptist University,OK,1246,0.4734,45693,0.5405
+Oklahoma City University,OK,1344,0.7039,46239,0.693
+University of Oklahoma-Norman Campus,OK,20842,0.7292,31025,0.7606
+Oral Roberts University,OK,3250,0.7837,46011,0.6288
+University of Science and Arts of Oklahoma,OK,808,0.563,19687,0.4039
+Southeastern Oklahoma State University,OK,2853,0.7421,17907,0.3353
+Southwestern Oklahoma State University,OK,3596,0.7678,21769,0.3913
+University of Tulsa,OK,2612,0.6918,63577,0.7219
+Eastern Oregon University,OR,2262,0.9852,23018,0.3815
+New Hope Christian College-Eugene,OR,37,0.3412,27000,0.25
+George Fox University,OR,2495,0.9173,53404,0.7147
+Lewis & Clark College,OR,2187,0.6859,73969,0.7347
+Linfield University,OR,1667,0.8869,61344,0.7066
+Mount Angel Seminary,OR,28,1,44224,0.4
+Multnomah University,OR,375,0.5338,45129,0.3857
+Bushnell University,OR,502,0.6685,44742,0.5185
+Oregon Institute of Technology,OR,3088,0.9258,25910,0.5723
+Oregon State University,OR,28407,0.8253,28827,0.7004
+University of Oregon,OR,19443,0.8629,30622,0.7341
+Pacific Northwest College of Art,OR,376,0.9448,63974,0.4051
+Pacific University,OR,1546,0.9228,66812,0.6613
+Portland State University,OR,14299,0.9309,21039,0.5254
+University of Portland,OR,3368,0.9251,66047,0.7898
+Reed College,OR,1494,0.308,80970,0.796
+Southern Oregon University,OR,2898,0.8796,24475,0.4637
+Warner Pacific University,OR,440,0.7225,32178,0.427
+Corban University,OR,795,0.3477,48823,0.5401
+Willamette University,OR,1335,0.806,60106,0.7606
+Western Oregon University,OR,3292,0.8335,23734,0.4764
+Bryn Athyn College of the New Church,PA,271,0.7997,38557,0.5
+Albright College,PA,1276,0.8487,42833,0.4832
+Allegheny College,PA,1324,0.6965,69353,0.6776
+DeSales University,PA,2175,0.7717,56928,0.6768
+Alvernia University,PA,2000,0.59,53109,0.6319
+Clarks Summit University,PA,376,0.652,35824,0.6437
+Arcadia University,PA,1750,0.7757,60526,0.6355
+Bryn Mawr College,PA,1402,0.3075,75690,0.8256
+Bucknell University,PA,3732,0.3255,77740,0.8653
+Cabrini University,PA,1145,0.7852,48016,0.5052
+Carlow University,PA,1243,0.927,44265,0.5602
+Carnegie Mellon University,PA,7005,0.113,77465,0.915
+Cedar Crest College,PA,933,0.8425,54458,0.6243
+Central Penn College,PA,844,0.3399,26955,0.3587
+Chatham University,PA,1207,0.6633,55395,0.6804
+Chestnut Hill College,PA,939,0.9819,54628,0.6213
+Curtis Institute of Music,PA,103,0.0966,32446,0.8333
+Delaware Valley University,PA,1631,0.9543,57745,0.5412
+Dickinson College,PA,2083,0.3492,77188,0.8369
+Drexel University,PA,13933,0.7961,72427,0.782
+Duquesne University,PA,5087,0.8749,60583,0.7771
+East Stroudsburg University of Pennsylvania,PA,4324,0.9363,24149,0.4573
+Eastern University,PA,1692,0.6323,52302,0.59
+Elizabethtown College,PA,1703,0.8112,48098,0.7624
+Franklin and Marshall College,PA,1986,0.3623,80319,0.856
+Gannon University,PA,2588,0.8085,48076,0.6965
+Geneva College,PA,1013,0.7905,41066,0.6886
+Gettysburg College,PA,2236,0.5631,76330,0.8161
+Gwynedd Mercy University,PA,1217,0.5842,51628,0.565
+Haverford College,PA,1417,0.1421,81420,0.914
+Holy Family University,PA,2124,0.7744,37674,0.5854
+Hussian College-Philadelphia,PA,80,0.7097,33858,0.4
+Immaculata University,PA,1248,0.6974,44986,0.6111
+Indiana University of Pennsylvania-Main Campus,PA,6611,0.9194,27923,0.521
+Juniata College,PA,1116,0.7616,65999,0.7056
+Keystone College,PA,1009,0.8066,30927,0.43120000000000003
+King's College,PA,1595,0.9599,55232,0.5754
+Kutztown University of Pennsylvania,PA,6334,0.9614,27730,0.5636
+La Roche University,PA,794,0.9736,45704,0.553
+La Salle University,PA,2275,0.9425,46521,0.6198
+Lafayette College,PA,2725,0.3363,75934,0.8918
+Lancaster Bible College,PA,1286,0.9715,39882,0.6829
+Lebanon Valley College,PA,1618,0.7674,62016,0.6824
+Lehigh University,PA,5612,0.3698,74573,0.9119
+Lincoln University,PA,1704,0.8061,26546,0.4468
+Lycoming College,PA,1046,0.7522,59747,0.6385
+Marywood University,PA,1793,0.8076,50781,0.7554
+Mercyhurst University,PA,2367,0.8055,56706,0.6333
+Messiah University,PA,2327,0.7941,52125,0.7825
+Millersville University of Pennsylvania,PA,5697,0.9242,26480,0.5702
+Misericordia University,PA,1727,0.8871,50605,0.7494
+Moore College of Art and Design,PA,355,0.5318,64551,0.6143
+Moravian University,PA,1864,0.6702,62571,0.6985
+Mount Aloysius College,PA,1097,0.8595,38096,0.4596
+Muhlenberg College,PA,1933,0.6551,71431,0.828
+Neumann University,PA,1595,0.8546,54330,0.5413
+Pennsylvania State University-Penn State Erie-Behrend College,PA,3149,0.9544,31624,0.4229
+Pennsylvania State University-Penn State New Kensington,PA,440,0.9145,26795,0.2821
+Pennsylvania State University-Penn State Shenango,PA,223,0.8698,28582,0.2333
+Pennsylvania State University-Penn State Wilkes-Barre,PA,351,0.9525,26114,0.2016
+Pennsylvania State University-Penn State Scranton,PA,860,0.9399,26498,0.343
+Pennsylvania State University-Penn State Lehigh Valley,PA,843,0.9408,27409,0.1244
+Pennsylvania State University-Penn State Altoona,PA,2565,0.9576,31423,0.1613
+Pennsylvania State University-Penn State Beaver,PA,503,0.932,26403,0.2018
+Pennsylvania State University-Penn State Berks,PA,2024,0.9729,30721,0.3343
+Pennsylvania State University-Penn State Harrisburg,PA,4053,0.9555,31448,0.249
+Pennsylvania State University-Penn State Brandywine,PA,1189,0.9619,29564,0.2562
+Pennsylvania State University-Penn State Fayette- Eberly,PA,420,0.8073,23740,0.3016
+Pennsylvania State University-Penn State Hazleton,PA,470,0.8991,28971,0.1623
+Pennsylvania State University-Main Campus,PA,41417,0.5521,38049,0.8328
+Pennsylvania State University-Penn State Greater Allegheny,PA,356,0.8765,28706,0.2102
+Pennsylvania State University-Penn State Mont Alto,PA,626,0.913,26565,0.2738
+Pennsylvania State University-Penn State Abington,PA,3072,0.9341,28611,0.2839
+Pennsylvania State University-Penn State Schuylkill,PA,593,0.8578,27788,0.2637
+Pennsylvania State University-Penn State York,PA,662,0.9287,26650,0.1014
+Pennsylvania Academy of the Fine Arts,PA,114,0.9126,63997,0.5
+Pennsylvania College of Art and Design,PA,236,0.4431,39413,0.6
+University of Pennsylvania,PA,10572,0.065,83298,0.9609
+The University of the Arts,PA,1160,0.8002,67900,0.6602
+Cairn University-Langhorne,PA,780,0.8098,44533,0.5586
+University of Pittsburgh-Bradford,PA,1051,0.9355,28611,0.4165
+University of Pittsburgh-Greensburg,PA,1323,0.976,28051,0.3863
+University of Pittsburgh-Johnstown,PA,2039,0.9741,27754,0.4832
+University of Pittsburgh-Pittsburgh Campus,PA,19954,0.4914,35928,0.8371
+Point Park University,PA,2410,0.8205,49275,0.5877
+Robert Morris University,PA,2738,0.9377,48084,0.6475
+Rosemont College,PA,446,0.7558,34813,0.4317
+Saint Francis University,PA,1639,0.7305,56242,0.7164
+Saint Joseph's University,PA,4978,0.8868,63376,0.8205
+Saint Vincent College,PA,1335,0.7337,53487,0.7615
+University of Scranton,PA,3515,0.8435,65421,0.7994
+Seton Hill University,PA,1615,0.7834,52892,0.7163
+Shippensburg University of Pennsylvania,PA,4283,0.878,27961,0.5018
+Slippery Rock University of Pennsylvania,PA,6707,0.7433,24328,0.6647
+Saint Charles Borromeo Seminary-Overbrook,PA,32,0.75,43331,0.5882
+Susquehanna University,PA,2139,0.7669,69479,0.7567
+Swarthmore College,PA,1619,0.0693,75793,0.9372
+Talmudical Yeshiva of Philadelphia,PA,123,0.875,20980,0.6053
+Temple University,PA,23697,0.797,33768,0.7791
+Thiel College,PA,776,0.8232,50257,0.4332
+Thomas Jefferson University,PA,3739,0.8885,60556,0.6756
+Ursinus College,PA,1505,0.8221,73603,0.7304
+University of Valley Forge,PA,489,0.8243,40922,0.4231
+Villanova University,PA,6926,0.2339,77650,0.9063
+Washington & Jefferson College,PA,1139,0.8808,64529,0.7413
+Waynesburg University,PA,1066,0.7557,39689,0.5962
+West Chester University of Pennsylvania,PA,14014,0.8785,28335,0.7164
+Westminster College,PA,1023,0.7528,51406,0.6216
+Widener University,PA,2513,0.8769,64456,0.6786
+Wilkes University,PA,1904,0.9414,56215,0.5936
+Wilson College,PA,635,0.9405,37890,0.5039
+York College of Pennsylvania,PA,3219,0.9561,34433,0.6492
+Brown University,RI,7222,0.0506,82570,0.9499
+Bryant University,RI,3193,0.6881,65678,0.8252
+Johnson & Wales University-Providence,RI,4135,0.8343,55633,0.5851
+Providence College,RI,3959,0.5278,73779,0.8561
+Rhode Island College,RI,4596,0.8753,18709,0.4389
+University of Rhode Island,RI,13828,0.7639,31804,0.7159
+Rhode Island School of Design,RI,2108,0.1742,77280,0.9101
+Roger Williams University,RI,3971,0.9099,58334,0.6639
+Salve Regina University,RI,2174,0.6953,64895,0.7555
+Allen University,SC,603,0.4336,25042,0.0815
+Anderson University,SC,2960,0.4539,45980,0.6033
+Charleston Southern University,SC,2771,0.8675,42810,0.437
+Benedict College,SC,1726,0.6778,29926,0.198
+Southern Wesleyan University,SC,798,0.5118,37082,0.5967
+College of Charleston,SC,9667,0.7569,30468,0.6466
+Citadel Military College of South Carolina,SC,2658,0.9858,30690,0.7037
+Claflin University,SC,1730,0.78,33658,0.5
+Clemson University,SC,22467,0.4298,34001,0.8532
+Coker University,SC,773,0.9408,44864,0.4173
+Columbia International University,SC,775,0.4822,38781,0.7
+Columbia College,SC,1136,0.9812,34974,0.5548
+Converse University,SC,804,0.5557,34643,0.5714
+Erskine College,SC,817,0.5325,53405,0.4638
+Francis Marion University,SC,2684,0.8291,22683,0.3923
+Furman University,SC,2278,0.6702,69678,0.8541
+Lander University,SC,3360,0.674,25593,0.449
+Limestone University,SC,1551,0.8947,42472,0.2539
+Newberry College,SC,1292,0.7531,43485,0.4947
+North Greenville University,SC,1651,0.7606,38625,0.5365
+Presbyterian College,SC,877,0.5939,55950,0.6341
+University of South Carolina Aiken,SC,2817,0.7562,20783,0.4237
+University of South Carolina Beaufort,SC,1885,0.8003,23345,0.3846
+University of South Carolina-Columbia,SC,26840,0.6405,28844,0.7832
+Coastal Carolina University,SC,9495,0.7863,25333,0.4797
+South Carolina State University,SC,2351,0.839,29886,0.3436
+University of South Carolina-Upstate,SC,4046,0.7858,24523,0.4321
+Winthrop University,SC,3376,0.6976,29729,0.6093
+Wofford College,SC,1823,0.6018,67045,0.825
+Augustana University,SD,1759,0.6579,51613,0.7553
+Black Hills State University,SD,1933,0.9664,20843,0.443
+Dakota State University,SD,1894,0.7891,22651,0.4869
+Dakota Wesleyan University,SD,632,0.7477,40906,0.5337
+Mount Marty University,SD,693,0.6839,44064,0.5673
+Northern State University,SD,1258,0.7814,22455,0.508
+Presentation College,SD,586,0.7558,37503,0.2681
+South Dakota School of Mines and Technology,SD,2047,0.8269,25988,0.5589
+South Dakota State University,SD,8627,0.8608,22447,0.5926
+University of Sioux Falls,SD,1299,0.7595,31730,0.5926
+University of South Dakota,SD,5265,0.9946,23178,0.5722
+Austin Peay State University,TN,7054,0.9382,25804,0.4324
+Baptist Health Sciences University,TN,777,0.4093,21043,0.5846
+Belmont University,TN,7349,0.9627,58305,0.7247
+Bethel University,TN,2906,0.8879,26998,0.4499
+Carson-Newman University,TN,1426,0.7978,43885,0.5624
+Christian Brothers University,TN,1032,0.8746,45249,0.5982
+Cumberland University,TN,1934,0.6621,40945,0.4855
+Lipscomb University,TN,2950,0.7112,51502,0.693
+East Tennessee State University,TN,9772,0.8526,24278,0.5514
+Fisk University,TN,1009,0.7097,39142,0.561
+Freed-Hardeman University,TN,1384,0.9119,35735,0.6975
+Johnson University,TN,668,0.6321,30442,0.6565
+King University,TN,1065,0.608,44974,0.4633
+Le Moyne-Owen College,TN,605,0.9956,18458,0.1809
+Lee University,TN,2932,0.7259,32673,0.6285
+Lincoln Memorial University,TN,1461,0.7848,37976,0.5085
+The University of Tennessee Southern,TN,787,0.8026,26042,0.3028
+Maryville College,TN,977,0.695,52089,0.5327
+University of Memphis,TN,14181,0.946,23875,0.4826
+Middle Tennessee State University,TN,16239,0.7254,21922,0.5459
+Rhodes College,TN,1966,0.5391,66266,0.8501
+The University of the South,TN,1599,0.5232,66480,0.8148
+Southern Adventist University,TN,2439,0.6578,37289,0.5173
+Tennessee Wesleyan University,TN,906,0.6074,35673,0.5
+The University of Tennessee-Chattanooga,TN,9820,0.8265,23504,0.5235
+The University of Tennessee-Knoxville,TN,26905,0.6841,32658,0.7258
+The University of Tennessee-Martin,TN,4629,0.8844,21744,0.5263
+Tennessee Technological University,TN,8341,0.781,23699,0.6015
+Trevecca Nazarene University,TN,1738,0.7087,36993,0.6127
+Tusculum University,TN,981,0.8108,42041,0.3395
+Union University,TN,1731,0.5255,56891,0.6657
+Vanderbilt University,TN,7144,0.0667,79538,0.9277
+Abilene Christian University,TX,3141,0.6579,55221,0.6032
+Angelo State University,TX,5314,0.7914,21174,0.4077
+Austin College,TX,1166,0.5437,57746,0.7304
+Baylor University,TX,15134,0.4588,68535,0.8143
+Concordia University Texas,TX,1571,0.8574,49494,0.3889
+Texas A & M University-Corpus Christi,TX,7818,0.8797,23200,0.3507
+Dallas Baptist University,TX,2674,0.9137,46367,0.5662
+Dallas Christian College,TX,245,0.5,34925,0.3667
+University of Dallas,TX,1446,0.587,63310,0.7197
+East Texas Baptist University,TX,1324,0.677,40625,0.4191
+Texas A&M University-Texarkana,TX,1758,0.9148,21204,0.2995
+Texas A & M University-Commerce,TX,7317,0.8645,22475,0.4273
+Hardin-Simmons University,TX,1323,0.8825,45285,0.5791
+Houston Baptist University,TX,2814,0.8448,46360,0.4931
+University of Houston-Clear Lake,TX,6343,0.6937,28856,0.5374
+University of Houston-Downtown,TX,12752,0.8842,23217,0.3088
+University of Houston-Victoria,TX,2699,0.8213,21218,0.233
+University of Houston,TX,37080,0.6624,24130,0.6308
+Howard Payne University,TX,721,0.6229,42707,0.3211
+Huston-Tillotson University,TX,991,0.5194,25026,0.3172
+University of the Incarnate Word,TX,4547,0.942,45505,0.5322
+Lamar University,TX,8075,0.8373,21570,0.377
+Texas A & M International University,TX,6459,0.4788,16313,0.4945
+LeTourneau University,TX,1553,0.4883,47233,0.6692
+Lubbock Christian University,TX,1221,0.8159,38261,0.4875
+University of Mary Hardin-Baylor,TX,3013,0.9567,45330,0.4987
+McMurry University,TX,1092,0.565,42284,0.3732
+Midwestern State University,TX,4421,0.9243,21876,0.4101
+University of North Texas,TX,33023,0.7913,24696,0.5892
+The University of Texas Rio Grande Valley,TX,26420,0.877,17988,0.5282
+Paul Quinn College,TX,938,0.5728,21678,0.2893
+Prairie View A & M University,TX,8103,0.7607,25775,0.4147
+Rice University,TX,4480,0.0868,71745,0.9363
+Saint Edward's University,TX,2751,0.851,63671,0.6508
+University of St Thomas,TX,2524,0.9671,42639,0.6581
+Sam Houston State University,TX,18184,0.8463,23962,0.5609
+Schreiner University,TX,1056,0.852,45167,0.4983
+St. Mary's University,TX,1991,0.8622,45724,0.5597
+Southern Methodist University,TX,7044,0.5225,79885,0.8231
+Southwestern Assemblies of God University,TX,1435,0.8565,31917,0.4167
+Southwestern University,TX,1480,0.4479,61668,0.7158
+Stephen F Austin State University,TX,8961,0.8951,24402,0.5307
+Texas State University,TX,33834,0.877,25797,0.5586
+Southwestern Adventist University,TX,659,0.5362,34060,0.4701
+Sul Ross State University,TX,1495,0.9707,22434,0.2607
+Tarleton State University,TX,11880,0.8706,22286,0.4581
+Texas A & M University-Kingsville,TX,4562,0.9655,22081,0.4404
+Texas A & M University-College Station,TX,56792,0.6265,31451,0.8354
+The University of Texas at Arlington,TX,30503,0.808,24530,0.5348
+The University of Texas at Austin,TX,40980,0.3135,29361,0.8779
+The University of Texas at Dallas,TX,21586,0.8474,28456,0.6959
+The University of Texas at El Paso,TX,20123,0.9992,19344,0.473
+The University of Texas at Tyler,TX,6568,0.9387,22535,0.4405
+Texas Christian University,TX,10510,0.561,71425,0.8372
+Texas Lutheran University,TX,1307,0.9183,45182,0.536
+The University of Texas Permian Basin,TX,4060,0.9471,22113,0.3975
+The University of Texas at San Antonio,TX,29112,0.869,21660,0.5351
+Texas Southern University,TX,6830,0.968,24679,0.2625
+Texas Tech University,TX,32346,0.6734,27249,0.6375
+Texas Wesleyan University,TX,1549,0.6093,43598,0.3256
+Texas Woman's University,TX,8876,0.9363,20019,0.482
+Trinity University,TX,2491,0.3051,63684,0.7576
+Wayland Baptist University,TX,2138,0.6972,34453,0.1899
+West Texas A & M University,TX,6828,0.9163,22672,0.4502
+Brigham Young University,UT,31411,0.6667,19819,0.7865
+Brigham Young University-Hawaii,HI,2716,0.3421,21369,0.6637
+Utah State University,UT,20573,0.9373,20770,0.5439
+University of Utah,UT,25392,0.8913,18891,0.6455
+Westminster College,UT,955,0.6975,54750,0.6454
+Bennington College,VT,733,0.4531,80648,0.6923
+Castleton University,VT,1585,0.8051,25878,0.5401
+Champlain College,VT,3031,0.5568,61248,0.645
+Goddard College,VT,105,0.8571,27933,0.5714
+Northern Vermont University,VT,1266,0.7288,25648,0.3817
+Middlebury College,VT,2751,0.1269,78820,0.9354
+Norwich University,VT,2706,0.8261,62955,0.6106
+Saint Michael's College,VT,1200,0.8515,65051,0.7445
+Sterling College,VT,86,0.9286,52300,0.2963
+University of Vermont,VT,11326,0.5979,35179,0.7576
+Averett University,VA,1121,0.7603,50240,0.4599
+Bluefield University,VA,615,0.6301,41528,0.3146
+Bridgewater College,VA,1379,0.9036,53800,0.5783
+William & Mary,VA,6778,0.335,40624,0.9095
+Regent University,VA,4281,0.3234,29448,0.5458
+Christopher Newport University,VA,4442,0.8535,31162,0.7608
+Emory & Henry College,VA,1080,0.9685,52559,0.5775
+Eastern Mennonite University,VA,826,0.9948,53834,0.6261
+Ferrum College,VA,780,0.843,52268,0.2816
+George Mason University,VA,26447,0.9,26268,0.7059
+Hampden-Sydney College,VA,846,0.3979,66868,0.7527
+Hampton University,VA,2846,0.7447,46123,0.4632
+Hollins University,VA,689,0.724,56698,0.6563
+James Madison University,VA,19968,0.7831,29043,0.8115
+Liberty University,VA,48408,0.9929,41963,0.6558
+Longwood University,VA,3009,0.8779,31501,0.6656
+University of Lynchburg,VA,1543,0.9594,47371,0.5988
+University of Mary Washington,VA,3443,0.8579,29268,0.6877
+Marymount University,VA,1764,0.8142,50922,0.6059
+Norfolk State University,VA,5328,0.895,26039,0.3986
+Old Dominion University,VA,18152,0.9514,26060,0.4826
+Radford University,VA,5945,0.9334,25873,0.5396
+Randolph-Macon College,VA,1476,0.8545,59197,0.7399
+Randolph College,VA,461,0.9501,42574,0.4973
+University of Richmond,VA,3069,0.2437,74354,0.8798
+Roanoke College,VA,1801,0.7976,65345,0.7134
+Shenandoah University,VA,2104,0.8036,49610,0.6256
+Southern Virginia University,VA,1053,0.9945,31394,0.4608
+Sweet Briar College,VA,451,0.7575,40846,0.6119
+University of Virginia's College at Wise,VA,993,0.7557,23546,0.4494
+Virginia Polytechnic Institute and State University,VA,30339,0.5698,28064,0.8642
+Virginia Commonwealth University,VA,20552,0.91,33388,0.6451
+University of Virginia-Main Campus,VA,17103,0.1866,36314,0.9522
+Virginia Military Institute,VA,1512,0.7106,33182,0.7687
+Virginia State University,VA,4295,0.8972,23673,0.379
+Virginia Union University,VA,1297,0.8055,29361,0.3913
+Virginia Wesleyan University,VA,1154,0.8143,50638,0.4399
+Washington and Lee University,VA,1861,0.1696,80300,0.9483
+Central Washington University,WA,8650,0.9349,25435,0.5226
+Cornish College of the Arts,WA,416,0.7113,52653,0.5291
+Eastern Washington University,WA,6938,0.9612,22226,0.4955
+The Evergreen State College,WA,1799,0.7437,24688,0.4109
+Gonzaga University,WA,5018,0.6974,66149,0.8809
+Northwest University,WA,662,0.9426,45835,0.6751
+Pacific Lutheran University,WA,2253,0.889,60866,0.7179
+University of Puget Sound,WA,1712,0.8266,73002,0.7611
+Saint Martin's University,WA,1344,0.9504,54442,0.6017
+Seattle Pacific University,WA,2409,0.9071,51895,0.654
+Seattle University,WA,4033,0.8515,66095,0.7434
+Washington State University,WA,22265,0.831,26396,0.6201
+University of Washington-Seattle Campus,WA,30931,0.4752,28650,0.8437
+Western Washington University,WA,13686,0.9269,26158,0.6534
+Whitman College,WA,1472,0.477,71982,0.9037
+Whitworth University,WA,2037,0.9052,63427,0.7568
+Alderson Broaddus University,WV,633,0.6149,44217,0.3385
+Appalachian Bible College,WV,182,1,28102,0.5854
+Bethany College,WV,594,0.6492,47610,0.4207
+Bluefield State University,WV,1244,0.9717,18445,0.3521
+University of Charleston,WV,2330,0.6773,43177,0.4175
+Concord University,WV,1311,0.9139,18362,0.403
+Davis & Elkins College,WV,644,0.7526,43278,0.4842
+Fairmont State University,WV,2776,0.9849,17238,0.4639
+Marshall University,WV,6965,0.9688,20327,0.4973
+Shepherd University,WV,2325,0.9586,18205,0.4785
+West Virginia State University,WV,1362,0.9618,19182,0.3543
+West Liberty University,WV,1648,0.7409,22394,0.61240000000000006
+West Virginia University Institute of Technology,WV,1038,0.6458,18060,0.3378
+West Virginia Wesleyan College,WV,886,0.9635,47149,0.5349
+West Virginia University,WV,18370,0.8838,22810,0.6212
+Wheeling University,WV,578,0.7265,41602,0.704
+Alverno College,WI,717,0.8988,42812,0.5283
+Bellin College,WI,346,0.9286,30905,0.7568
+Beloit College,WI,921,0.6586,66936,0.712
+Cardinal Stritch University,WI,526,0.9258,45740,0.5152
+Carroll University,WI,2689,0.7214,48464,0.6702
+Carthage College,WI,2541,0.8183,46744,0.6468
+Concordia University-Wisconsin,WI,2556,0.7037,47970,0.6639
+Edgewood College,WI,1127,0.9862,47807,0.6245
+Lakeland University,WI,1281,0.9951,45519,0.5183
+Lawrence University,WI,1411,0.7227,65910,0.7802
+Maranatha Baptist University,WI,571,0.7508,29409,0.5596
+Marian University,WI,1058,0.7155,39345,0.5131
+Marquette University,WI,7290,0.8721,61926,0.8252
+Milwaukee Institute of Art & Design,WI,895,0.6397,50250,0.5665
+Milwaukee School of Engineering,WI,2562,0.6347,57411,0.7104
+Mount Mary University,WI,640,0.6945,46622,0.6017
+Northland College,WI,508,0.6839,53032,0.5419
+Ripon College,WI,754,0.8133,59356,0.5613
+Saint Norbert College,WI,1784,0.8359,54466,0.7153
+Viterbo University,WI,1456,0.7238,42691,0.6077
+University of Wisconsin-Whitewater,WI,8893,0.8238,18326,0.6166
+University of Wisconsin-Eau Claire,WI,9138,0.7662,20478,0.6528
+University of Wisconsin-Green Bay,WI,6305,0.8962,17641,0.5231
+University of Wisconsin-La Crosse,WI,9137,0.7425,17946,0.6979
+Wisconsin Lutheran College,WI,990,0.9383,45903,0.6711
+University of Wisconsin-Oshkosh,WI,7812,0.8852,18642,0.5757
+University of Wisconsin-Parkside,WI,2969,0.7283,15328,0.4006
+University of Wisconsin-Stout,WI,6176,0.8631,20440,0.5192
+University of Wisconsin-Superior,WI,2021,0.956,18487,0.4016
+University of Wisconsin-Madison,WI,35184,0.4906,27100,0.8923
+University of Wisconsin-Milwaukee,WI,17076,0.8632,21812,0.4787
+University of Wisconsin-Platteville,WI,5920,0.8543,19916,0.6107
+University of Wisconsin-River Falls,WI,4327,0.8448,18312,0.5908
+University of Wisconsin-Stevens Point,WI,6995,0.8905,18407,0.5602
+University of Wyoming,WY,8363,0.9598,21423,0.6088
+Stanford University,CA,7761,0.0368,78898,0.9511
+Purdue University-Main Campus,IN,38438,0.527,22508,0.8304
+St. John's College,NM,364,0.5408,51688,0.7164
+Yeshiva Gedolah of Greater Detroit,MI,68,0.84,16533,0.7692
+New College of Florida,FL,669,0.7541,22236,0.6261
+University of Advancing Technology,AZ,802,0.915,30202,0.4487
+California State University-San Marcos,CA,13844,0.9519,19750,0.5666
+Nossi College of Art,TN,298,0.5673,26907,0.5843
+Northwest College of Art & Design,WA,119,0.6794,28076,0.5625
+University of Washington-Bothell Campus,WA,5166,0.8808,23503,0.6883
+University of Washington-Tacoma Campus,WA,4054,0.8835,22627,0.5422
+Beacon College,FL,469,0.5192,64462,0.5758
+Everglades University,FL,2246,0.7035,38573,0.5601
+Soka University of America,CA,445,0.5663,51096,0.875
+California State University-Monterey Bay,CA,6129,0.9239,20441,0.6145
+Messenger College,TX,19,0.5,23025,0.1667
+Arizona College of Nursing-Tempe,AZ,1177,1,35080,0.6
+Embry-Riddle Aeronautical University-Worldwide,FL,8278,0.5767,20778,0.1737
+Florida Gulf Coast University,FL,13788,0.7439,17054,0.5853
+University of Connecticut-Waterbury Campus,CT,751,0.9791,20033,0.5992
+University of Connecticut-Avery Point,CT,480,0.9742,20905,0.5893
+University of Connecticut-Stamford,CT,2246,0.9218,25463,0.6356
+The King's University,TX,255,0.9375,27335,0.52
+Pacific Islands University,GU,68,0.6889,13226,0.2222
+Oregon State University-Cascades Campus,OR,1040,0.7902,25731,0.5833
+Nevada State College,NV,4581,0.8248,21983,0.3246
+California State University-Channel Islands,CA,5717,0.8965,23676,0.5668
+Franklin W Olin College of Engineering,MA,356,0.1914,79024,0.9367
+Family of Faith Christian University,OK,33,0.7143,13632,0.25
+DigiPen Institute of Technology,WA,1058,0.6637,48239,0.601
+Beis Medrash Heichal Dovid,NY,145,0.5783,19900,0.4103
+University of California-Merced,CA,8343,0.8946,36949,0.6745
+Neumont College of Computer Science,UT,517,0.8755,38822,0.5922
+Ave Maria University,FL,1230,0.4421,41590,0.5038
+Los Angeles College of Music,CA,239,0.8283,48155,0.3488
+Harrisburg University of Science and Technology,PA,629,0.8431,34051,0.3182
+Georgia Gwinnett College,GA,10451,0.9364,17493,0.1966
+SUM Bible College and Theological Seminary,CA,416,0.835,26270,0.4386
+Bais Medrash Toras Chesed,NJ,110,0.7051,12500,0.44
+University of the West,CA,59,0.7826,27218,0.2
+Yeshivas Be'er Yitzchok,NJ,59,0.8889,30150,0.2
+Yeshiva Toras Chaim,NJ,213,0.59,21110,0.1818
+Talmudical Seminary of Bobov,NY,459,0.9189,18000,0.2692
+The King's College,NY,290,0.4527,58199,0.5625
+Chamberlain University-Illinois,IL,11535,0.9091,34822,0.375
+Chamberlain University-Ohio,OH,537,0.7857,40545,0.1111
+Yeshiva of Machzikai Hadas,NY,431,0.7174,29350,0.6585
+Providence Christian College,CA,136,0.8712,50947,0.3559
+University of Minnesota-Rochester,MN,617,0.717,26219,0.5862
+Compass College of Film and Media,MI,50,1,27547,0.7045
+Herzing University-Kenosha,WI,626,0.9348,27329,0.25
+Herzing University-Brookfield,WI,390,0.9508,27517,0.6
+Texas A&M University-San Antonio,TX,6404,0.9609,22127,0.314
+Chamberlain University-Virginia,VA,663,0.5,39462,1
+Manna University,NC,180,1,13882,0.75
+Simmons College of Kentucky,KY,212,0.6713,28538,0.2857
+John Paul the Great Catholic University,CA,300,0.7959,47306,0.7297
+University of Connecticut-Hartford Campus,CT,1500,0.973,23005,0.6219
+Chamberlain University-Missouri,MO,375,0.7143,36209,0.25
+Chamberlain University-Texas,TX,2167,0.8571,35342,0.75
+Criswell College,TX,121,1,24744,0.7
+Chamberlain University-Georgia,GA,1420,0.6842,37943,1
+Chamberlain University-Indiana,IN,202,1,40545,1
+Bais HaMedrash and Mesivta of Baltimore,MD,86,1,22800,0.85
+Pennsylvania State University-World Campus,PA,7798,0.8168,25935,0.3628
+California Miramar University,CA,99,0.2241,15394,0.3
+Yeshiva Gedolah Kesser Torah,NY,79,0.5227,19300,0.4211
+Yeshiva Yesodei Hatorah,NJ,67,0.9259,18586,0.0526
+Augusta University,GA,5098,0.8553,21924,0.5013
+Middle Georgia State University,GA,6589,0.9971,19127,0.2382
+Veritas Baptist College,IN,123,1,12876,0.4
+DeVry College of New York,NY,423,0.2667,40652,0.2143
+DeVry University-California,CA,1582,0.4011,37922,0.0893
+DeVry University-Florida,FL,281,0.3333,36277,0.1538
+DeVry University-Georgia,GA,508,0.5,36036,0.1
+DeVry University-Ohio,OH,218,0.5,35193,0.2353
+DeVry University-Virginia,VA,59,0.3333,40652,0.1429
+University of North Georgia,GA,15815,0.6963,17892,0.3856
+Florida Polytechnic University,FL,1517,0.5603,20179,0.4728
+Antioch College,OH,127,0.8295,49593,0.25
+University of Florida-Online,FL,4650,0.6464,17518,0.7871
+University of North Texas at Dallas,TX,2923,0.9361,20965,0.4397
+American College of the Building Arts,SC,141,0.7667,36067,0.5333
+Bet Medrash Gadol Ateret Torah,NY,91,0.9211,16000,0.375
+Yeshiva Ohr Yisrael,NY,23,1,17800,1
+Yeshiva Sholom Shachna,NY,117,1,19450,0.381
+Beth Medrash Meor Yitzchok,NY,189,0.56,22270,0.0377
+Bethany Global University,MN,222,0.9615,28738,0.7534
+Kennesaw State University,GA,38051,0.6785,24808,0.4642
+Milligan University,TN,726,0.6671,47587,0.634
+Chamberlain University-Nevada,NV,567,0.8182,43266,0.3333
+Chamberlain University-Michigan,MI,637,0.4,40545,1
+Hussian College-Los Angeles,CA,262,0.4767,63440,0.5102
+Arizona College of Nursing-Las Vegas,NV,1142,1,33698,0.75
+Husson University,ME,2338,0.9131,33378,0.599
+Chamberlain University-North Carolina,NC,268,0.5,40545,1
+Carolina University,NC,350,0.5202,27373,0.3214
+Westcliff University,CA,1817,0.6742,31538,0.4444
+Yeshiva Bais Aharon,NJ,12,0.6,15544,0.5714
+Purdue University Northwest,IN,6083,0.7282,15746,0.4435
+Yeshiva Kollel Tifereth Elizer,NY,292,0.8235,26124,0.1667
+Union Bible College,IN,92,0.8909,15001,0.5455
+Yeshiva Gedolah Tiferes Boruch,NJ,69,0.8636,15300,0.1538
+Women's Institute of Torah Seminary and College,MD,134,1,28455,1
+Yeshiva Gedolah of Cliffwood,NJ,64,0.5,15550,0.5714
+Yeshivas Emek Hatorah,NJ,89,1,15150,0.3
+Yeshiva of Ocean,NY,40,0.64,14550,1
+Yeshivat Hechal Shemuel,NY,59,1,18180,1
+Urshan College,MO,467,0.8529,13598,0.5714
+Commonwealth University of Pennsylvania,PA,9778,0.9396,24881,0.5356
+Pennsylvania Western University,PA,9203,0.9362,25365,0.4813

@@ -1,0 +1,486 @@
+State,Type of Government,Name of Government,Government Function,Full-time Employees,Full-time Employees Data Flag,Full-time Payroll,Full-time Payroll Data Flag,Part-time Employees,Part-time Employees Data Flag,Part-time Payroll,Part-time Payroll Data Flag,Individual Unit ID,Census Region,County Name,FIPS State,FIPS County,Population/Enrollment/Function Code,Year of Population/Enrollment,School Level,Probability of Selection,Worksheet Code,New Individual Unit ID
+Delaware,State,Delaware,Total - All Government Employment Functions,21904,R,122169641,R,8374,R,16339560,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Financial Administration,764,R,2884250,R,16,R,27227,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Other Government Administration,553,R,2454917,R,78,R,125253,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Judicial and Legal,1765,R,9122233,R,61,R,154258,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Police Protection - Persons with Power of Arrest,805,R,7266327,R,0,R,0,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Police Protection - Other,265,R,1506607,R,12,R,49945,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Corrections,2620,R,13826290,R,48,R,100449,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Highways,1416,R,5679278,R,0,R,0,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Public Welfare,1537,R,5635749,R,98,R,227031,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Health,1837,R,7316757,R,158,R,374569,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Hospitals,758,R,2758880,R,43,R,96242,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Social Insurance Administration,259,R,899217,R,19,R,28620,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Solid Waste Management,121,C,552666,R,18,R,32701,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Parks and Recreation,345,R,1068329,R,53,X,83806,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Natural Resources,412,R,2139595,X,68,R,109808,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Transit,941,R,4762260,R,16,R,28692,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Education - Higher Education Instructional,1599,R,17095436,R,1253,R,2772079,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Education - Higher Education Other,4128,R,28319873,R,6129,R,11819399,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,Education - Other,337,R,2183633,R,31,R,45546,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,State,Delaware,All other and unallocable,1442,R,6697345,R,273,R,263936,R,08000000000000,Northeast,NA,10,NA,986809,20,NA,1,00,227523
+Delaware,County,Kent,Total - All Government Employment Functions,296,R,1573849,R,17,C,17000,C,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Financial Administration,46,R,253537,R,0,R,0,R,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Other Government Administration,46,C,203381,C,1,C,306,C,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Judicial and Legal,8,R,32455,R,0,R,0,R,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Health,47,R,339649,R,0,R,0,R,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Sewerage,69,R,365106,R,1,R,797,R,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Parks and Recreation,17,R,79608,R,8,C,9006,C,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Housing and Community Development,3,R,14058,R,0,R,0,R,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,Libraries,5,R,21990,R,7,R,6891,R,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,Kent,All other and unallocable,55,C,264064,C,0,C,0,C,08100100100000,Northeast,Kent,10,001,183643,20,NA,1,04,124143
+Delaware,County,New Castle,Total - All Government Employment Functions,1456,R,9525685,C,472,R,569337,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Financial Administration,92,C,634768,C,9,R,7920,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Other Government Administration,232,R,1438152,R,24,C,24366,C,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Judicial and Legal,46,C,232596,C,4,R,14106,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Police Protection - Persons with Power of Arrest,353,R,2858736,C,0,R,0,C,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Police Protection - Other,179,R,1263212,R,129,R,192197,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Public Welfare,1,R,4142,R,23,R,9217,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Health,123,R,754063,R,2,R,5159,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Sewerage,185,R,1109013,R,3,C,761,C,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Parks and Recreation,82,R,441272,R,49,R,68475,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Housing and Community Development,24,R,144345,R,1,X,718,X,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,Libraries,82,R,413090,R,227,R,244701,R,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,New Castle,All other and unallocable,57,R,232299,R,1,C,1716,C,08100200200000,Northeast,New Castle,10,003,561531,20,NA,1,04,101811
+Delaware,County,Sussex,Total - All Government Employment Functions,513,T,2470618,R,44,R,51313,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Financial Administration,85,R,378410,R,1,R,1034,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Other Government Administration,58,R,256144,R,14,R,13620,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Judicial and Legal,12,R,50045,R,1,R,2174,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Fire Protection - Firefighters,45,C,196952,C,1,C,2046,C,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Highways,15,T,89947,T,1,C,1483,C,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Air Transportation,2,R,11528,R,0,R,0,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Health,114,R,739771,R,0,R,0,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Sewerage,120,T,516719,T,4,R,6780,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Housing and Community Development,6,R,26678,R,0,R,0,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,Libraries,27,R,96062,R,20,R,19302,R,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,County,Sussex,All other and unallocable,29,C,108363,C,2,C,4874,C,08100300300000,Northeast,Sussex,10,005,241635,20,NA,1,04,193140
+Delaware,Municipality,Camden,Total - All Government Employment Functions,15,R,89052,R,1,R,636,R,08200100200000,Northeast,Kent,10,001,3640,20,NA,1,04,124144
+Delaware,Municipality,Camden,Financial Administration,1,R,3882,R,0,R,0,R,08200100200000,Northeast,Kent,10,001,3640,20,NA,1,04,124144
+Delaware,Municipality,Camden,Other Government Administration,2,R,8627,R,1,R,636,R,08200100200000,Northeast,Kent,10,001,3640,20,NA,1,04,124144
+Delaware,Municipality,Camden,Police Protection - Persons with Power of Arrest,9,R,64574,R,0,R,0,R,08200100200000,Northeast,Kent,10,001,3640,20,NA,1,04,124144
+Delaware,Municipality,Camden,Police Protection - Other,1,R,4735,R,0,R,0,R,08200100200000,Northeast,Kent,10,001,3640,20,NA,1,04,124144
+Delaware,Municipality,Camden,Highways,2,R,7234,R,0,R,0,R,08200100200000,Northeast,Kent,10,001,3640,20,NA,1,04,124144
+Delaware,Municipality,Cheswold,Total - All Government Employment Functions,3,G,11266,G,0,G,0,G,08200100300000,Northeast,Kent,10,001,1759,20,NA,1,04,207644
+Delaware,Municipality,Cheswold,Other Government Administration,1,G,3677,G,0,G,0,G,08200100300000,Northeast,Kent,10,001,1759,20,NA,1,04,207644
+Delaware,Municipality,Cheswold,Police Protection - Persons with Power of Arrest,2,G,7589,G,0,G,0,G,08200100300000,Northeast,Kent,10,001,1759,20,NA,1,04,207644
+Delaware,Municipality,Clayton,Total - All Government Employment Functions,21,R,133457,R,3,C,2423,R,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Clayton,Other Government Administration,4,R,20418,R,0,R,0,R,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Clayton,Police Protection - Persons with Power of Arrest,9,R,74180,R,1,R,543,R,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Clayton,Police Protection - Other,1,R,4239,R,1,C,221,C,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Clayton,Sewerage,2,R,7695,R,0,R,0,R,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Clayton,Water Supply,2,R,13213,R,0,R,0,R,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Clayton,Electric Power,2,R,10007,R,0,R,0,R,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Clayton,All other and unallocable,1,R,3705,R,1,R,1659,R,08200100400000,Northeast,Kent,10,001,3630,20,NA,1,04,161521
+Delaware,Municipality,Dover,Total - All Government Employment Functions,316,G,2081001,G,33,G,24199,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Financial Administration,33,G,171822,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Other Government Administration,41,G,234267,G,12,G,2036,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Police Protection - Persons with Power of Arrest,93,G,880325,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Police Protection - Other,32,G,154384,G,2,G,1397,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Fire Protection - Other,3,G,14736,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Highways,27,G,121753,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Health,0,G,0,G,4,G,3512,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Solid Waste Management,9,G,35426,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Sewerage,6,G,24791,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Parks and Recreation,9,G,45880,G,3,G,2978,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Water Supply,18,G,88038,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Electric Power,34,G,256572,G,0,G,0,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Dover,Libraries,11,G,53008,G,12,G,14276,G,08200100500000,Northeast,Kent,10,001,38199,20,NA,1,04,207645
+Delaware,Municipality,Felton,Total - All Government Employment Functions,8,R,36261,R,4,R,645,R,08200100700000,Northeast,Kent,10,001,1432,20,NA,1,04,124145
+Delaware,Municipality,Felton,Financial Administration,2,R,8788,R,0,R,0,R,08200100700000,Northeast,Kent,10,001,1432,20,NA,1,04,124145
+Delaware,Municipality,Felton,Other Government Administration,0,R,0,R,4,R,645,R,08200100700000,Northeast,Kent,10,001,1432,20,NA,1,04,124145
+Delaware,Municipality,Felton,Police Protection - Persons with Power of Arrest,4,R,20502,R,0,R,0,R,08200100700000,Northeast,Kent,10,001,1432,20,NA,1,04,124145
+Delaware,Municipality,Felton,Water Supply,2,R,6971,R,0,R,0,R,08200100700000,Northeast,Kent,10,001,1432,20,NA,1,04,124145
+Delaware,Municipality,Frederica,Total - All Government Employment Functions,2,R,5909,R,4,R,5514,R,08200100800000,Northeast,Kent,10,001,859,20,NA,1,05,161522
+Delaware,Municipality,Frederica,Other Government Administration,1,C,1477,C,1,C,450,C,08200100800000,Northeast,Kent,10,001,859,20,NA,1,05,161522
+Delaware,Municipality,Frederica,Police Protection - Persons with Power of Arrest,0,R,0,R,2,R,3074,R,08200100800000,Northeast,Kent,10,001,859,20,NA,1,05,161522
+Delaware,Municipality,Frederica,Water Supply,1,R,4431,R,1,R,1989,R,08200100800000,Northeast,Kent,10,001,859,20,NA,1,05,161522
+Delaware,Municipality,Harrington,Total - All Government Employment Functions,32,G,152532,G,26,G,23137,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Financial Administration,2,G,9827,G,2,G,2606,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Other Government Administration,5,G,23542,G,8,G,4362,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Police Protection - Persons with Power of Arrest,13,G,88118,G,0,G,0,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Police Protection - Other,1,G,4632,G,0,G,0,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Fire Protection - Other,2,G,7828,G,0,G,0,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Highways,5,G,4886,G,0,G,0,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Sewerage,0,G,0,G,7,G,7520,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Parks and Recreation,2,G,6047,G,0,G,0,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Water Supply,0,G,0,G,7,G,6043,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Harrington,Libraries,2,G,7653,G,2,G,2606,G,08200100900000,Northeast,Kent,10,001,3663,20,NA,1,04,161523
+Delaware,Municipality,Kenton,Total - All Government Employment Functions,0,C,0,C,3,C,2873,C,08200101200000,Northeast,Kent,10,001,275,20,NA,1,05,193141
+Delaware,Municipality,Kenton,Other Government Administration,0,C,0,C,1,C,664,C,08200101200000,Northeast,Kent,10,001,275,20,NA,1,05,193141
+Delaware,Municipality,Kenton,Police Protection - Other,0,C,0,C,2,C,2208,C,08200101200000,Northeast,Kent,10,001,275,20,NA,1,05,193141
+Delaware,Municipality,Magnolia,Total - All Government Employment Functions,0,R,0,R,3,R,2713,R,08200101500000,Northeast,Kent,10,001,293,20,NA,1,05,207646
+Delaware,Municipality,Magnolia,Other Government Administration,0,C,0,C,1,C,713,C,08200101500000,Northeast,Kent,10,001,293,20,NA,1,05,207646
+Delaware,Municipality,Magnolia,Water Supply,0,R,0,R,2,R,2000,R,08200101500000,Northeast,Kent,10,001,293,20,NA,1,05,207646
+Delaware,Municipality,Smyrna,Total - All Government Employment Functions,106,R,577985,R,19,R,9263,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Financial Administration,20,R,109747,R,7,R,399,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Police Protection - Persons with Power of Arrest,30,R,208863,R,0,R,0,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Police Protection - Other,12,R,47962,R,6,C,1352,C,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Highways,19,R,80040,R,0,R,0,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Parks and Recreation,2,R,8765,R,0,R,0,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Water Supply,3,R,21320,R,0,R,0,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Electric Power,10,R,61489,R,0,R,0,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,Libraries,2,R,6978,R,6,R,7512,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Smyrna,All other and unallocable,8,R,32822,R,0,R,0,R,08200101600000,Northeast,Kent,10,001,12163,20,NA,1,04,161525
+Delaware,Municipality,Viola,Total - All Government Employment Functions,0,G,0,G,1,G,2073,G,08200101700000,Northeast,Kent,10,001,167,20,NA,1,05,101814
+Delaware,Municipality,Viola,Police Protection - Persons with Power of Arrest,0,G,0,G,1,G,2073,G,08200101700000,Northeast,Kent,10,001,167,20,NA,1,05,101814
+Delaware,Municipality,Woodside,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,08200101800000,Northeast,Kent,10,001,197,20,NA,1,05,161526
+Delaware,Municipality,Woodside,All other and unallocable,0,G,0,G,0,G,0,G,08200101800000,Northeast,Kent,10,001,197,20,NA,1,05,161526
+Delaware,Municipality,Wyoming,Total - All Government Employment Functions,7,R,31270,R,0,R,0,R,08200101900000,Northeast,Kent,10,001,1657,20,NA,1,04,161527
+Delaware,Municipality,Wyoming,Financial Administration,1,R,4074,R,0,R,0,R,08200101900000,Northeast,Kent,10,001,1657,20,NA,1,04,161527
+Delaware,Municipality,Wyoming,Other Government Administration,2,R,5491,R,0,R,0,R,08200101900000,Northeast,Kent,10,001,1657,20,NA,1,04,161527
+Delaware,Municipality,Wyoming,Police Protection - Persons with Power of Arrest,3,R,17610,R,0,R,0,R,08200101900000,Northeast,Kent,10,001,1657,20,NA,1,04,161527
+Delaware,Municipality,Wyoming,Highways,1,R,4094,R,0,R,0,R,08200101900000,Northeast,Kent,10,001,1657,20,NA,1,04,161527
+Delaware,Municipality,Bellefonte,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,08200200100000,Northeast,New Castle,10,003,1166,20,NA,1,04,124147
+Delaware,Municipality,Bellefonte,All other and unallocable,0,R,0,R,0,R,0,R,08200200100000,Northeast,New Castle,10,003,1166,20,NA,1,04,124147
+Delaware,Municipality,Delaware City,Total - All Government Employment Functions,5,G,32266,G,15,G,10259,G,08200200200000,Northeast,New Castle,10,003,1845,20,NA,1,04,207647
+Delaware,Municipality,Delaware City,Financial Administration,1,G,5490,G,0,G,0,G,08200200200000,Northeast,New Castle,10,003,1845,20,NA,1,04,207647
+Delaware,Municipality,Delaware City,Other Government Administration,2,G,13719,G,12,G,3120,G,08200200200000,Northeast,New Castle,10,003,1845,20,NA,1,04,207647
+Delaware,Municipality,Delaware City,Police Protection - Persons with Power of Arrest,2,G,13057,G,1,G,2940,G,08200200200000,Northeast,New Castle,10,003,1845,20,NA,1,04,207647
+Delaware,Municipality,Delaware City,Police Protection - Other,0,G,0,G,1,G,3117,G,08200200200000,Northeast,New Castle,10,003,1845,20,NA,1,04,207647
+Delaware,Municipality,Delaware City,All other and unallocable,0,G,0,G,1,G,1082,G,08200200200000,Northeast,New Castle,10,003,1845,20,NA,1,04,207647
+Delaware,Municipality,Elsmere,Total - All Government Employment Functions,25,R,141471,R,1,R,1688,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Elsmere,Financial Administration,3,R,14848,R,0,R,0,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Elsmere,Other Government Administration,4,R,22927,R,0,R,0,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Elsmere,Police Protection - Persons with Power of Arrest,12,R,78872,R,1,R,1688,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Elsmere,Police Protection - Other,1,R,4994,R,0,R,0,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Elsmere,Highways,2,R,8882,R,0,R,0,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Elsmere,Parks and Recreation,1,R,3048,R,0,R,0,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Elsmere,All other and unallocable,2,R,7901,R,0,R,0,R,08200200300000,Northeast,New Castle,10,003,5761,20,NA,1,04,161528
+Delaware,Municipality,Middletown,Total - All Government Employment Functions,148,R,833203,R,3,R,4372,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Financial Administration,16,R,85299,R,1,R,1949,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Other Government Administration,16,R,71578,R,1,C,369,C,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Police Protection - Persons with Power of Arrest,40,R,290138,R,0,R,0,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Police Protection - Other,6,R,27001,R,0,R,0,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Highways,18,R,65729,R,0,R,0,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Solid Waste Management,2,R,7768,R,0,R,0,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Sewerage,6,R,30398,R,0,R,0,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Water Supply,5,R,32373,R,0,R,0,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,Electric Power,15,R,102734,R,0,R,0,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Middletown,All other and unallocable,24,R,120187,R,1,R,2055,R,08200200400000,Northeast,New Castle,10,003,23765,20,NA,1,04,194930
+Delaware,Municipality,Newark,Total - All Government Employment Functions,238,R,1701534,R,84,R,103549,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Financial Administration,18,R,133027,R,1,R,2922,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Other Government Administration,12,R,90377,R,9,R,9480,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Judicial and Legal,3,R,16387,R,6,R,14784,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Police Protection - Persons with Power of Arrest,68,R,577837,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Police Protection - Other,17,R,104598,R,3,R,9910,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Fire Protection - Other,1,R,4800,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Highways,18,R,118463,R,1,C,387,C,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Health,1,R,6867,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Solid Waste Management,9,R,45840,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Sewerage,7,R,34580,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Parks and Recreation,14,R,90164,R,39,R,23355,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Housing and Community Development,2,R,11387,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Natural Resources,1,R,7758,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Water Supply,16,R,100828,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,Electric Power,18,R,170274,R,0,R,0,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,Newark,All other and unallocable,33,R,188347,R,25,R,42711,R,08200200500000,Northeast,New Castle,10,003,33849,20,NA,1,04,101815
+Delaware,Municipality,New Castle,Total - All Government Employment Functions,54,R,325554,R,10,T,7450,T,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,Financial Administration,2,R,8919,R,0,R,0,R,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,Other Government Administration,4,T,21791,T,8,T,6900,T,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,Police Protection - Persons with Power of Arrest,17,R,107444,R,0,R,0,R,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,Police Protection - Other,1,R,4125,R,0,R,0,R,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,Solid Waste Management,10,R,34215,R,0,R,0,R,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,Water Supply,7,R,55677,R,0,R,0,R,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,Electric Power,6,R,49847,R,0,R,0,R,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,New Castle,All other and unallocable,7,R,43536,R,2,R,550,R,08200200600000,Northeast,New Castle,10,003,5394,20,NA,1,04,207648
+Delaware,Municipality,Newport,Total - All Government Employment Functions,12,G,76730,G,2,G,2987,G,08200200700000,Northeast,New Castle,10,003,874,20,NA,1,04,193142
+Delaware,Municipality,Newport,Other Government Administration,1,G,7834,G,1,G,1346,G,08200200700000,Northeast,New Castle,10,003,874,20,NA,1,04,193142
+Delaware,Municipality,Newport,Police Protection - Persons with Power of Arrest,9,G,58442,G,0,G,0,G,08200200700000,Northeast,New Castle,10,003,874,20,NA,1,04,193142
+Delaware,Municipality,Newport,Police Protection - Other,0,G,0,G,1,G,1641,G,08200200700000,Northeast,New Castle,10,003,874,20,NA,1,04,193142
+Delaware,Municipality,Newport,Highways,2,G,10454,G,0,G,0,G,08200200700000,Northeast,New Castle,10,003,874,20,NA,1,04,193142
+Delaware,Municipality,Odessa,Total - All Government Employment Functions,0,C,0,C,2,C,1887,C,08200200800000,Northeast,New Castle,10,003,354,20,NA,1,05,124148
+Delaware,Municipality,Odessa,Financial Administration,0,R,0,R,1,R,163,R,08200200800000,Northeast,New Castle,10,003,354,20,NA,1,05,124148
+Delaware,Municipality,Odessa,Other Government Administration,0,C,0,C,1,C,1724,C,08200200800000,Northeast,New Castle,10,003,354,20,NA,1,05,124148
+Delaware,Municipality,Wilmington,Total - All Government Employment Functions,1093,R,6726900,R,125,R,145837,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Financial Administration,109,R,611246,R,0,R,0,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Other Government Administration,89,R,532232,R,9,C,6117,C,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Judicial and Legal,17,R,121770,R,0,R,0,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Police Protection - Persons with Power of Arrest,312,R,2570674,R,0,R,0,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Police Protection - Other,53,R,241856,R,32,R,43264,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Fire Protection - Firefighters,154,R,1030561,R,0,R,0,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Fire Protection - Other,4,R,18652,R,0,R,0,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Highways,43,R,148330,R,0,R,0,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Solid Waste Management,58,R,241067,R,1,R,1594,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Parks and Recreation,41,R,183261,R,55,R,69072,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Housing and Community Development,56,R,312909,R,1,C,2243,C,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,Water Supply,86,R,434308,R,0,R,0,R,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Wilmington,All other and unallocable,71,R,280034,R,27,G,23546,G,08200200900000,Northeast,New Castle,10,003,70376,20,NA,1,04,161529
+Delaware,Municipality,Townsend,Total - All Government Employment Functions,9,G,35364,G,1,G,69,G,08200250100000,Northeast,New Castle,10,003,2764,20,NA,1,04,161530
+Delaware,Municipality,Townsend,Financial Administration,3,G,15876,G,1,G,69,G,08200250100000,Northeast,New Castle,10,003,2764,20,NA,1,04,161530
+Delaware,Municipality,Townsend,Other Government Administration,5,G,15952,G,0,G,0,G,08200250100000,Northeast,New Castle,10,003,2764,20,NA,1,04,161530
+Delaware,Municipality,Townsend,Parks and Recreation,1,G,3536,G,0,G,0,G,08200250100000,Northeast,New Castle,10,003,2764,20,NA,1,04,161530
+Delaware,Municipality,Arden,Total - All Government Employment Functions,0,R,0,R,6,R,3158,R,08200280100000,Northeast,New Castle,10,003,436,20,NA,1,05,124149
+Delaware,Municipality,Arden,Financial Administration,0,R,0,R,2,R,930,R,08200280100000,Northeast,New Castle,10,003,436,20,NA,1,05,124149
+Delaware,Municipality,Arden,Other Government Administration,0,R,0,R,1,R,488,R,08200280100000,Northeast,New Castle,10,003,436,20,NA,1,05,124149
+Delaware,Municipality,Arden,All other and unallocable,0,R,0,R,3,R,1740,R,08200280100000,Northeast,New Castle,10,003,436,20,NA,1,05,124149
+Delaware,Municipality,Ardentown,Total - All Government Employment Functions,0,G,0,G,4,G,213,G,08200290100000,Northeast,New Castle,10,003,274,20,NA,1,05,101817
+Delaware,Municipality,Ardentown,Financial Administration,0,G,0,G,1,G,43,G,08200290100000,Northeast,New Castle,10,003,274,20,NA,1,05,101817
+Delaware,Municipality,Ardentown,Other Government Administration,0,G,0,G,3,G,171,G,08200290100000,Northeast,New Castle,10,003,274,20,NA,1,05,101817
+Delaware,Municipality,Bethany Beach,Total - All Government Employment Functions,42,R,261235,R,5,R,5116,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Financial Administration,4,R,24545,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Other Government Administration,3,R,26722,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Judicial and Legal,0,R,0,R,1,R,1440,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Police Protection - Persons with Power of Arrest,10,R,95480,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Police Protection - Other,1,R,4643,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Highways,5,R,22947,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Solid Waste Management,6,R,25522,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Parks and Recreation,3,R,11169,R,4,R,3676,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Natural Resources,1,C,7918,C,0,C,0,C,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,Water Supply,3,R,16523,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethany Beach,All other and unallocable,6,R,25765,R,0,R,0,R,08200300100000,Northeast,Sussex,10,005,1283,20,NA,1,04,161532
+Delaware,Municipality,Bethel,Total - All Government Employment Functions,0,C,0,C,1,C,658,C,08200300200000,Northeast,Sussex,10,005,211,20,NA,1,05,124150
+Delaware,Municipality,Bethel,Other Government Administration,0,C,0,C,1,C,658,C,08200300200000,Northeast,Sussex,10,005,211,20,NA,1,05,124150
+Delaware,Municipality,Blades,Total - All Government Employment Functions,7,R,28617,R,0,R,0,R,08200300300000,Northeast,Sussex,10,005,1498,20,NA,1,04,101818
+Delaware,Municipality,Blades,Other Government Administration,3,R,9291,R,0,R,0,R,08200300300000,Northeast,Sussex,10,005,1498,20,NA,1,04,101818
+Delaware,Municipality,Blades,Police Protection - Persons with Power of Arrest,2,R,14070,R,0,R,0,R,08200300300000,Northeast,Sussex,10,005,1498,20,NA,1,04,101818
+Delaware,Municipality,Blades,Water Supply,2,R,5256,R,0,R,0,R,08200300300000,Northeast,Sussex,10,005,1498,20,NA,1,04,101818
+Delaware,Municipality,Bridgeville,Total - All Government Employment Functions,14,R,72802,R,1,R,1046,R,08200300400000,Northeast,Sussex,10,005,2440,20,NA,1,04,161533
+Delaware,Municipality,Bridgeville,Financial Administration,1,R,4115,R,0,R,0,R,08200300400000,Northeast,Sussex,10,005,2440,20,NA,1,04,161533
+Delaware,Municipality,Bridgeville,Other Government Administration,2,R,10067,R,0,R,0,R,08200300400000,Northeast,Sussex,10,005,2440,20,NA,1,04,161533
+Delaware,Municipality,Bridgeville,Police Protection - Persons with Power of Arrest,8,R,44445,R,0,R,0,R,08200300400000,Northeast,Sussex,10,005,2440,20,NA,1,04,161533
+Delaware,Municipality,Bridgeville,Police Protection - Other,0,R,0,R,1,R,1046,R,08200300400000,Northeast,Sussex,10,005,2440,20,NA,1,04,161533
+Delaware,Municipality,Bridgeville,Highways,1,R,5480,R,0,R,0,R,08200300400000,Northeast,Sussex,10,005,2440,20,NA,1,04,161533
+Delaware,Municipality,Bridgeville,Water Supply,2,R,8694,R,0,R,0,R,08200300400000,Northeast,Sussex,10,005,2440,20,NA,1,04,161533
+Delaware,Municipality,Dagsboro,Total - All Government Employment Functions,6,R,31278,R,2,R,3847,R,08200300500000,Northeast,Sussex,10,005,955,20,NA,1,05,161534
+Delaware,Municipality,Dagsboro,Other Government Administration,2,R,8005,R,2,R,3847,R,08200300500000,Northeast,Sussex,10,005,955,20,NA,1,05,161534
+Delaware,Municipality,Dagsboro,Police Protection - Persons with Power of Arrest,4,R,23272,R,0,R,0,R,08200300500000,Northeast,Sussex,10,005,955,20,NA,1,05,161534
+Delaware,Municipality,Ellendale,Total - All Government Employment Functions,1,R,3144,R,2,R,1948,R,08200300700000,Northeast,Sussex,10,005,448,20,NA,1,05,124151
+Delaware,Municipality,Ellendale,Other Government Administration,0,C,0,C,1,C,204,C,08200300700000,Northeast,Sussex,10,005,448,20,NA,1,05,124151
+Delaware,Municipality,Ellendale,Police Protection - Persons with Power of Arrest,1,R,3144,R,0,R,0,R,08200300700000,Northeast,Sussex,10,005,448,20,NA,1,05,124151
+Delaware,Municipality,Ellendale,Highways,0,R,0,R,1,R,1744,R,08200300700000,Northeast,Sussex,10,005,448,20,NA,1,05,124151
+Delaware,Municipality,Frankford,Total - All Government Employment Functions,6,C,32612,C,6,C,5665,C,08200300800000,Northeast,Sussex,10,005,1020,20,NA,1,05,101819
+Delaware,Municipality,Frankford,Financial Administration,3,C,8270,C,3,C,2832,C,08200300800000,Northeast,Sussex,10,005,1020,20,NA,1,05,101819
+Delaware,Municipality,Frankford,Other Government Administration,1,C,7344,C,0,C,0,C,08200300800000,Northeast,Sussex,10,005,1020,20,NA,1,05,101819
+Delaware,Municipality,Frankford,Police Protection - Persons with Power of Arrest,1,C,10576,C,3,C,2832,C,08200300800000,Northeast,Sussex,10,005,1020,20,NA,1,05,101819
+Delaware,Municipality,Frankford,Parks and Recreation,1,C,6422,C,0,C,0,C,08200300800000,Northeast,Sussex,10,005,1020,20,NA,1,05,101819
+Delaware,Municipality,Georgetown,Total - All Government Employment Functions,45,G,268836,G,1,G,1683,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,Financial Administration,4,G,19486,G,0,G,0,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,Other Government Administration,3,G,22829,G,0,G,0,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,Police Protection - Persons with Power of Arrest,21,G,145381,G,0,G,0,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,Police Protection - Other,3,G,13339,G,0,G,0,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,Highways,7,G,35238,G,0,G,0,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,Sewerage,5,G,23015,G,0,G,0,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,Water Supply,2,G,9548,G,0,G,0,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Georgetown,All other and unallocable,0,G,0,G,1,G,1683,G,08200300900000,Northeast,Sussex,10,005,7797,20,NA,1,04,183874
+Delaware,Municipality,Greenwood,Total - All Government Employment Functions,3,T,17924,T,5,T,5951,T,08200301000000,Northeast,Sussex,10,005,1175,20,NA,1,04,161536
+Delaware,Municipality,Greenwood,Other Government Administration,1,T,8843,T,3,T,3150,T,08200301000000,Northeast,Sussex,10,005,1175,20,NA,1,04,161536
+Delaware,Municipality,Greenwood,Police Protection - Persons with Power of Arrest,1,T,4752,T,1,T,1236,T,08200301000000,Northeast,Sussex,10,005,1175,20,NA,1,04,161536
+Delaware,Municipality,Greenwood,Water Supply,1,T,4329,T,1,T,1565,T,08200301000000,Northeast,Sussex,10,005,1175,20,NA,1,04,161536
+Delaware,Municipality,Laurel,Total - All Government Employment Functions,35,R,183489,R,13,R,23398,X,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Financial Administration,3,R,13024,R,0,R,0,R,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Other Government Administration,3,R,17254,R,9,R,15914,X,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Judicial and Legal,2,R,7201,R,1,R,651,R,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Police Protection - Persons with Power of Arrest,18,R,101879,R,2,R,4827,R,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Police Protection - Other,1,R,3773,R,0,R,0,R,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Highways,3,R,17697,R,1,R,2006,R,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Sewerage,3,R,14880,R,0,R,0,R,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Laurel,Water Supply,2,R,7781,R,0,R,0,R,08200301100000,Northeast,Sussex,10,005,4511,20,NA,1,04,189795
+Delaware,Municipality,Lewes,Total - All Government Employment Functions,42,C,194923,R,27,C,33239,C,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Financial Administration,6,R,27007,R,2,R,726,R,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Other Government Administration,0,C,0,C,9,C,7570,C,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Police Protection - Persons with Power of Arrest,14,C,35109,C,0,C,0,C,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Police Protection - Other,0,R,0,C,3,R,2607,C,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Highways,0,C,0,C,13,C,22336,C,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Parks and Recreation,1,C,4025,C,0,C,0,C,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Housing and Community Development,1,R,7953,R,0,R,0,R,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Water Supply,5,R,24517,R,0,R,0,R,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,Electric Power,4,R,32836,R,0,R,0,R,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Lewes,All other and unallocable,11,R,63477,R,0,R,0,R,08200301200000,Northeast,Sussex,10,005,3417,20,NA,1,04,161537
+Delaware,Municipality,Milford,Total - All Government Employment Functions,119,C,678645,C,28,C,10710,C,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Financial Administration,16,R,87584,R,0,R,0,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Other Government Administration,6,R,43495,R,19,C,5936,C,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Police Protection - Persons with Power of Arrest,35,C,205405,C,0,C,0,C,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Police Protection - Other,12,R,59202,R,3,R,2123,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Highways,5,R,26867,R,0,R,0,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Solid Waste Management,3,R,12090,R,0,R,0,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Sewerage,3,R,16708,R,0,R,0,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Parks and Recreation,7,R,36167,R,6,R,2652,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Water Supply,3,R,16708,R,0,R,0,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,Electric Power,10,R,73500,R,0,R,0,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Milford,All other and unallocable,19,R,100918,R,0,R,0,R,08200301300000,Northeast,Sussex,10,005,12278,20,NA,1,04,161538
+Delaware,Municipality,Millsboro,Total - All Government Employment Functions,40,R,209762,R,13,R,914,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millsboro,Financial Administration,4,R,18790,R,0,R,0,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millsboro,Other Government Administration,5,R,38955,R,12,R,228,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millsboro,Police Protection - Persons with Power of Arrest,20,R,105159,R,0,R,0,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millsboro,Police Protection - Other,2,R,7559,R,0,R,0,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millsboro,Highways,1,R,2286,R,1,R,686,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millsboro,Sewerage,5,R,26724,R,0,R,0,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millsboro,Water Supply,3,R,10288,R,0,R,0,R,08200301400000,Northeast,Sussex,10,005,4665,20,NA,1,04,101820
+Delaware,Municipality,Millville,Total - All Government Employment Functions,6,R,31888,R,18,R,14455,X,08200301500000,Northeast,Sussex,10,005,652,20,NA,1,05,124152
+Delaware,Municipality,Millville,Financial Administration,1,R,6475,R,2,R,4785,R,08200301500000,Northeast,Sussex,10,005,652,20,NA,1,05,124152
+Delaware,Municipality,Millville,Other Government Administration,5,R,25413,R,15,R,8744,X,08200301500000,Northeast,Sussex,10,005,652,20,NA,1,05,124152
+Delaware,Municipality,Millville,Parks and Recreation,0,R,0,X,1,R,927,X,08200301500000,Northeast,Sussex,10,005,652,20,NA,1,05,124152
+Delaware,Municipality,Milton,Total - All Government Employment Functions,40,G,180896,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Financial Administration,20,G,92103,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Other Government Administration,4,G,21496,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Police Protection - Persons with Power of Arrest,7,G,41939,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Police Protection - Other,1,G,3295,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Highways,1,G,501,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Parks and Recreation,1,G,2670,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Housing and Community Development,2,G,8494,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Milton,Water Supply,4,G,10397,G,0,G,0,G,08200301600000,Northeast,Sussex,10,005,3129,20,NA,1,04,161539
+Delaware,Municipality,Ocean View,Total - All Government Employment Functions,26,R,161594,R,0,R,0,R,08200301700000,Northeast,Sussex,10,005,2245,20,NA,1,04,212958
+Delaware,Municipality,Ocean View,Financial Administration,3,R,14992,R,0,R,0,R,08200301700000,Northeast,Sussex,10,005,2245,20,NA,1,04,212958
+Delaware,Municipality,Ocean View,Other Government Administration,7,R,42571,R,0,R,0,R,08200301700000,Northeast,Sussex,10,005,2245,20,NA,1,04,212958
+Delaware,Municipality,Ocean View,Police Protection - Persons with Power of Arrest,13,R,89807,R,0,R,0,R,08200301700000,Northeast,Sussex,10,005,2245,20,NA,1,04,212958
+Delaware,Municipality,Ocean View,Police Protection - Other,1,R,5715,R,0,R,0,R,08200301700000,Northeast,Sussex,10,005,2245,20,NA,1,04,212958
+Delaware,Municipality,Ocean View,Highways,2,R,8510,R,0,R,0,R,08200301700000,Northeast,Sussex,10,005,2245,20,NA,1,04,212958
+Delaware,Municipality,Rehoboth Beach,Total - All Government Employment Functions,95,R,447985,R,24,R,26954,C,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Financial Administration,17,R,86058,R,1,C,71,C,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Other Government Administration,3,C,21614,C,8,R,496,R,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Judicial and Legal,1,R,4874,R,0,R,0,R,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Police Protection - Persons with Power of Arrest,20,R,132349,R,1,R,2175,R,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Solid Waste Management,17,C,31385,C,6,R,8857,R,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Sewerage,11,R,54091,R,0,R,0,R,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Parks and Recreation,2,C,10247,C,7,C,13448,C,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,Water Supply,8,R,36134,R,0,R,0,R,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Rehoboth Beach,All other and unallocable,16,C,71234,C,1,C,1907,C,08200301800000,Northeast,Sussex,10,005,1592,20,NA,1,04,124153
+Delaware,Municipality,Seaford,Total - All Government Employment Functions,83,R,433748,R,3,R,1749,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Financial Administration,12,R,55886,R,0,R,0,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Other Government Administration,5,R,29491,R,0,R,0,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Police Protection - Persons with Power of Arrest,29,R,168736,R,0,R,0,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Police Protection - Other,7,C,25411,C,1,C,693,C,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Highways,2,R,7498,R,0,R,0,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Sewerage,6,R,31530,R,0,R,0,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Parks and Recreation,6,R,25085,R,2,R,1056,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Water Supply,6,R,29121,R,0,R,0,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Seaford,Electric Power,10,R,60990,R,0,R,0,R,08200301900000,Northeast,Sussex,10,005,8246,20,NA,1,04,161540
+Delaware,Municipality,Selbyville,Total - All Government Employment Functions,25,R,146324,R,6,C,5527,C,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,Financial Administration,2,R,8322,R,0,R,0,R,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,Other Government Administration,3,R,13815,R,0,R,0,R,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,Police Protection - Persons with Power of Arrest,10,R,78515,R,4,C,4300,C,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,Police Protection - Other,1,R,4136,R,0,R,0,R,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,Highways,2,R,8011,R,0,R,0,R,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,Sewerage,6,R,27512,R,0,R,0,R,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,Water Supply,1,R,6012,R,0,R,0,R,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Selbyville,All other and unallocable,0,R,0,R,2,R,1227,R,08200302000000,Northeast,Sussex,10,005,2617,20,NA,1,04,161541
+Delaware,Municipality,Slaughter Beach,Total - All Government Employment Functions,0,R,0,R,7,C,1976,R,08200302100000,Northeast,Sussex,10,005,248,20,NA,1,05,184693
+Delaware,Municipality,Slaughter Beach,Other Government Administration,0,C,0,C,5,C,272,C,08200302100000,Northeast,Sussex,10,005,248,20,NA,1,05,184693
+Delaware,Municipality,Slaughter Beach,All other and unallocable,0,R,0,R,2,R,1704,R,08200302100000,Northeast,Sussex,10,005,248,20,NA,1,05,184693
+Delaware,Municipality,Fenwick Island,Total - All Government Employment Functions,14,R,79424,R,0,R,0,R,08200350100000,Northeast,Sussex,10,005,459,20,NA,1,05,161542
+Delaware,Municipality,Fenwick Island,Financial Administration,1,R,5175,R,0,R,0,R,08200350100000,Northeast,Sussex,10,005,459,20,NA,1,05,161542
+Delaware,Municipality,Fenwick Island,Other Government Administration,3,R,15721,R,0,R,0,R,08200350100000,Northeast,Sussex,10,005,459,20,NA,1,05,161542
+Delaware,Municipality,Fenwick Island,Police Protection - Persons with Power of Arrest,7,R,45884,R,0,R,0,R,08200350100000,Northeast,Sussex,10,005,459,20,NA,1,05,161542
+Delaware,Municipality,Fenwick Island,All other and unallocable,3,R,12644,R,0,R,0,R,08200350100000,Northeast,Sussex,10,005,459,20,NA,1,05,161542
+Delaware,Municipality,Dewey Beach,Total - All Government Employment Functions,21,R,107807,R,9,R,11163,R,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Dewey Beach,Financial Administration,1,R,7143,R,1,R,1887,R,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Dewey Beach,Other Government Administration,5,R,25915,R,1,R,403,R,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Dewey Beach,Judicial and Legal,0,R,0,R,3,R,2977,R,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Dewey Beach,Police Protection - Persons with Power of Arrest,10,R,55626,R,1,C,611,C,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Dewey Beach,Police Protection - Other,3,R,10578,R,2,R,4057,R,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Dewey Beach,Highways,1,R,4799,R,1,C,1227,C,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Dewey Beach,All other and unallocable,1,R,3746,R,0,R,0,R,08200360100000,Northeast,Sussex,10,005,411,20,NA,1,05,161543
+Delaware,Municipality,Henlopen Acres,Total - All Government Employment Functions,8,R,34277,R,7,R,7484,R,08200390100000,Northeast,Sussex,10,005,148,20,NA,1,05,124154
+Delaware,Municipality,Henlopen Acres,Other Government Administration,2,R,11497,R,1,R,1196,R,08200390100000,Northeast,Sussex,10,005,148,20,NA,1,05,124154
+Delaware,Municipality,Henlopen Acres,Police Protection - Other,2,R,7360,R,6,R,6289,R,08200390100000,Northeast,Sussex,10,005,148,20,NA,1,05,124154
+Delaware,Municipality,Henlopen Acres,Highways,4,R,15420,R,0,R,0,R,08200390100000,Northeast,Sussex,10,005,148,20,NA,1,05,124154
+Delaware,Municipality,South Bethany,Total - All Government Employment Functions,14,R,71808,R,1,R,1254,R,08200390200000,Northeast,Sussex,10,005,546,20,NA,1,05,101821
+Delaware,Municipality,South Bethany,Financial Administration,1,R,5389,R,0,R,0,R,08200390200000,Northeast,Sussex,10,005,546,20,NA,1,05,101821
+Delaware,Municipality,South Bethany,Other Government Administration,3,R,16159,R,0,R,0,R,08200390200000,Northeast,Sussex,10,005,546,20,NA,1,05,101821
+Delaware,Municipality,South Bethany,Police Protection - Persons with Power of Arrest,6,R,33783,R,1,R,1254,R,08200390200000,Northeast,Sussex,10,005,546,20,NA,1,05,101821
+Delaware,Municipality,South Bethany,Highways,2,R,7906,R,0,R,0,R,08200390200000,Northeast,Sussex,10,005,546,20,NA,1,05,101821
+Delaware,Municipality,South Bethany,All other and unallocable,2,R,8572,R,0,R,0,R,08200390200000,Northeast,Sussex,10,005,546,20,NA,1,05,101821
+Delaware,Special District,Delaware Municipal Electric Corporation,Total - All Government Employment Functions,4,G,46720,G,0,G,0,G,08400112300000,Northeast,Kent,10,001,92,NA,NA,1,03,213822
+Delaware,Special District,Delaware Municipal Electric Corporation,Electric Power,4,G,46720,G,0,G,0,G,08400112300000,Northeast,Kent,10,001,92,NA,NA,1,03,213822
+Delaware,Special District,Camden Wyoming Sewer And Water Authority,Total - All Government Employment Functions,10,R,44966,R,2,R,748,R,08400120100000,Northeast,Kent,10,001,98,NA,NA,1,07,192450
+Delaware,Special District,Camden Wyoming Sewer And Water Authority,Water Supply,4,R,17035,R,2,R,748,R,08400120100000,Northeast,Kent,10,001,98,NA,NA,1,07,192450
+Delaware,Special District,Camden Wyoming Sewer And Water Authority,All other and unallocable,6,R,27931,R,0,R,0,R,08400120100000,Northeast,Kent,10,001,98,NA,NA,1,07,192450
+Delaware,Special District,Dover Housing Authority,Total - All Government Employment Functions,13,G,48610,G,1,G,1424,G,08400170100000,Northeast,Kent,10,001,50,NA,NA,1,03,144318
+Delaware,Special District,Dover Housing Authority,Housing and Community Development,13,G,48610,G,1,G,1424,G,08400170100000,Northeast,Kent,10,001,50,NA,NA,1,03,144318
+Delaware,Special District,Wilmington Housing Authority,Total - All Government Employment Functions,92,R,480324,R,7,R,14606,R,08400200100000,Northeast,New Castle,10,003,50,NA,NA,1,03,101831
+Delaware,Special District,Wilmington Housing Authority,Housing and Community Development,92,R,480324,R,7,R,14606,R,08400200100000,Northeast,New Castle,10,003,50,NA,NA,1,03,101831
+Delaware,Special District,New Castle County Housing Auth,Total - All Government Employment Functions,10,G,43257,G,0,G,0,G,08400210100000,Northeast,New Castle,10,003,50,NA,NA,1,03,237969
+Delaware,Special District,New Castle County Housing Auth,Housing and Community Development,10,G,43257,G,0,G,0,G,08400210100000,Northeast,New Castle,10,003,50,NA,NA,1,03,237969
+Delaware,Special District,Corbit-Calloway Memorial Library,Total - All Government Employment Functions,2,R,9784,R,5,R,13923,R,08400230100000,Northeast,New Castle,10,003,52,NA,NA,1,03,137724
+Delaware,Special District,Corbit-Calloway Memorial Library,Libraries,2,R,9784,R,5,R,13923,R,08400230100000,Northeast,New Castle,10,003,52,NA,NA,1,03,137724
+Delaware,Special District,Delaware City Public Library,Total - All Government Employment Functions,2,G,13985,G,4,G,2520,G,08400230200000,Northeast,New Castle,10,003,52,NA,NA,1,03,144339
+Delaware,Special District,Delaware City Public Library,Libraries,2,G,13985,G,4,G,2520,G,08400230200000,Northeast,New Castle,10,003,52,NA,NA,1,03,144339
+Delaware,Special District,New Castle Public Library,Total - All Government Employment Functions,6,R,26533,R,8,C,7856,C,08400230300000,Northeast,New Castle,10,003,52,NA,NA,1,03,137725
+Delaware,Special District,New Castle Public Library,Libraries,6,R,26533,R,8,C,7856,C,08400230300000,Northeast,New Castle,10,003,52,NA,NA,1,03,137725
+Delaware,Special District,Delaware River And Bay Authority,Total - All Government Employment Functions,361,G,2472392,G,112,G,119111,G,08400270100000,Northeast,New Castle,10,003,99,NA,NA,1,07,124179
+Delaware,Special District,Delaware River And Bay Authority,Highways,199,G,1406951,G,34,G,39543,G,08400270100000,Northeast,New Castle,10,003,99,NA,NA,1,07,124179
+Delaware,Special District,Delaware River And Bay Authority,Air Transportation,37,G,222821,G,4,G,7859,G,08400270100000,Northeast,New Castle,10,003,99,NA,NA,1,07,124179
+Delaware,Special District,Delaware River And Bay Authority,Sea and Inland Port Facilities,125,G,842620,G,74,G,71710,G,08400270100000,Northeast,New Castle,10,003,99,NA,NA,1,07,124179
+Delaware,Special District,Newark Housing Authority,Total - All Government Employment Functions,1,NA,7953,NA,1,NA,2471,NA,08400270200000,Northeast,New Castle,10,003,50,NA,NA,1,03,144354
+Delaware,Special District,Newark Housing Authority,Housing and Community Development,1,NA,7953,NA,1,NA,2471,NA,08400270200000,Northeast,New Castle,10,003,50,NA,NA,1,03,144354
+Delaware,Special District,Delaware City Community Park District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,08400270300000,Northeast,New Castle,10,003,61,NA,NA,1,03,144355
+Delaware,Special District,Delaware City Community Park District,Parks and Recreation,0,G,0,G,0,G,0,G,08400270300000,Northeast,New Castle,10,003,61,NA,NA,1,03,144355
+Delaware,Special District,Lewes Public Library,Total - All Government Employment Functions,3,G,11999,G,8,G,10841,G,08400320100000,Northeast,Sussex,10,005,52,NA,NA,1,03,124185
+Delaware,Special District,Lewes Public Library,Libraries,3,G,11999,G,8,G,10841,G,08400320100000,Northeast,Sussex,10,005,52,NA,NA,1,03,124185
+Delaware,Special District,Milford Public Library,Total - All Government Employment Functions,3,G,14711,G,17,G,20502,G,08400320200000,Northeast,Sussex,10,005,52,NA,NA,1,03,144369
+Delaware,Special District,Milford Public Library,Libraries,3,G,14711,G,17,G,20502,G,08400320200000,Northeast,Sussex,10,005,52,NA,NA,1,03,144369
+Delaware,Special District,Seaford District Library,Total - All Government Employment Functions,5,G,27240,G,4,G,3151,G,08400320300000,Northeast,Sussex,10,005,52,NA,NA,1,03,144370
+Delaware,Special District,Seaford District Library,Libraries,5,G,27240,G,4,G,3151,G,08400320300000,Northeast,Sussex,10,005,52,NA,NA,1,03,144370
+Delaware,Special District,Bridgeville Public Library,Total - All Government Employment Functions,3,G,7002,G,7,G,3937,G,08400330100000,Northeast,Sussex,10,005,52,NA,NA,1,03,144371
+Delaware,Special District,Bridgeville Public Library,Libraries,3,G,7002,G,7,G,3937,G,08400330100000,Northeast,Sussex,10,005,52,NA,NA,1,03,144371
+Delaware,Special District,Frankford Public Library,Total - All Government Employment Functions,4,C,22298,C,3,R,2173,R,08400330200000,Northeast,Sussex,10,005,52,NA,NA,1,03,124186
+Delaware,Special District,Frankford Public Library,Libraries,4,C,22298,C,3,R,2173,R,08400330200000,Northeast,Sussex,10,005,52,NA,NA,1,03,124186
+Delaware,Special District,Georgetown Public Library,Total - All Government Employment Functions,2,G,10778,G,6,G,7446,G,08400330300000,Northeast,Sussex,10,005,52,NA,NA,1,03,137728
+Delaware,Special District,Georgetown Public Library,Libraries,2,G,10778,G,6,G,7446,G,08400330300000,Northeast,Sussex,10,005,52,NA,NA,1,03,137728
+Delaware,Special District,Laurel Public Library,Total - All Government Employment Functions,4,G,14853,G,9,G,7887,G,08400330400000,Northeast,Sussex,10,005,52,NA,NA,1,03,144372
+Delaware,Special District,Laurel Public Library,Libraries,4,G,14853,G,9,G,7887,G,08400330400000,Northeast,Sussex,10,005,52,NA,NA,1,03,144372
+Delaware,Special District,Millsboro Public Library,Total - All Government Employment Functions,4,R,8994,R,6,R,5582,R,08400330700000,Northeast,Sussex,10,005,52,NA,NA,1,03,124187
+Delaware,Special District,Millsboro Public Library,Libraries,4,R,8994,R,6,R,5582,R,08400330700000,Northeast,Sussex,10,005,52,NA,NA,1,03,124187
+Delaware,Special District,Rehoboth Beach Public Library,Total - All Government Employment Functions,4,G,16720,G,3,G,4063,G,08400330900000,Northeast,Sussex,10,005,52,NA,NA,1,03,189800
+Delaware,Special District,Rehoboth Beach Public Library,Libraries,4,G,16720,G,3,G,4063,G,08400330900000,Northeast,Sussex,10,005,52,NA,NA,1,03,189800
+Delaware,Special District,Selbyville Public Library,Total - All Government Employment Functions,1,G,4477,G,7,G,7863,G,08400331100000,Northeast,Sussex,10,005,52,NA,NA,1,03,144374
+Delaware,Special District,Selbyville Public Library,Libraries,1,G,4477,G,7,G,7863,G,08400331100000,Northeast,Sussex,10,005,52,NA,NA,1,03,144374
+Delaware,Special District,Delmar Public Library,Total - All Government Employment Functions,4,G,13766,G,3,G,1975,G,08400335000000,Northeast,Sussex,10,005,52,NA,NA,1,03,212307
+Delaware,Special District,Delmar Public Library,Libraries,4,G,13766,G,3,G,1975,G,08400335000000,Northeast,Sussex,10,005,52,NA,NA,1,03,212307
+Delaware,Independent School District,Caesar Rodney School District,Total - All Government Employment Functions,1181,R,5501902,R,169,R,281963,R,08500100100000,Northeast,Kent,10,001,8183,NA,Elementary and Secondary,1,08,101855
+Delaware,Independent School District,Caesar Rodney School District,Education - Elementary and Secondary Instructional,926,R,4374802,R,2,R,4845,R,08500100100000,Northeast,Kent,10,001,8183,NA,Elementary and Secondary,1,08,101855
+Delaware,Independent School District,Caesar Rodney School District,Education - Elementary and Secondary Other,255,R,1127100,R,167,R,277118,R,08500100100000,Northeast,Kent,10,001,8183,NA,Elementary and Secondary,1,08,101855
+Delaware,Independent School District,Capital School District,Total - All Government Employment Functions,995,R,4792011,R,276,R,508759,R,08500100200000,Northeast,Kent,10,001,6491,NA,Elementary and Secondary,1,08,124213
+Delaware,Independent School District,Capital School District,Education - Elementary and Secondary Instructional,736,R,3629157,R,78,R,160410,R,08500100200000,Northeast,Kent,10,001,6491,NA,Elementary and Secondary,1,08,124213
+Delaware,Independent School District,Capital School District,Education - Elementary and Secondary Other,259,R,1162854,R,198,R,348349,R,08500100200000,Northeast,Kent,10,001,6491,NA,Elementary and Secondary,1,08,124213
+Delaware,Independent School District,Lake Forest School  District,Total - All Government Employment Functions,451,R,2218905,R,116,R,225864,R,08500100300000,Northeast,Kent,10,001,3721,NA,Elementary and Secondary,1,08,178594
+Delaware,Independent School District,Lake Forest School  District,Education - Elementary and Secondary Instructional,339,R,1712909,R,69,R,148007,R,08500100300000,Northeast,Kent,10,001,3721,NA,Elementary and Secondary,1,08,178594
+Delaware,Independent School District,Lake Forest School  District,Education - Elementary and Secondary Other,112,R,505995,R,47,R,77857,R,08500100300000,Northeast,Kent,10,001,3721,NA,Elementary and Secondary,1,08,178594
+Delaware,Independent School District,Smyrna School District,Total - All Government Employment Functions,749,R,3714526,R,162,R,343033,R,08500100400000,Northeast,Kent,10,001,5882,NA,Elementary and Secondary,1,08,101856
+Delaware,Independent School District,Smyrna School District,Education - Elementary and Secondary Instructional,574,R,2859830,R,68,R,183591,R,08500100400000,Northeast,Kent,10,001,5882,NA,Elementary and Secondary,1,08,101856
+Delaware,Independent School District,Smyrna School District,Education - Elementary and Secondary Other,175,R,854697,R,94,R,159442,R,08500100400000,Northeast,Kent,10,001,5882,NA,Elementary and Secondary,1,08,101856
+Delaware,Independent School District,Polytech School District,Total - All Government Employment Functions,168,R,955850,R,20,R,41768,R,08500170100000,Northeast,Kent,10,001,1192,NA,Special or Vocational Education,1,08,210141
+Delaware,Independent School District,Polytech School District,Education - Elementary and Secondary Instructional,123,R,729893,R,2,R,5319,R,08500170100000,Northeast,Kent,10,001,1192,NA,Special or Vocational Education,1,08,210141
+Delaware,Independent School District,Polytech School District,Education - Elementary and Secondary Other,45,R,225957,R,18,R,36449,R,08500170100000,Northeast,Kent,10,001,1192,NA,Special or Vocational Education,1,08,210141
+Delaware,Independent School District,Appoquinimink School  District,Total - All Government Employment Functions,1524,R,8268424,R,343,R,549289,R,08500250700000,Northeast,New Castle,10,003,11737,NA,Elementary and Secondary,1,08,178595
+Delaware,Independent School District,Appoquinimink School  District,Education - Elementary and Secondary Instructional,1208,R,6576513,R,144,R,218302,R,08500250700000,Northeast,New Castle,10,003,11737,NA,Elementary and Secondary,1,08,178595
+Delaware,Independent School District,Appoquinimink School  District,Education - Elementary and Secondary Other,316,R,1691911,R,199,R,330987,R,08500250700000,Northeast,New Castle,10,003,11737,NA,Elementary and Secondary,1,08,178595
+Delaware,Independent School District,Brandywine School  District,Total - All Government Employment Functions,1359,R,8372606,R,339,R,775961,R,08500260200000,Northeast,New Castle,10,003,10548,NA,Elementary and Secondary,1,08,101857
+Delaware,Independent School District,Brandywine School  District,Education - Elementary and Secondary Instructional,1041,R,6670660,R,28,R,175938,R,08500260200000,Northeast,New Castle,10,003,10548,NA,Elementary and Secondary,1,08,101857
+Delaware,Independent School District,Brandywine School  District,Education - Elementary and Secondary Other,318,R,1701947,R,311,R,600023,R,08500260200000,Northeast,New Castle,10,003,10548,NA,Elementary and Secondary,1,08,101857
+Delaware,Independent School District,Christiana School  District,Total - All Government Employment Functions,2435,R,13386254,R,331,R,485135,R,08500260300000,Northeast,New Castle,10,003,13370,NA,Elementary and Secondary,1,08,178596
+Delaware,Independent School District,Christiana School  District,Education - Elementary and Secondary Instructional,1770,R,10045419,R,116,R,164900,R,08500260300000,Northeast,New Castle,10,003,13370,NA,Elementary and Secondary,1,08,178596
+Delaware,Independent School District,Christiana School  District,Education - Elementary and Secondary Other,665,R,3340835,R,215,R,320234,R,08500260300000,Northeast,New Castle,10,003,13370,NA,Elementary and Secondary,1,08,178596
+Delaware,Independent School District,Colonial School District,Total - All Government Employment Functions,1440,R,7960346,R,183,R,337628,R,08500260400000,Northeast,New Castle,10,003,9921,NA,Elementary and Secondary,1,08,101858
+Delaware,Independent School District,Colonial School District,Education - Elementary and Secondary Instructional,1095,R,6163932,R,7,R,14734,R,08500260400000,Northeast,New Castle,10,003,9921,NA,Elementary and Secondary,1,08,101858
+Delaware,Independent School District,Colonial School District,Education - Elementary and Secondary Other,345,R,1796415,R,176,R,322894,R,08500260400000,Northeast,New Castle,10,003,9921,NA,Elementary and Secondary,1,08,101858
+Delaware,Independent School District,Redclay Consolidated  School District,Total - All Government Employment Functions,2208,R,12215165,R,431,R,955402,R,08500260500000,Northeast,New Castle,10,003,15520,NA,Elementary and Secondary,1,08,213001
+Delaware,Independent School District,Redclay Consolidated  School District,Education - Elementary and Secondary Instructional,1728,R,9763674,R,35,R,146236,R,08500260500000,Northeast,New Castle,10,003,15520,NA,Elementary and Secondary,1,08,213001
+Delaware,Independent School District,Redclay Consolidated  School District,Education - Elementary and Secondary Other,480,R,2451491,R,396,R,809166,R,08500260500000,Northeast,New Castle,10,003,15520,NA,Elementary and Secondary,1,08,213001
+Delaware,Independent School District,New Castle County Vocational-Technical School District,Total - All Government Employment Functions,618,R,3933001,R,239,R,319196,R,08500280100000,Northeast,New Castle,10,003,4615,NA,Special or Vocational Education,1,08,101859
+Delaware,Independent School District,New Castle County Vocational-Technical School District,Education - Elementary and Secondary Instructional,471,R,3136458,R,159,R,224706,R,08500280100000,Northeast,New Castle,10,003,4615,NA,Special or Vocational Education,1,08,101859
+Delaware,Independent School District,New Castle County Vocational-Technical School District,Education - Elementary and Secondary Other,147,R,796543,R,80,R,94490,R,08500280100000,Northeast,New Castle,10,003,4615,NA,Special or Vocational Education,1,08,101859
+Delaware,Independent School District,Indian River School  District,Total - All Government Employment Functions,1504,R,7841545,R,134,R,214053,R,08500300100000,Northeast,Sussex,10,005,10942,NA,Elementary and Secondary,1,08,178597
+Delaware,Independent School District,Indian River School  District,Education - Elementary and Secondary Instructional,1150,R,6121169,R,0,R,0,R,08500300100000,Northeast,Sussex,10,005,10942,NA,Elementary and Secondary,1,08,178597
+Delaware,Independent School District,Indian River School  District,Education - Elementary and Secondary Other,354,R,1720376,R,134,R,214053,R,08500300100000,Northeast,Sussex,10,005,10942,NA,Elementary and Secondary,1,08,178597
+Delaware,Independent School District,Laurel School District,Total - All Government Employment Functions,314,R,1505719,R,29,R,46174,R,08500300200000,Northeast,Sussex,10,005,2645,NA,Elementary and Secondary,1,08,178598
+Delaware,Independent School District,Laurel School District,Education - Elementary and Secondary Instructional,252,R,1232398,R,1,C,2851,C,08500300200000,Northeast,Sussex,10,005,2645,NA,Elementary and Secondary,1,08,178598
+Delaware,Independent School District,Laurel School District,Education - Elementary and Secondary Other,62,R,273320,R,28,R,43323,R,08500300200000,Northeast,Sussex,10,005,2645,NA,Elementary and Secondary,1,08,178598
+Delaware,Independent School District,Milford School District,Total - All Government Employment Functions,512,R,2519895,R,63,R,94869,R,08500300400000,Northeast,Sussex,10,005,4244,NA,Elementary and Secondary,1,08,178599
+Delaware,Independent School District,Milford School District,Education - Elementary and Secondary Instructional,383,R,1923887,R,11,R,23237,R,08500300400000,Northeast,Sussex,10,005,4244,NA,Elementary and Secondary,1,08,178599
+Delaware,Independent School District,Milford School District,Education - Elementary and Secondary Other,129,R,596008,R,52,R,71632,R,08500300400000,Northeast,Sussex,10,005,4244,NA,Elementary and Secondary,1,08,178599
+Delaware,Independent School District,Cape Henlopen School  District,Total - All Government Employment Functions,1038,R,5488050,R,177,R,277087,R,08500300500000,Northeast,Sussex,10,005,5860,NA,Elementary and Secondary,1,08,184700
+Delaware,Independent School District,Cape Henlopen School  District,Education - Elementary and Secondary Instructional,818,R,4358957,R,37,R,38692,R,08500300500000,Northeast,Sussex,10,005,5860,NA,Elementary and Secondary,1,08,184700
+Delaware,Independent School District,Cape Henlopen School  District,Education - Elementary and Secondary Other,220,R,1129093,R,140,R,238394,R,08500300500000,Northeast,Sussex,10,005,5860,NA,Elementary and Secondary,1,08,184700
+Delaware,Independent School District,Seaford School District,Total - All Government Employment Functions,480,R,2266775,R,93,R,127594,R,08500300600000,Northeast,Sussex,10,005,3465,NA,Elementary and Secondary,1,08,178600
+Delaware,Independent School District,Seaford School District,Education - Elementary and Secondary Instructional,366,R,1728409,R,37,R,41529,R,08500300600000,Northeast,Sussex,10,005,3465,NA,Elementary and Secondary,1,08,178600
+Delaware,Independent School District,Seaford School District,Education - Elementary and Secondary Other,114,R,538366,R,56,R,86065,R,08500300600000,Northeast,Sussex,10,005,3465,NA,Elementary and Secondary,1,08,178600
+Delaware,Independent School District,Woodbridge School  District,Total - All Government Employment Functions,367,R,1694983,R,61,R,89258,R,08500350300000,Northeast,Sussex,10,005,2594,NA,Elementary and Secondary,1,08,101861
+Delaware,Independent School District,Woodbridge School  District,Education - Elementary and Secondary Instructional,288,R,1327863,R,1,R,1647,R,08500350300000,Northeast,Sussex,10,005,2594,NA,Elementary and Secondary,1,08,101861
+Delaware,Independent School District,Woodbridge School  District,Education - Elementary and Secondary Other,79,R,367120,R,60,R,87610,R,08500350300000,Northeast,Sussex,10,005,2594,NA,Elementary and Secondary,1,08,101861
+Delaware,Independent School District,Delmar School District,Total - All Government Employment Functions,123,R,621969,R,32,R,50756,R,08500350700000,Northeast,Sussex,10,005,1395,NA,Elementary and Secondary,1,08,212159
+Delaware,Independent School District,Delmar School District,Education - Elementary and Secondary Instructional,98,R,504115,R,15,R,23376,R,08500350700000,Northeast,Sussex,10,005,1395,NA,Elementary and Secondary,1,08,212159
+Delaware,Independent School District,Delmar School District,Education - Elementary and Secondary Other,25,R,117853,R,17,R,27380,R,08500350700000,Northeast,Sussex,10,005,1395,NA,Elementary and Secondary,1,08,212159
+Delaware,Independent School District,Sussex Technical  Schl Distr,Total - All Government Employment Functions,170,R,1036173,R,27,R,36897,R,08500353300000,Northeast,Sussex,10,005,1241,NA,Special or Vocational Education,1,08,101862
+Delaware,Independent School District,Sussex Technical  Schl Distr,Education - Elementary and Secondary Instructional,113,R,733106,R,6,R,7885,R,08500353300000,Northeast,Sussex,10,005,1241,NA,Special or Vocational Education,1,08,101862
+Delaware,Independent School District,Sussex Technical  Schl Distr,Education - Elementary and Secondary Other,57,R,303067,R,21,R,29012,R,08500353300000,Northeast,Sussex,10,005,1241,NA,Special or Vocational Education,1,08,101862

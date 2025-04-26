@@ -1,0 +1,790 @@
+State,Type of Government,Name of Government,Government Function,Full-time Employees,Full-time Employees Data Flag,Full-time Payroll,Full-time Payroll Data Flag,Part-time Employees,Part-time Employees Data Flag,Part-time Payroll,Part-time Payroll Data Flag,Individual Unit ID,Census Region,County Name,FIPS State,FIPS County,Population/Enrollment/Function Code,Year of Population/Enrollment,School Level,Probability of Selection,Worksheet Code,New Individual Unit ID
+Rhode Island,State,Rhode Island,Total - All Government Employment Functions,18684,R,126007654,X,5914,R,8664435,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Financial Administration,797,R,5129641,R,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Other Government Administration,746,R,5096278,R,42,R,147002,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Judicial and Legal,1170,R,8336077,R,19,R,45152,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Police Protection - Persons with Power of Arrest,241,T,2446589,T,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Police Protection - Other,60,T,530775,T,3,C,11999,C,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Corrections,1400,R,11687370,R,11,R,45338,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Highways,742,R,5052772,R,15,R,39183,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Air Transportation,150,R,1169138,R,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Public Welfare,1400,R,9403261,R,5,R,15245,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Health,987,R,6762373,R,13,R,37716,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Hospitals,550,R,3818565,R,20,R,90059,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Social Insurance Administration,413,R,2551559,R,10,R,24587,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Solid Waste Management,139,R,892464,R,4,R,4204,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Sewerage,263,R,1535714,R,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Parks and Recreation,81,R,427080,R,1,R,4023,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Housing and Community Development,224,X,1355946,X,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Natural Resources,371,R,2472471,R,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Transit,805,R,5142013,R,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Education - Elementary and Secondary Instructional,2542,X,17123275,X,244,X,596183,X,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Education - Elementary and Secondary Other,408,X,1668026,X,153,X,167916,X,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Education - Higher Education Instructional,1587,R,11346816,R,1994,R,4504337,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Education - Higher Education Other,2666,R,15183712,R,3360,R,2898682,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Education - Other,467,R,3468745,R,3,R,8791,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,Libraries,12,R,83053,R,0,R,0,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,State,Rhode Island,All other and unallocable,463,R,3323942,R,17,R,24019,R,40000000000000,Northeast,NA,44,NA,1057125,20,NA,1,00,227539
+Rhode Island,Municipality,Warwick,Total - All Government Employment Functions,2130,T,14509617,T,217,R,322316,R,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Financial Administration,38,G,214910,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Other Government Administration,41,G,238820,G,5,G,7777,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Judicial and Legal,2,G,10877,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Police Protection - Persons with Power of Arrest,181,G,1453174,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Police Protection - Other,29,G,141156,G,17,G,10735,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Fire Protection - Firefighters,225,G,1897492,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Fire Protection - Other,8,G,55472,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Highways,40,G,229745,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Public Welfare,10,G,42563,G,5,G,5784,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Solid Waste Management,20,G,112774,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Sewerage,26,G,180079,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Parks and Recreation,15,G,81734,G,7,G,7307,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Water Supply,16,G,91344,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Education - Elementary and Secondary Instructional,1249,T,8687767,T,2,T,6271,T,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Education - Elementary and Secondary Other,187,R,836740,R,167,R,262167,R,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,Libraries,23,G,121073,G,14,G,22276,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Warwick,All other and unallocable,20,G,113898,G,0,G,0,G,40200200100000,Northeast,Kent,44,003,81189,20,NA,1,04,112807
+Rhode Island,Municipality,Newport,Total - All Government Employment Functions,659,T,4794227,T,193,T,253819,T,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Financial Administration,21,R,134257,R,1,C,855,C,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Other Government Administration,17,R,116547,R,4,C,2884,C,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Judicial and Legal,4,R,25566,R,3,R,7281,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Police Protection - Persons with Power of Arrest,79,R,598239,X,0,R,0,X,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Police Protection - Other,16,R,78470,R,30,C,42535,C,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Fire Protection - Firefighters,90,R,727594,R,0,R,0,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Fire Protection - Other,1,R,5591,R,0,R,0,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Highways,16,R,93872,R,0,R,0,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Solid Waste Management,2,R,8591,R,1,R,2445,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Parks and Recreation,19,R,101288,C,26,R,25655,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Housing and Community Development,4,R,26403,R,2,R,5004,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Water Supply,58,R,321027,R,0,R,0,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Education - Elementary and Secondary Instructional,249,T,2209581,T,65,T,110120,T,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,Education - Elementary and Secondary Other,70,T,284725,T,61,T,57042,T,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Newport,All other and unallocable,13,R,62474,R,0,R,0,R,40200300100000,Northeast,Newport,44,005,24412,20,NA,1,04,174832
+Rhode Island,Municipality,Central Falls,Total - All Government Employment Functions,124,R,773360,R,53,C,61656,C,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Financial Administration,9,R,41293,R,1,X,1705,X,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Other Government Administration,11,R,55709,R,24,C,22593,C,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Judicial and Legal,3,R,15671,R,7,C,6593,C,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Police Protection - Persons with Power of Arrest,39,R,297024,R,0,R,0,R,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Police Protection - Other,7,R,28982,R,0,R,0,R,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Fire Protection - Firefighters,39,R,255999,R,0,R,0,R,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Fire Protection - Other,1,C,6307,C,11,R,10451,R,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Highways,7,R,35034,R,0,R,0,R,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Health,1,R,4365,R,0,R,0,R,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Parks and Recreation,2,R,8432,R,5,C,11632,C,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,Housing and Community Development,1,C,5338,C,0,C,0,C,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Central Falls,All other and unallocable,4,R,19206,R,5,C,8683,C,40200400100000,Northeast,Providence,44,007,19468,20,NA,1,04,134385
+Rhode Island,Municipality,Cranston,Total - All Government Employment Functions,2330,R,15096740,R,291,R,438771,R,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Financial Administration,38,G,234411,G,2,G,2016,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Other Government Administration,21,G,118816,G,12,G,7486,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Judicial and Legal,1,G,6725,G,7,G,9327,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Police Protection - Persons with Power of Arrest,194,G,1205802,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Police Protection - Other,36,G,134401,G,12,G,10630,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Fire Protection - Firefighters,253,G,1627051,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Fire Protection - Other,21,G,134784,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Highways,61,G,331071,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Public Welfare,34,G,145483,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Health,4,G,19208,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Solid Waste Management,1,G,6591,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Sewerage,1,G,10018,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Parks and Recreation,27,G,122186,G,2,G,4795,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Housing and Community Development,4,G,25760,G,2,G,14828,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Education - Elementary and Secondary Instructional,1241,R,9214805,R,114,R,233979,R,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Education - Elementary and Secondary Other,280,R,1245696,R,46,R,80831,R,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,Libraries,44,G,212278,G,94,G,74879,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Cranston,All other and unallocable,69,G,301655,G,0,G,0,G,40200400200000,Northeast,Providence,44,007,81142,20,NA,1,04,209434
+Rhode Island,Municipality,Pawtucket,Total - All Government Employment Functions,1581,R,10688983,R,296,R,388530,R,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Financial Administration,32,NA,178053,NA,9,NA,4439,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Other Government Administration,36,NA,192075,NA,41,NA,22316,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Judicial and Legal,7,NA,25092,NA,0,NA,0,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Police Protection - Persons with Power of Arrest,155,NA,941769,NA,0,NA,0,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Police Protection - Other,25,NA,117616,NA,43,NA,79130,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Fire Protection - Firefighters,138,NA,808871,NA,0,NA,0,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Fire Protection - Other,2,NA,14461,NA,0,NA,0,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Highways,29,NA,176527,NA,1,NA,1682,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Public Welfare,9,NA,38981,NA,4,NA,8971,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Health,5,NA,24136,NA,3,NA,7456,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Sewerage,6,NA,33599,NA,0,NA,0,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Parks and Recreation,37,NA,72569,NA,2,NA,1056,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Housing and Community Development,8,NA,41126,NA,6,NA,501,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Water Supply,41,NA,226127,NA,0,NA,0,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Education - Elementary and Secondary Instructional,882,R,7087065,R,97,R,176981,R,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Education - Elementary and Secondary Other,129,R,536936,R,60,R,46136,R,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,Libraries,19,NA,88072,NA,11,NA,22263,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Pawtucket,All other and unallocable,21,NA,85907,NA,19,NA,17598,NA,40200400300000,Northeast,Providence,44,007,71710,20,NA,1,04,174833
+Rhode Island,Municipality,Providence,Total - All Government Employment Functions,1901,X,12269538,X,75,C,97503,C,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Financial Administration,65,R,335761,X,0,R,0,X,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Other Government Administration,56,C,244491,C,0,C,0,C,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Judicial and Legal,50,R,276190,X,0,R,0,X,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Police Protection - Persons with Power of Arrest,563,X,4268412,X,0,X,0,X,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Police Protection - Other,5,C,26882,C,0,C,0,C,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Fire Protection - Firefighters,515,X,3734639,X,0,X,0,X,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Fire Protection - Other,72,X,468355,X,0,X,0,X,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Highways,83,R,393778,R,0,R,0,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Health,12,R,87006,R,0,R,0,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Solid Waste Management,10,R,47718,R,0,R,0,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Sewerage,10,R,45591,R,0,R,0,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Parks and Recreation,108,X,728790,R,72,C,92614,C,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Housing and Community Development,40,R,251075,R,0,R,0,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Natural Resources,12,R,59829,R,0,R,0,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,Water Supply,223,R,1036413,R,0,R,0,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Providence,All other and unallocable,77,C,264608,C,3,R,4888,R,40200400400000,Northeast,Providence,44,007,179270,20,NA,1,04,112811
+Rhode Island,Municipality,Woonsocket,Total - All Government Employment Functions,1124,T,6471672,T,157,T,188270,T,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Financial Administration,19,C,94304,C,4,C,6057,C,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Other Government Administration,5,R,25137,R,1,R,531,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Judicial and Legal,4,R,22373,R,3,R,1240,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Police Protection - Persons with Power of Arrest,97,R,616964,R,0,R,0,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Police Protection - Other,20,R,84048,R,3,R,4577,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Fire Protection - Firefighters,112,R,613979,R,0,R,0,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Fire Protection - Other,1,R,4105,R,0,R,0,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Highways,37,R,164192,R,1,R,664,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Public Welfare,1,R,6235,R,0,R,0,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Solid Waste Management,3,R,13680,R,0,R,0,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Parks and Recreation,0,R,0,R,3,R,1382,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Housing and Community Development,3,R,15265,R,1,R,598,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Water Supply,20,R,94105,R,0,R,0,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Education - Elementary and Secondary Instructional,650,T,3604750,T,68,T,124739,T,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Education - Elementary and Secondary Other,124,T,996825,T,65,T,41801,T,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,Libraries,12,R,48460,R,5,R,2910,R,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,Woonsocket,All other and unallocable,16,C,67250,C,3,C,3772,C,40200400500000,Northeast,Providence,44,007,41545,20,NA,1,04,134386
+Rhode Island,Municipality,East Providence,Total - All Government Employment Functions,1191,R,6623546,R,91,R,197447,R,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Financial Administration,23,G,105726,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Other Government Administration,46,G,130352,G,1,G,985,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Judicial and Legal,3,G,14453,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Police Protection - Persons with Power of Arrest,86,G,499768,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Police Protection - Other,23,G,103913,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Fire Protection - Firefighters,96,G,538747,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Highways,45,G,222641,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Public Welfare,2,G,8554,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Health,6,G,16313,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Solid Waste Management,1,G,6173,G,1,G,1437,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Sewerage,21,G,103321,G,1,G,820,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Parks and Recreation,23,G,108891,G,5,G,3896,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Housing and Community Development,3,G,14118,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Water Supply,22,G,99255,G,0,G,0,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Education - Elementary and Secondary Instructional,640,R,3899180,R,63,R,154348,R,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Education - Elementary and Secondary Other,117,R,623935,R,14,R,29492,R,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,Libraries,26,G,109307,G,4,G,2226,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Municipality,East Providence,All other and unallocable,8,G,18899,G,2,G,4242,G,40200450100000,Northeast,Providence,44,007,47337,20,NA,1,04,194033
+Rhode Island,Township,Barrington,Total - All Government Employment Functions,541,R,3523316,R,117,X,211122,R,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Financial Administration,6,X,46808,T,2,X,7470,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Other Government Administration,6,X,52575,T,1,X,2614,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Judicial and Legal,0,X,0,T,1,X,706,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Police Protection - Persons with Power of Arrest,18,X,131088,T,0,X,0,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Police Protection - Other,4,X,22359,T,2,X,3585,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Fire Protection - Firefighters,27,X,153988,T,1,X,2919,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Highways,25,X,106705,T,4,X,13709,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Public Welfare,0,X,0,T,2,X,5979,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Solid Waste Management,1,X,3880,T,0,X,0,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Sewerage,2,X,17305,T,0,X,0,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Parks and Recreation,0,X,0,T,2,X,3292,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Education - Elementary and Secondary Instructional,356,R,2449142,R,38,R,105057,R,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Education - Elementary and Secondary Other,82,R,443415,R,25,R,30234,R,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,Libraries,12,X,86394,T,39,X,35557,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Barrington,All other and unallocable,2,X,9658,T,0,X,0,T,40300100100000,Northeast,Bristol,44,001,16015,20,NA,1,04,174834
+Rhode Island,Township,Bristol,Total - All Government Employment Functions,132,G,760527,G,162,G,82187,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Financial Administration,7,G,42083,G,6,G,1939,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Other Government Administration,14,G,76672,G,26,G,8697,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Judicial and Legal,0,G,0,G,2,G,1150,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Police Protection - Persons with Power of Arrest,41,G,283413,G,0,G,0,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Police Protection - Other,8,G,38732,G,1,G,1922,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Fire Protection - Firefighters,0,G,0,G,87,G,26253,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Fire Protection - Other,4,G,25788,G,0,G,0,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Highways,19,G,99867,G,0,G,0,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Sea and Inland Port Facilities,1,G,6182,G,2,G,1461,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Public Welfare,0,G,0,G,1,G,2845,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Health,2,G,9962,G,1,G,877,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Solid Waste Management,15,G,76143,G,0,G,0,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Sewerage,5,G,28026,G,0,G,0,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Parks and Recreation,4,G,17023,G,2,G,1964,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,Libraries,5,G,20768,G,22,G,25571,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Bristol,All other and unallocable,7,G,35869,G,12,G,9508,G,40300100200000,Northeast,Bristol,44,001,21866,20,NA,1,04,174835
+Rhode Island,Township,Warren,Total - All Government Employment Functions,82,G,462580,G,19,G,14019,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Financial Administration,3,G,14446,G,1,G,768,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Other Government Administration,10,G,47344,G,11,G,6506,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Judicial and Legal,2,G,17061,G,1,G,412,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Police Protection - Persons with Power of Arrest,26,G,214305,G,0,G,0,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Police Protection - Other,10,G,30790,G,1,G,2279,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Fire Protection - Firefighters,1,G,7081,G,0,G,0,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Fire Protection - Other,1,G,3191,G,0,G,0,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Highways,24,G,107307,G,0,G,0,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Sea and Inland Port Facilities,1,G,3862,G,0,G,0,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Public Welfare,2,G,6096,G,0,G,0,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Health,1,G,5000,G,2,G,1008,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Parks and Recreation,0,G,0,G,1,G,1718,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,Housing and Community Development,1,G,6098,G,0,G,0,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Warren,All other and unallocable,0,G,0,G,2,G,1329,G,40300100300000,Northeast,Bristol,44,001,10469,20,NA,1,04,134387
+Rhode Island,Township,Coventry,Total - All Government Employment Functions,810,T,5065920,T,246,R,554362,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Financial Administration,12,R,74533,R,0,R,0,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Other Government Administration,10,R,59821,R,16,R,16775,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Judicial and Legal,0,R,0,R,1,R,983,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Police Protection - Persons with Power of Arrest,53,R,437662,R,5,C,10750,C,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Police Protection - Other,11,R,59148,R,1,R,2148,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Fire Protection - Other,0,R,0,R,1,R,328,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Highways,23,R,126812,R,0,R,0,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Public Welfare,11,R,50025,R,14,R,20216,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Health,3,R,16815,R,0,R,0,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Solid Waste Management,11,R,52691,R,0,R,0,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Parks and Recreation,10,R,49715,R,7,C,1100,C,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Housing and Community Development,4,R,21656,R,2,C,4545,C,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Education - Elementary and Secondary Instructional,524,T,3378371,T,157,R,419953,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Education - Elementary and Secondary Other,121,T,655369,T,22,R,52962,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,Libraries,7,R,33409,R,20,R,24601,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,Coventry,All other and unallocable,10,R,49892,R,0,R,0,R,40300200100000,Northeast,Kent,44,003,34931,20,NA,1,04,112813
+Rhode Island,Township,East Greenwich,Total - All Government Employment Functions,499,R,3102204,R,95,R,200318,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Financial Administration,7,R,44086,R,0,R,0,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Other Government Administration,13,R,88018,R,0,R,0,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Police Protection - Persons with Power of Arrest,34,R,276905,R,0,R,0,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Police Protection - Other,8,R,42408,R,4,R,14282,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Fire Protection - Firefighters,34,R,291024,R,0,R,0,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Fire Protection - Other,3,R,18972,R,0,R,0,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Highways,16,R,103916,R,4,R,8312,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Public Welfare,4,R,19118,R,0,R,0,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Sewerage,5,R,35274,R,0,R,0,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Parks and Recreation,11,R,52780,R,3,R,868,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Education - Elementary and Secondary Instructional,319,R,1937239,R,57,R,114680,R,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Education - Elementary and Secondary Other,30,R,140614,R,18,C,48874,C,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,Libraries,5,X,23943,X,7,X,9716,X,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,East Greenwich,All other and unallocable,10,X,27908,X,2,X,3586,X,40300200200000,Northeast,Kent,44,003,13141,20,NA,1,04,174836
+Rhode Island,Township,West Greenwich,Total - All Government Employment Functions,38,G,198028,G,5,G,5704,G,40300200300000,Northeast,Kent,44,003,6418,20,NA,1,04,183886
+Rhode Island,Township,West Greenwich,Financial Administration,9,G,48528,G,3,G,3707,G,40300200300000,Northeast,Kent,44,003,6418,20,NA,1,04,183886
+Rhode Island,Township,West Greenwich,Police Protection - Persons with Power of Arrest,15,G,88151,G,0,G,0,G,40300200300000,Northeast,Kent,44,003,6418,20,NA,1,04,183886
+Rhode Island,Township,West Greenwich,Police Protection - Other,4,G,15952,G,2,G,1997,G,40300200300000,Northeast,Kent,44,003,6418,20,NA,1,04,183886
+Rhode Island,Township,West Greenwich,Fire Protection - Firefighters,3,G,13817,G,0,G,0,G,40300200300000,Northeast,Kent,44,003,6418,20,NA,1,04,183886
+Rhode Island,Township,West Greenwich,Highways,6,G,29534,G,0,G,0,G,40300200300000,Northeast,Kent,44,003,6418,20,NA,1,04,183886
+Rhode Island,Township,West Greenwich,Public Welfare,1,G,2046,G,0,G,0,G,40300200300000,Northeast,Kent,44,003,6418,20,NA,1,04,183886
+Rhode Island,Township,West Warwick,Total - All Government Employment Functions,687,G,4209181,G,222,G,479224,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Financial Administration,11,G,63625,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Other Government Administration,6,G,32076,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Judicial and Legal,0,G,0,G,1,G,1577,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Police Protection - Persons with Power of Arrest,53,G,423664,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Police Protection - Other,15,G,66008,G,2,G,3871,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Fire Protection - Firefighters,68,G,461184,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Fire Protection - Other,6,G,27156,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Highways,21,G,86145,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Solid Waste Management,0,G,0,G,1,G,2427,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Sewerage,27,G,112007,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Parks and Recreation,5,G,22382,G,7,G,11399,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Housing and Community Development,1,G,5877,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Education - Elementary and Secondary Instructional,400,G,2580278,G,145,G,348054,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Education - Elementary and Secondary Other,54,G,239907,G,49,G,96849,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,Libraries,9,G,30646,G,17,G,15048,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,West Warwick,All other and unallocable,11,G,58227,G,0,G,0,G,40300200400000,Northeast,Kent,44,003,28967,20,NA,1,04,174837
+Rhode Island,Township,Jamestown,Total - All Government Employment Functions,144,R,878681,R,49,R,99555,R,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Financial Administration,3,G,22869,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Other Government Administration,9,G,54342,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Judicial and Legal,0,G,0,G,1,G,1108,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Police Protection - Persons with Power of Arrest,14,G,97139,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Police Protection - Other,8,G,32719,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Fire Protection - Firefighters,1,G,6314,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Highways,12,G,76119,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Solid Waste Management,1,G,6470,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Sewerage,3,G,19909,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Parks and Recreation,4,G,18834,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Water Supply,2,G,14381,G,0,G,0,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Education - Elementary and Secondary Instructional,69,R,428075,R,25,R,61429,R,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Education - Elementary and Secondary Other,14,R,73829,R,14,R,22225,R,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,Libraries,3,G,20245,G,8,G,8744,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Jamestown,All other and unallocable,1,G,7437,G,1,G,6049,G,40300300100000,Northeast,Newport,44,005,5482,20,NA,1,04,183881
+Rhode Island,Township,Little Compton,Total - All Government Employment Functions,86,G,514758,G,30,G,31301,G,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Financial Administration,4,R,17913,R,0,R,0,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Other Government Administration,5,R,24078,R,9,R,6420,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Judicial and Legal,0,R,0,R,2,R,713,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Police Protection - Persons with Power of Arrest,9,R,69708,R,0,R,0,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Police Protection - Other,4,R,20014,R,2,R,1151,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Fire Protection - Firefighters,10,R,60209,R,2,R,2019,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Highways,4,R,15037,R,1,R,1169,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Natural Resources,0,C,0,C,1,C,844,C,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Education - Elementary and Secondary Instructional,40,G,258320,G,12,G,14680,G,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Education - Elementary and Secondary Other,6,G,37895,G,1,G,4305,G,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Little Compton,Libraries,4,R,11584,R,0,R,0,R,40300300200000,Northeast,Newport,44,005,3462,20,NA,1,04,183882
+Rhode Island,Township,Middletown,Total - All Government Employment Functions,413,R,2706831,R,104,R,111892,R,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Financial Administration,11,NA,15381,NA,1,NA,530,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Other Government Administration,16,NA,97291,NA,7,NA,8920,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Police Protection - Persons with Power of Arrest,41,NA,410537,NA,0,NA,0,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Police Protection - Other,3,NA,9788,NA,31,NA,16689,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Fire Protection - Firefighters,35,NA,250363,NA,0,NA,0,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Fire Protection - Other,5,NA,23972,NA,0,NA,0,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Highways,11,NA,72343,NA,0,NA,0,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Public Welfare,2,NA,11785,NA,0,NA,0,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Health,1,NA,5905,NA,1,NA,1136,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Solid Waste Management,1,NA,6119,NA,0,NA,0,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Sewerage,3,NA,21390,NA,0,NA,0,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Parks and Recreation,2,NA,11264,NA,2,NA,1796,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Education - Elementary and Secondary Instructional,227,R,1532671,R,51,R,71984,R,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Education - Elementary and Secondary Other,48,R,211347,R,4,R,2947,R,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Middletown,Libraries,7,NA,26674,NA,7,NA,7889,NA,40300300300000,Northeast,Newport,44,005,15803,20,NA,1,04,174838
+Rhode Island,Township,Portsmouth,Total - All Government Employment Functions,470,R,2984304,R,92,R,131268,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Financial Administration,9,R,56614,R,1,R,332,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Other Government Administration,11,R,82490,R,9,R,5411,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Police Protection - Persons with Power of Arrest,38,R,271659,R,0,R,0,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Police Protection - Other,3,C,26966,C,2,R,2436,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Fire Protection - Firefighters,47,R,315068,R,0,R,0,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Highways,18,R,145221,R,1,C,1040,C,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Public Welfare,1,R,4251,R,0,R,0,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Solid Waste Management,1,R,5874,R,4,C,8219,C,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Parks and Recreation,1,R,5545,R,1,R,830,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Education - Elementary and Secondary Instructional,263,R,1765162,R,47,R,82648,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,Education - Elementary and Secondary Other,74,R,282302,R,26,R,30201,R,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Portsmouth,All other and unallocable,4,R,23152,R,1,C,151,C,40300300500000,Northeast,Newport,44,005,17108,20,NA,1,04,209435
+Rhode Island,Township,Tiverton,Total - All Government Employment Functions,353,R,2252400,R,70,R,95646,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Financial Administration,8,R,38264,R,0,R,0,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Other Government Administration,9,R,45165,R,9,R,4384,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Judicial and Legal,0,R,0,R,2,R,1788,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Police Protection - Persons with Power of Arrest,32,R,196568,R,0,R,0,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Police Protection - Other,10,R,48419,R,1,R,144,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Fire Protection - Firefighters,30,R,203748,R,0,R,0,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Fire Protection - Other,1,R,4515,R,0,R,0,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Highways,9,R,52048,R,1,R,1873,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Public Welfare,1,R,4971,R,3,R,3626,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Health,1,R,5934,R,0,R,0,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Solid Waste Management,2,R,11109,R,0,R,0,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Sewerage,1,R,2757,R,3,C,5569,C,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Parks and Recreation,0,R,0,R,1,R,531,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Education - Elementary and Secondary Instructional,210,R,1464440,R,31,R,57423,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Education - Elementary and Secondary Other,32,R,144608,R,4,C,4829,C,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,Libraries,5,R,20995,R,13,R,12153,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Tiverton,All other and unallocable,2,R,8858,R,2,R,3325,R,40300300600000,Northeast,Newport,44,005,15569,20,NA,1,04,134388
+Rhode Island,Township,Burrillville,Total - All Government Employment Functions,392,T,2292479,T,103,T,140116,T,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Financial Administration,9,G,51484,G,1,G,380,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Other Government Administration,10,G,56814,G,10,G,7201,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Judicial and Legal,0,G,0,G,1,G,660,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Police Protection - Persons with Power of Arrest,25,G,186567,G,0,G,0,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Police Protection - Other,8,G,40827,G,2,G,4378,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Highways,15,G,87367,G,0,G,0,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Public Welfare,0,G,0,G,2,G,3144,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Health,1,G,5503,G,1,G,1190,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Solid Waste Management,0,G,0,G,1,G,137,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Sewerage,6,G,44133,G,0,G,0,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Parks and Recreation,5,G,26452,G,19,G,8331,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Housing and Community Development,2,G,12748,G,1,G,410,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Education - Elementary and Secondary Instructional,259,T,1566048,T,29,T,71364,T,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Education - Elementary and Secondary Other,41,T,167215,T,24,T,27405,T,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,Libraries,9,G,36489,G,10,G,12522,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Burrillville,All other and unallocable,2,G,10832,G,2,G,2996,G,40300400100000,Northeast,Providence,44,007,16810,20,NA,1,04,174839
+Rhode Island,Township,Cumberland,Total - All Government Employment Functions,861,X,4433476,R,135,C,97066,C,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Financial Administration,10,G,45433,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Other Government Administration,12,G,56839,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Judicial and Legal,3,G,8421,G,1,G,819,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Police Protection - Persons with Power of Arrest,55,G,328733,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Highways,37,G,204565,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Public Welfare,3,G,13053,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Health,23,G,127087,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Sewerage,1,G,6656,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Parks and Recreation,2,G,8673,G,5,G,4936,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Water Supply,19,G,84402,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Education - Elementary and Secondary Instructional,621,X,3181778,R,53,C,40763,C,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Education - Elementary and Secondary Other,62,R,306010,R,47,C,19559,C,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,Libraries,11,G,54640,G,29,G,30989,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Cumberland,All other and unallocable,2,G,7188,G,0,G,0,G,40300400200000,Northeast,Providence,44,007,35207,20,NA,1,04,174840
+Rhode Island,Township,Foster,Total - All Government Employment Functions,61,G,350106,G,30,G,70938,G,40300400400000,Northeast,Providence,44,007,4747,20,NA,1,04,183880
+Rhode Island,Township,Foster,Financial Administration,10,G,44795,G,10,G,21197,G,40300400400000,Northeast,Providence,44,007,4747,20,NA,1,04,183880
+Rhode Island,Township,Foster,Other Government Administration,6,G,24716,G,0,G,0,G,40300400400000,Northeast,Providence,44,007,4747,20,NA,1,04,183880
+Rhode Island,Township,Foster,Police Protection - Persons with Power of Arrest,9,G,58770,G,0,G,0,G,40300400400000,Northeast,Providence,44,007,4747,20,NA,1,04,183880
+Rhode Island,Township,Foster,Education - Elementary and Secondary Instructional,30,G,193053,G,7,G,11240,G,40300400400000,Northeast,Providence,44,007,4747,20,NA,1,04,183880
+Rhode Island,Township,Foster,Education - Elementary and Secondary Other,6,G,28772,G,13,G,38501,G,40300400400000,Northeast,Providence,44,007,4747,20,NA,1,04,183880
+Rhode Island,Township,Glocester,Total - All Government Employment Functions,147,G,841687,G,139,G,301210,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Financial Administration,8,G,31571,G,0,G,0,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Other Government Administration,8,G,43271,G,27,G,17033,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Police Protection - Persons with Power of Arrest,17,G,95210,G,0,G,0,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Police Protection - Other,5,G,17398,G,13,G,6450,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Highways,17,G,104364,G,0,G,0,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Public Welfare,0,G,0,G,5,G,2511,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Parks and Recreation,0,G,0,G,5,G,2347,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Education - Elementary and Secondary Instructional,81,G,498218,G,37,G,71698,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Glocester,Education - Elementary and Secondary Other,11,G,51655,G,52,G,201171,G,40300400500000,Northeast,Providence,44,007,10352,20,NA,1,04,112816
+Rhode Island,Township,Johnston,Total - All Government Employment Functions,668,T,4255995,T,124,R,131087,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Financial Administration,8,R,47213,R,1,R,658,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Other Government Administration,6,C,28723,C,36,C,6584,C,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Judicial and Legal,2,R,7870,R,3,R,4300,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Police Protection - Persons with Power of Arrest,66,R,569097,X,0,R,0,X,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Police Protection - Other,14,R,59779,R,3,R,6058,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Fire Protection - Firefighters,88,R,883735,R,0,R,0,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Fire Protection - Other,3,R,14329,R,2,R,2591,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Highways,9,R,41799,R,1,R,1594,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Sewerage,4,R,19311,R,0,R,0,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Parks and Recreation,9,R,40249,R,14,R,6045,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Housing and Community Development,1,R,6813,R,0,R,0,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Education - Elementary and Secondary Instructional,320,T,2135836,T,8,R,15595,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Education - Elementary and Secondary Other,119,T,315210,T,45,R,75711,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,Libraries,6,R,20254,R,5,R,4249,R,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Johnston,All other and unallocable,13,C,65778,C,6,C,7702,C,40300400600000,Northeast,Providence,44,007,29366,20,NA,1,04,174841
+Rhode Island,Township,Lincoln,Total - All Government Employment Functions,651,R,3776322,R,95,R,130673,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Financial Administration,10,R,49705,R,0,R,0,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Other Government Administration,8,R,46364,R,0,R,0,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Judicial and Legal,2,C,7131,C,0,C,0,C,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Police Protection - Persons with Power of Arrest,33,R,290769,X,0,R,0,X,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Police Protection - Other,2,R,7241,R,0,R,0,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Fire Protection - Firefighters,21,C,173672,C,0,C,0,C,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Highways,31,R,101535,R,0,R,0,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Public Welfare,5,C,19308,C,1,C,1975,C,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Health,1,R,4262,R,1,R,1727,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Solid Waste Management,16,R,80394,C,0,R,0,C,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Parks and Recreation,2,R,9878,R,14,C,8814,C,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Education - Elementary and Secondary Instructional,416,R,2566401,R,63,R,100469,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Education - Elementary and Secondary Other,87,R,361345,R,9,C,12608,C,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,Libraries,13,R,40422,R,7,R,5080,R,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,Lincoln,All other and unallocable,4,C,17895,C,0,C,0,C,40300400700000,Northeast,Providence,44,007,21941,20,NA,1,04,174842
+Rhode Island,Township,North Providence,Total - All Government Employment Functions,699,R,4376170,R,176,R,254064,R,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Financial Administration,10,G,58258,G,1,G,2223,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Other Government Administration,7,G,45946,G,12,G,8367,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Judicial and Legal,1,G,5237,G,5,G,3330,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Police Protection - Persons with Power of Arrest,63,G,497158,G,0,G,0,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Police Protection - Other,15,G,73213,G,0,G,0,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Fire Protection - Firefighters,109,G,716279,G,6,G,4546,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Fire Protection - Other,1,G,6893,G,0,G,0,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Highways,22,G,101572,G,0,G,0,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Public Welfare,4,G,21140,G,2,G,2611,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Parks and Recreation,4,G,19138,G,18,G,13554,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Education - Elementary and Secondary Instructional,377,R,2433947,R,64,R,127080,R,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Education - Elementary and Secondary Other,56,R,251392,R,36,R,52355,R,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,Libraries,8,G,34091,G,25,G,27278,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Providence,All other and unallocable,22,G,111906,G,7,G,12721,G,40300400800000,Northeast,Providence,44,007,32507,20,NA,1,04,134389
+Rhode Island,Township,North Smithfield,Total - All Government Employment Functions,285,R,1728027,R,78,R,147476,R,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Financial Administration,3,G,12090,G,0,G,0,G,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Other Government Administration,17,G,76129,G,10,G,8502,G,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Police Protection - Persons with Power of Arrest,27,G,182685,G,0,G,0,G,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Highways,13,G,71346,G,2,G,2856,G,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Solid Waste Management,0,G,0,G,1,G,3311,G,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Sewerage,2,G,12226,G,0,G,0,G,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Parks and Recreation,3,G,17506,G,0,G,0,G,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Education - Elementary and Secondary Instructional,176,R,1111074,R,35,R,86119,R,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,North Smithfield,Education - Elementary and Secondary Other,44,R,244971,R,30,R,46688,R,40300400900000,Northeast,Providence,44,007,12576,20,NA,1,04,174843
+Rhode Island,Township,Scituate,Total - All Government Employment Functions,221,G,1474774,G,378,G,208358,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Financial Administration,6,G,27132,G,2,G,5891,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Other Government Administration,3,G,15576,G,0,G,0,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Police Protection - Persons with Power of Arrest,19,G,131631,G,0,G,0,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Police Protection - Other,6,G,31509,G,2,G,4874,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Highways,11,G,58179,G,0,G,0,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Public Welfare,1,G,3823,G,2,G,5045,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Education - Elementary and Secondary Instructional,149,G,1094621,G,218,G,98026,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,Education - Elementary and Secondary Other,24,G,97978,G,152,G,86528,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Scituate,All other and unallocable,2,G,14325,G,2,G,7994,G,40300401000000,Northeast,Providence,44,007,10727,20,NA,1,04,183884
+Rhode Island,Township,Smithfield,Total - All Government Employment Functions,515,X,3400814,T,88,X,117163,T,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Financial Administration,11,G,71057,G,1,G,1666,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Other Government Administration,16,G,98737,G,2,G,2897,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Police Protection - Persons with Power of Arrest,42,G,340668,G,0,G,0,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Police Protection - Other,10,G,69046,G,8,G,15823,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Fire Protection - Firefighters,69,G,527168,G,0,G,0,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Fire Protection - Other,5,G,27377,G,0,G,0,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Highways,20,G,116897,G,1,G,1041,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Public Welfare,4,G,20208,G,2,G,1718,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Water Supply,2,G,12086,G,0,G,0,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Education - Elementary and Secondary Instructional,282,X,1875761,T,39,X,82161,T,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,Education - Elementary and Secondary Other,54,X,241810,T,34,X,11709,T,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Smithfield,All other and unallocable,0,G,0,G,1,G,148,G,40300401100000,Northeast,Providence,44,007,21842,20,NA,1,04,183885
+Rhode Island,Township,Charlestown,Total - All Government Employment Functions,63,R,390366,R,32,R,37689,C,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Financial Administration,9,C,54288,C,1,R,1216,R,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Other Government Administration,5,R,34840,R,0,R,0,R,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Police Protection - Persons with Power of Arrest,21,R,162214,R,6,C,8968,C,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Police Protection - Other,5,R,33763,R,10,R,8873,R,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Highways,10,R,50364,R,2,C,352,C,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Sea and Inland Port Facilities,0,R,0,R,3,R,4781,R,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Public Welfare,0,R,0,R,5,R,8665,R,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Solid Waste Management,2,C,10494,C,0,C,0,C,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Sewerage,1,C,7799,C,2,C,1027,C,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,Parks and Recreation,3,R,17010,R,0,R,0,R,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Charlestown,All other and unallocable,7,C,19595,C,3,C,3809,C,40300500100000,Northeast,Washington,44,009,7836,20,NA,1,04,194034
+Rhode Island,Township,Exeter,Total - All Government Employment Functions,15,G,71333,G,48,G,47507,G,40300500200000,Northeast,Washington,44,009,6531,20,NA,1,04,191473
+Rhode Island,Township,Exeter,Financial Administration,7,G,31633,G,3,G,12195,G,40300500200000,Northeast,Washington,44,009,6531,20,NA,1,04,191473
+Rhode Island,Township,Exeter,Other Government Administration,0,G,0,G,7,G,4400,G,40300500200000,Northeast,Washington,44,009,6531,20,NA,1,04,191473
+Rhode Island,Township,Exeter,Highways,8,G,39700,G,0,G,0,G,40300500200000,Northeast,Washington,44,009,6531,20,NA,1,04,191473
+Rhode Island,Township,Exeter,Libraries,0,G,0,G,6,G,5963,G,40300500200000,Northeast,Washington,44,009,6531,20,NA,1,04,191473
+Rhode Island,Township,Exeter,All other and unallocable,0,G,0,G,32,G,24949,G,40300500200000,Northeast,Washington,44,009,6531,20,NA,1,04,191473
+Rhode Island,Township,Hopkinton,Total - All Government Employment Functions,45,R,249577,R,18,C,20472,R,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Financial Administration,6,R,31515,R,1,R,2582,R,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Other Government Administration,3,C,14099,C,1,R,3729,R,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Judicial and Legal,0,C,0,C,3,C,2730,C,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Police Protection - Persons with Power of Arrest,16,R,110540,R,0,R,0,R,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Police Protection - Other,5,R,21250,R,3,C,3414,C,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Highways,12,R,56202,R,0,R,0,R,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Parks and Recreation,1,R,4737,R,7,C,3360,C,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Hopkinton,Housing and Community Development,2,R,11234,R,3,R,4657,R,40300500300000,Northeast,Washington,44,009,8095,20,NA,1,04,174844
+Rhode Island,Township,Narragansett,Total - All Government Employment Functions,420,T,2827406,T,131,T,198073,T,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Financial Administration,16,G,97419,G,0,G,0,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Other Government Administration,17,G,104138,G,13,G,7452,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Judicial and Legal,2,G,9325,G,2,G,1520,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Police Protection - Persons with Power of Arrest,39,G,357082,G,0,G,0,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Police Protection - Other,11,G,63604,G,4,G,10559,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Fire Protection - Firefighters,34,G,313250,G,0,G,0,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Fire Protection - Other,1,G,4226,G,0,G,0,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Highways,18,G,128914,G,7,G,20650,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Health,1,G,5900,G,1,G,2864,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Sewerage,8,G,53320,G,0,G,0,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Parks and Recreation,13,G,68768,G,25,G,51117,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Water Supply,5,G,33551,G,1,G,2775,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Education - Elementary and Secondary Instructional,191,T,1262703,T,52,T,55323,T,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Education - Elementary and Secondary Other,59,T,296496,T,12,T,17075,T,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,Libraries,5,G,28710,G,10,G,21035,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,Narragansett,All other and unallocable,0,G,0,G,4,G,7703,G,40300500400000,Northeast,Washington,44,009,15309,20,NA,1,04,183883
+Rhode Island,Township,North Kingstown,Total - All Government Employment Functions,786,G,4798680,G,115,G,136256,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Financial Administration,15,G,39733,G,6,G,8109,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Other Government Administration,24,G,141048,G,2,G,5224,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Police Protection - Persons with Power of Arrest,50,G,371393,G,0,G,0,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Police Protection - Other,9,G,45923,G,2,G,3095,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Fire Protection - Firefighters,70,G,518161,G,0,G,0,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Fire Protection - Other,1,G,4670,G,0,G,0,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Highways,16,G,80177,G,0,G,0,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Sea and Inland Port Facilities,8,G,31818,G,1,G,2407,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Public Welfare,6,G,26253,G,10,G,18201,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Solid Waste Management,0,G,0,G,2,G,4374,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Parks and Recreation,2,G,11366,G,11,G,2503,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Water Supply,18,G,81995,G,0,G,0,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Education - Elementary and Secondary Instructional,474,G,2984133,G,18,G,29474,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Education - Elementary and Secondary Other,79,G,396016,G,53,G,52524,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,North Kingstown,Libraries,14,G,65995,G,10,G,10345,G,40300500500000,Northeast,Washington,44,009,26278,20,NA,1,04,187439
+Rhode Island,Township,Richmond,Total - All Government Employment Functions,31,G,167431,G,30,G,45117,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,Richmond,Financial Administration,2,G,9083,G,7,G,19117,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,Richmond,Other Government Administration,4,G,19332,G,0,G,0,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,Richmond,Police Protection - Persons with Power of Arrest,12,G,77287,G,0,G,0,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,Richmond,Police Protection - Other,4,G,15866,G,7,G,5353,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,Richmond,Highways,6,G,28874,G,1,G,527,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,Richmond,Housing and Community Development,2,G,13247,G,8,G,13865,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,Richmond,All other and unallocable,1,G,3742,G,7,G,6255,G,40300500600000,Northeast,Washington,44,009,7886,20,NA,1,04,134390
+Rhode Island,Township,South Kingstown,Total - All Government Employment Functions,546,T,3823825,T,181,T,294080,T,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Financial Administration,11,R,87232,R,2,C,4902,C,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Other Government Administration,18,R,116476,R,8,R,5029,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Judicial and Legal,0,R,0,R,1,R,583,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Police Protection - Persons with Power of Arrest,58,R,413115,R,0,R,0,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Police Protection - Other,15,R,69037,R,19,C,35119,C,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Highways,23,R,121806,R,0,R,0,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Sea and Inland Port Facilities,0,C,0,C,1,C,270,C,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Public Welfare,4,R,18321,R,2,R,2002,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Health,21,R,123300,C,4,R,7850,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Solid Waste Management,0,R,0,R,1,R,2336,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Sewerage,15,R,75737,R,0,R,0,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Parks and Recreation,16,R,75445,R,16,R,19656,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Natural Resources,0,R,0,R,1,R,722,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Water Supply,2,R,11054,R,0,R,0,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Education - Elementary and Secondary Instructional,299,T,2446197,T,99,T,188035,T,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Education - Elementary and Secondary Other,43,T,163936,T,7,T,4234,T,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,Libraries,10,R,49996,R,13,R,15062,R,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,South Kingstown,All other and unallocable,11,C,52173,C,7,C,8281,C,40300500700000,Northeast,Washington,44,009,30454,20,NA,1,04,174845
+Rhode Island,Township,Westerly,Total - All Government Employment Functions,667,G,3847220,G,239,G,368840,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Financial Administration,32,G,160035,G,2,G,3674,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Other Government Administration,14,G,78236,G,1,G,359,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Judicial and Legal,7,G,16182,G,2,G,4057,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Police Protection - Persons with Power of Arrest,54,G,427029,G,0,G,0,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Police Protection - Other,11,G,50869,G,10,G,20703,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Highways,35,G,35767,G,0,G,0,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Health,1,G,5117,G,2,G,6615,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Solid Waste Management,9,G,34956,G,0,G,0,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Parks and Recreation,1,G,6636,G,6,G,7381,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Water Supply,20,G,100661,G,0,G,0,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Education - Elementary and Secondary Instructional,416,G,2625564,G,97,G,93526,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,Westerly,Education - Elementary and Secondary Other,67,G,306168,G,119,G,232525,G,40300500800000,Northeast,Washington,44,009,22328,20,NA,1,04,174846
+Rhode Island,Township,New Shoreham,Total - All Government Employment Functions,87,G,486239,G,34,G,71428,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Financial Administration,4,G,14397,G,1,G,988,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Other Government Administration,7,G,51261,G,10,G,18308,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Police Protection - Persons with Power of Arrest,5,G,41985,G,1,G,4141,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Police Protection - Other,7,G,17114,G,1,G,2484,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Highways,6,G,25852,G,0,G,0,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Sea and Inland Port Facilities,2,G,7163,G,1,G,390,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Public Welfare,0,G,0,G,2,G,2509,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Health,0,G,0,G,1,G,2000,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Sewerage,5,G,22528,G,0,G,0,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Parks and Recreation,2,G,10987,G,0,G,0,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Housing and Community Development,0,G,0,G,1,G,2372,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Water Supply,3,G,13073,G,0,G,0,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Education - Elementary and Secondary Instructional,33,G,224518,G,12,G,30838,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Education - Elementary and Secondary Other,6,G,29401,G,4,G,7400,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,Libraries,5,G,19244,G,0,G,0,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Township,New Shoreham,All other and unallocable,2,G,8715,G,0,G,0,G,40300580100000,Northeast,Washington,44,009,1029,20,NA,1,04,174847
+Rhode Island,Special District,Prudence Island Water District,Total - All Government Employment Functions,0,C,0,C,4,C,6409,C,40400119900000,Northeast,Bristol,44,001,91,NA,NA,1,03,215787
+Rhode Island,Special District,Prudence Island Water District,Water Supply,0,C,0,C,4,C,6409,C,40400119900000,Northeast,Bristol,44,001,91,NA,NA,1,03,215787
+Rhode Island,Special District,Bristol County Water Authority,Total - All Government Employment Functions,33,R,238308,R,9,C,19000,C,40400160100000,Northeast,Bristol,44,001,91,NA,NA,1,03,134391
+Rhode Island,Special District,Bristol County Water Authority,Water Supply,33,R,238308,R,9,C,19000,C,40400160100000,Northeast,Bristol,44,001,91,NA,NA,1,03,134391
+Rhode Island,Special District,Warren Housing Authority,Total - All Government Employment Functions,8,R,44884,R,0,R,0,R,40400160200000,Northeast,Bristol,44,001,50,NA,NA,1,03,156492
+Rhode Island,Special District,Warren Housing Authority,Housing and Community Development,8,R,44884,R,0,R,0,R,40400160200000,Northeast,Bristol,44,001,50,NA,NA,1,03,156492
+Rhode Island,Special District,Bristol Housing Authority,Total - All Government Employment Functions,9,R,51952,R,2,R,3656,R,40400170100000,Northeast,Bristol,44,001,50,NA,NA,1,03,156493
+Rhode Island,Special District,Bristol Housing Authority,Housing and Community Development,9,R,51952,R,2,R,3656,R,40400170100000,Northeast,Bristol,44,001,50,NA,NA,1,03,156493
+Rhode Island,Special District,Coventry Fire District,Total - All Government Employment Functions,10,T,66442,T,0,T,0,T,40400200200000,Northeast,Kent,44,003,24,NA,NA,1,07,134392
+Rhode Island,Special District,Coventry Fire District,Fire Protection - Firefighters,9,T,63276,T,0,T,0,T,40400200200000,Northeast,Kent,44,003,24,NA,NA,1,07,134392
+Rhode Island,Special District,Coventry Fire District,Fire Protection - Other,1,T,3166,T,0,T,0,T,40400200200000,Northeast,Kent,44,003,24,NA,NA,1,07,134392
+Rhode Island,Special District,Kent County Water Authority,Total - All Government Employment Functions,35,R,209035,R,0,R,0,R,40400200500000,Northeast,Kent,44,003,91,NA,NA,1,03,156495
+Rhode Island,Special District,Kent County Water Authority,Water Supply,35,R,209035,R,0,R,0,R,40400200500000,Northeast,Kent,44,003,91,NA,NA,1,03,156495
+Rhode Island,Special District,Southern Rhode Island Conservation District,Total - All Government Employment Functions,7,C,39287,C,0,C,0,C,40400200600000,Northeast,Kent,44,003,88,NA,NA,1,03,156496
+Rhode Island,Special District,Southern Rhode Island Conservation District,Natural Resources,7,C,39287,C,0,C,0,C,40400200600000,Northeast,Kent,44,003,88,NA,NA,1,03,156496
+Rhode Island,Special District,Western Coventry Fire District,Total - All Government Employment Functions,2,C,11953,C,13,C,19589,C,40400201000000,Northeast,Kent,44,003,24,NA,NA,1,07,156497
+Rhode Island,Special District,Western Coventry Fire District,Fire Protection - Other,2,C,11953,C,13,C,19589,C,40400201000000,Northeast,Kent,44,003,24,NA,NA,1,07,156497
+Rhode Island,Special District,Central Coventry Fire District,Total - All Government Employment Functions,33,R,228023,R,0,C,0,C,40400250100000,Northeast,Kent,44,003,24,NA,NA,1,07,112821
+Rhode Island,Special District,Central Coventry Fire District,Fire Protection - Firefighters,31,R,220472,R,0,R,0,R,40400250100000,Northeast,Kent,44,003,24,NA,NA,1,07,112821
+Rhode Island,Special District,Central Coventry Fire District,Fire Protection - Other,2,C,7551,C,0,C,0,C,40400250100000,Northeast,Kent,44,003,24,NA,NA,1,07,112821
+Rhode Island,Special District,Hopkins Hill Fire District,Total - All Government Employment Functions,12,G,22804,G,13,G,3553,G,40400250200000,Northeast,Kent,44,003,24,NA,NA,1,07,156499
+Rhode Island,Special District,Hopkins Hill Fire District,Fire Protection - Firefighters,12,G,22804,G,13,G,3553,G,40400250200000,Northeast,Kent,44,003,24,NA,NA,1,07,156499
+Rhode Island,Special District,Tiverton Housing Authority,Total - All Government Employment Functions,2,G,4250,G,3,G,5545,G,40400260100000,Northeast,Kent,44,003,50,NA,NA,1,03,156500
+Rhode Island,Special District,Tiverton Housing Authority,Housing and Community Development,2,G,4250,G,3,G,5545,G,40400260100000,Northeast,Kent,44,003,50,NA,NA,1,03,156500
+Rhode Island,Special District,Coventry Town Housing Authority,Total - All Government Employment Functions,13,R,59281,R,1,R,1608,R,40400270100000,Northeast,Kent,44,003,50,NA,NA,1,03,205350
+Rhode Island,Special District,Coventry Town Housing Authority,Housing and Community Development,13,R,59281,R,1,R,1608,R,40400270100000,Northeast,Kent,44,003,50,NA,NA,1,03,205350
+Rhode Island,Special District,Warwick Housing Authority,Total - All Government Employment Functions,18,G,90751,G,0,G,0,G,40400270200000,Northeast,Kent,44,003,50,NA,NA,1,03,156501
+Rhode Island,Special District,Warwick Housing Authority,Housing and Community Development,18,G,90751,G,0,G,0,G,40400270200000,Northeast,Kent,44,003,50,NA,NA,1,03,156501
+Rhode Island,Special District,West Warwick Town Housing Authority,Total - All Government Employment Functions,11,R,68997,R,1,R,2325,R,40400270300000,Northeast,Kent,44,003,50,NA,NA,1,03,156502
+Rhode Island,Special District,West Warwick Town Housing Authority,Housing and Community Development,11,R,68997,R,1,R,2325,R,40400270300000,Northeast,Kent,44,003,50,NA,NA,1,03,156502
+Rhode Island,Special District,East Greenwich Housing Authority,Total - All Government Employment Functions,9,R,38661,R,1,R,3031,R,40400290200000,Northeast,Kent,44,003,50,NA,NA,1,03,112822
+Rhode Island,Special District,East Greenwich Housing Authority,Housing and Community Development,9,R,38661,R,1,R,3031,R,40400290200000,Northeast,Kent,44,003,50,NA,NA,1,03,112822
+Rhode Island,Special District,Eastern Rhode Island Conservation District,Total - All Government Employment Functions,2,R,9840,R,2,R,498,R,40400300100000,Northeast,Newport,44,005,88,NA,NA,1,03,156503
+Rhode Island,Special District,Eastern Rhode Island Conservation District,Natural Resources,2,R,9840,R,2,R,498,R,40400300100000,Northeast,Newport,44,005,88,NA,NA,1,03,156503
+Rhode Island,Special District,Newport City Housing Authority,Total - All Government Employment Functions,29,R,157322,R,0,R,0,R,40400300200000,Northeast,Newport,44,005,50,NA,NA,1,03,156504
+Rhode Island,Special District,Newport City Housing Authority,Housing and Community Development,29,R,157322,R,0,R,0,R,40400300200000,Northeast,Newport,44,005,50,NA,NA,1,03,156504
+Rhode Island,Special District,North Tiverton Fire District,Total - All Government Employment Functions,4,R,24070,R,12,R,46964,X,40400300300000,Northeast,Newport,44,005,91,NA,NA,1,03,134396
+Rhode Island,Special District,North Tiverton Fire District,Water Supply,4,R,24070,R,12,R,46964,X,40400300300000,Northeast,Newport,44,005,91,NA,NA,1,03,134396
+Rhode Island,Special District,Stone Bridge Fire District,Total - All Government Employment Functions,12,C,77198,X,2,R,1604,R,40400300400000,Northeast,Newport,44,005,91,NA,NA,1,03,215607
+Rhode Island,Special District,Stone Bridge Fire District,Water Supply,12,C,77198,X,2,R,1604,R,40400300400000,Northeast,Newport,44,005,91,NA,NA,1,03,215607
+Rhode Island,Special District,Newport County Convention And Visitors Bureau,Total - All Government Employment Functions,11,R,91539,R,2,R,2436,R,40400312200000,Northeast,Newport,44,005,89,NA,NA,1,03,218010
+Rhode Island,Special District,Newport County Convention And Visitors Bureau,All other and unallocable,11,R,91539,R,2,R,2436,R,40400312200000,Northeast,Newport,44,005,89,NA,NA,1,03,218010
+Rhode Island,Special District,Portsmouth Water And Fire District,Total - All Government Employment Functions,13,R,79074,R,7,C,7888,C,40400350100000,Northeast,Newport,44,005,91,NA,NA,1,03,207151
+Rhode Island,Special District,Portsmouth Water And Fire District,Water Supply,13,R,79074,R,7,C,7888,C,40400350100000,Northeast,Newport,44,005,91,NA,NA,1,03,207151
+Rhode Island,Special District,Jamestown Housing Authority,Total - All Government Employment Functions,1,R,3406,R,3,C,3990,C,40400370100000,Northeast,Newport,44,005,50,NA,NA,1,03,112823
+Rhode Island,Special District,Jamestown Housing Authority,Housing and Community Development,1,R,3406,R,3,C,3990,C,40400370100000,Northeast,Newport,44,005,50,NA,NA,1,03,112823
+Rhode Island,Special District,Portsmouth Town Housing Authority,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400370200000,Northeast,Newport,44,005,50,NA,NA,1,03,191474
+Rhode Island,Special District,Portsmouth Town Housing Authority,Housing and Community Development,0,R,0,R,0,R,0,R,40400370200000,Northeast,Newport,44,005,50,NA,NA,1,03,191474
+Rhode Island,Special District,Lincoln Fire District,Total - All Government Employment Functions,12,R,71449,R,30,R,39427,R,40400400100000,Northeast,Providence,44,007,24,NA,NA,1,07,205351
+Rhode Island,Special District,Lincoln Fire District,Fire Protection - Firefighters,10,R,55833,R,28,R,37537,R,40400400100000,Northeast,Providence,44,007,24,NA,NA,1,07,205351
+Rhode Island,Special District,Lincoln Fire District,Fire Protection - Other,2,R,15615,R,2,R,1890,R,40400400100000,Northeast,Providence,44,007,24,NA,NA,1,07,205351
+Rhode Island,Special District,Chepachet Fire District,Total - All Government Employment Functions,0,T,0,T,20,T,17000,T,40400400400000,Northeast,Providence,44,007,24,NA,NA,1,07,156507
+Rhode Island,Special District,Chepachet Fire District,Fire Protection - Firefighters,0,T,0,T,16,T,11638,T,40400400400000,Northeast,Providence,44,007,24,NA,NA,1,07,156507
+Rhode Island,Special District,Chepachet Fire District,Fire Protection - Other,0,T,0,T,4,T,5362,T,40400400400000,Northeast,Providence,44,007,24,NA,NA,1,07,156507
+Rhode Island,Special District,Cumberland Fire District,Total - All Government Employment Functions,56,R,374440,R,1,R,1364,R,40400400500000,Northeast,Providence,44,007,24,NA,NA,1,07,134397
+Rhode Island,Special District,Cumberland Fire District,Fire Protection - Firefighters,52,R,359652,R,0,R,0,R,40400400500000,Northeast,Providence,44,007,24,NA,NA,1,07,134397
+Rhode Island,Special District,Cumberland Fire District,Fire Protection - Other,4,R,14788,R,1,R,1364,R,40400400500000,Northeast,Providence,44,007,24,NA,NA,1,07,134397
+Rhode Island,Special District,Harmony Fire District,Total - All Government Employment Functions,0,C,0,C,16,C,28806,C,40400400900000,Northeast,Providence,44,007,24,NA,NA,1,07,205352
+Rhode Island,Special District,Harmony Fire District,Fire Protection - Firefighters,0,C,0,C,1,C,1048,C,40400400900000,Northeast,Providence,44,007,24,NA,NA,1,07,205352
+Rhode Island,Special District,Harmony Fire District,Fire Protection - Other,0,C,0,C,15,C,27758,C,40400400900000,Northeast,Providence,44,007,24,NA,NA,1,07,205352
+Rhode Island,Special District,Harrisville Fire District,Total - All Government Employment Functions,13,C,47847,C,10,C,12230,C,40400401000000,Northeast,Providence,44,007,96,NA,NA,1,07,215608
+Rhode Island,Special District,Harrisville Fire District,Fire Protection - Firefighters,9,C,23769,X,10,C,12230,C,40400401000000,Northeast,Providence,44,007,96,NA,NA,1,07,215608
+Rhode Island,Special District,Harrisville Fire District,Water Supply,4,C,24078,C,0,C,0,C,40400401000000,Northeast,Providence,44,007,96,NA,NA,1,07,215608
+Rhode Island,Special District,Lime Rock Fire District,Total - All Government Employment Functions,0,Q,0,Q,4,Q,8965,Q,40400401100000,Northeast,Providence,44,007,24,NA,NA,1,07,156510
+Rhode Island,Special District,Lime Rock Fire District,Fire Protection - Firefighters,0,Q,0,Q,4,Q,8965,Q,40400401100000,Northeast,Providence,44,007,24,NA,NA,1,07,156510
+Rhode Island,Special District,Lonsdale Fire District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400401200000,Northeast,Providence,44,007,24,NA,NA,1,07,134398
+Rhode Island,Special District,Lonsdale Fire District,Fire Protection - Firefighters,0,R,0,R,0,R,0,R,40400401200000,Northeast,Providence,44,007,24,NA,NA,1,07,134398
+Rhode Island,Special District,Manville Fire District,Total - All Government Employment Functions,0,G,0,G,12,G,17031,G,40400401300000,Northeast,Providence,44,007,24,NA,NA,1,07,112824
+Rhode Island,Special District,Manville Fire District,Fire Protection - Firefighters,0,G,0,G,10,G,12910,G,40400401300000,Northeast,Providence,44,007,24,NA,NA,1,07,112824
+Rhode Island,Special District,Manville Fire District,Fire Protection - Other,0,G,0,G,2,G,4121,G,40400401300000,Northeast,Providence,44,007,24,NA,NA,1,07,112824
+Rhode Island,Special District,Nasonville Fire District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400401400000,Northeast,Providence,44,007,24,NA,NA,1,07,134399
+Rhode Island,Special District,Nasonville Fire District,Fire Protection - Firefighters,0,R,0,R,0,R,0,R,40400401400000,Northeast,Providence,44,007,24,NA,NA,1,07,134399
+Rhode Island,Special District,Northern Rhode Island Conservation District,Total - All Government Employment Functions,8,R,36594,R,0,R,0,R,40400401500000,Northeast,Providence,44,007,88,NA,NA,1,03,156511
+Rhode Island,Special District,Northern Rhode Island Conservation District,Natural Resources,8,R,36594,R,0,R,0,R,40400401500000,Northeast,Providence,44,007,88,NA,NA,1,03,156511
+Rhode Island,Special District,Oakland-Mapleville Fire District 4,Total - All Government Employment Functions,0,C,0,C,27,C,14870,C,40400401600000,Northeast,Providence,44,007,24,NA,NA,1,07,156512
+Rhode Island,Special District,Oakland-Mapleville Fire District 4,Fire Protection - Firefighters,0,C,0,C,16,C,3947,C,40400401600000,Northeast,Providence,44,007,24,NA,NA,1,07,156512
+Rhode Island,Special District,Oakland-Mapleville Fire District 4,Fire Protection - Other,0,C,0,C,11,C,10923,C,40400401600000,Northeast,Providence,44,007,24,NA,NA,1,07,156512
+Rhode Island,Special District,Pascoag Fire District,Total - All Government Employment Functions,4,R,36195,R,9,C,7134,C,40400401700000,Northeast,Providence,44,007,24,NA,NA,1,07,140184
+Rhode Island,Special District,Pascoag Fire District,Fire Protection - Firefighters,4,R,36195,R,6,C,3838,C,40400401700000,Northeast,Providence,44,007,24,NA,NA,1,07,140184
+Rhode Island,Special District,Pascoag Fire District,Fire Protection - Other,0,C,0,C,3,C,3296,C,40400401700000,Northeast,Providence,44,007,24,NA,NA,1,07,140184
+Rhode Island,Special District,Pawtucket City Housing Authority,Total - All Government Employment Functions,46,R,264495,R,1,R,3454,R,40400401800000,Northeast,Providence,44,007,50,NA,NA,1,03,134400
+Rhode Island,Special District,Pawtucket City Housing Authority,Housing and Community Development,46,R,264495,R,1,R,3454,R,40400401800000,Northeast,Providence,44,007,50,NA,NA,1,03,134400
+Rhode Island,Special District,Providence Housing Authority,Total - All Government Employment Functions,185,G,923559,G,24,G,52025,G,40400401900000,Northeast,Providence,44,007,50,NA,NA,1,03,112825
+Rhode Island,Special District,Providence Housing Authority,Housing and Community Development,185,G,923559,G,24,G,52025,G,40400401900000,Northeast,Providence,44,007,50,NA,NA,1,03,112825
+Rhode Island,Special District,Quinnville Fire District,Total - All Government Employment Functions,0,G,0,G,5,G,4364,G,40400402000000,Northeast,Providence,44,007,24,NA,NA,1,07,156513
+Rhode Island,Special District,Quinnville Fire District,Fire Protection - Firefighters,0,G,0,G,5,G,4364,G,40400402000000,Northeast,Providence,44,007,24,NA,NA,1,07,156513
+Rhode Island,Special District,Saylesville Fire District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400402100000,Northeast,Providence,44,007,24,NA,NA,1,07,191475
+Rhode Island,Special District,Saylesville Fire District,Fire Protection - Firefighters,0,R,0,R,0,R,0,R,40400402100000,Northeast,Providence,44,007,24,NA,NA,1,07,191475
+Rhode Island,Special District,Woonsocket City Housing Authority,Total - All Government Employment Functions,52,G,278686,G,21,G,34844,G,40400402300000,Northeast,Providence,44,007,50,NA,NA,1,03,134401
+Rhode Island,Special District,Woonsocket City Housing Authority,Housing and Community Development,52,G,278686,G,21,G,34844,G,40400402300000,Northeast,Providence,44,007,50,NA,NA,1,03,134401
+Rhode Island,Special District,Glocester Housing Authority,Total - All Government Employment Functions,2,R,9589,R,0,R,0,R,40400410100000,Northeast,Providence,44,007,50,NA,NA,1,03,225874
+Rhode Island,Special District,Glocester Housing Authority,Housing and Community Development,2,R,9589,R,0,R,0,R,40400410100000,Northeast,Providence,44,007,50,NA,NA,1,03,225874
+Rhode Island,Special District,East Providence Waterfront Special Dev. Dist. Comm.,Total - All Government Employment Functions,0,G,0,G,2,G,3734,G,40400414600000,Northeast,Providence,44,007,89,NA,NA,1,03,216282
+Rhode Island,Special District,East Providence Waterfront Special Dev. Dist. Comm.,All other and unallocable,0,G,0,G,2,G,3734,G,40400414600000,Northeast,Providence,44,007,89,NA,NA,1,03,216282
+Rhode Island,Special District,Greater Providence-Warwick Convention And Visitors Bureau,Total - All Government Employment Functions,20,G,56686,G,3,G,3815,G,40400415500000,Northeast,Providence,44,007,89,NA,NA,1,03,218011
+Rhode Island,Special District,Greater Providence-Warwick Convention And Visitors Bureau,All other and unallocable,20,G,56686,G,3,G,3815,G,40400415500000,Northeast,Providence,44,007,89,NA,NA,1,03,218011
+Rhode Island,Special District,Echo Lake Water District,Total - All Government Employment Functions,0,R,0,R,2,R,1135,R,40400419700000,Northeast,Providence,44,007,91,NA,NA,1,03,215611
+Rhode Island,Special District,Echo Lake Water District,Water Supply,0,R,0,R,2,R,1135,R,40400419700000,Northeast,Providence,44,007,91,NA,NA,1,03,215611
+Rhode Island,Special District,Pascoag Utility District,Total - All Government Employment Functions,18,R,131345,R,0,R,0,R,40400430100000,Northeast,Providence,44,007,99,NA,NA,1,07,215634
+Rhode Island,Special District,Pascoag Utility District,Water Supply,2,R,13241,R,0,R,0,R,40400430100000,Northeast,Providence,44,007,99,NA,NA,1,07,215634
+Rhode Island,Special District,Pascoag Utility District,Electric Power,16,R,118104,R,0,R,0,R,40400430100000,Northeast,Providence,44,007,99,NA,NA,1,07,215634
+Rhode Island,Special District,Greenville Water District,Total - All Government Employment Functions,5,G,27539,G,0,G,0,G,40400450100000,Northeast,Providence,44,007,91,NA,NA,1,03,134402
+Rhode Island,Special District,Greenville Water District,Water Supply,5,G,27539,G,0,G,0,G,40400450100000,Northeast,Providence,44,007,91,NA,NA,1,03,134402
+Rhode Island,Special District,Central Falls Housing Authority,Total - All Government Employment Functions,19,G,100857,G,3,G,5024,G,40400470100000,Northeast,Providence,44,007,50,NA,NA,1,03,134403
+Rhode Island,Special District,Central Falls Housing Authority,Housing and Community Development,19,G,100857,G,3,G,5024,G,40400470100000,Northeast,Providence,44,007,50,NA,NA,1,03,134403
+Rhode Island,Special District,Cranston Housing Authority,Total - All Government Employment Functions,20,G,107693,G,1,G,1116,G,40400470200000,Northeast,Providence,44,007,50,NA,NA,1,03,112827
+Rhode Island,Special District,Cranston Housing Authority,Housing and Community Development,20,G,107693,G,1,G,1116,G,40400470200000,Northeast,Providence,44,007,50,NA,NA,1,03,112827
+Rhode Island,Special District,East Providence Housing Authority,Total - All Government Employment Functions,14,R,78530,R,4,R,5150,R,40400470300000,Northeast,Providence,44,007,50,NA,NA,1,03,156518
+Rhode Island,Special District,East Providence Housing Authority,Housing and Community Development,14,R,78530,R,4,R,5150,R,40400470300000,Northeast,Providence,44,007,50,NA,NA,1,03,156518
+Rhode Island,Special District,Smithfield Town Housing Authority,Total - All Government Employment Functions,3,G,12942,G,0,G,0,G,40400470500000,Northeast,Providence,44,007,50,NA,NA,1,03,134404
+Rhode Island,Special District,Smithfield Town Housing Authority,Housing and Community Development,3,G,12942,G,0,G,0,G,40400470500000,Northeast,Providence,44,007,50,NA,NA,1,03,134404
+Rhode Island,Special District,West Glocester Fire District,Total - All Government Employment Functions,0,C,0,C,12,C,20903,C,40400470600000,Northeast,Providence,44,007,24,NA,NA,1,07,156519
+Rhode Island,Special District,West Glocester Fire District,Fire Protection - Other,0,C,0,C,12,C,20903,C,40400470600000,Northeast,Providence,44,007,24,NA,NA,1,07,156519
+Rhode Island,Special District,Burrillville Town Housing Authority,Total - All Government Employment Functions,4,G,19801,G,0,G,0,G,40400480100000,Northeast,Providence,44,007,50,NA,NA,1,03,192916
+Rhode Island,Special District,Burrillville Town Housing Authority,Housing and Community Development,4,G,19801,G,0,G,0,G,40400480100000,Northeast,Providence,44,007,50,NA,NA,1,03,192916
+Rhode Island,Special District,Cumberland Housing Authority,Total - All Government Employment Functions,16,G,60179,G,1,G,1426,G,40400480200000,Northeast,Providence,44,007,50,NA,NA,1,03,156520
+Rhode Island,Special District,Cumberland Housing Authority,Housing and Community Development,16,G,60179,G,1,G,1426,G,40400480200000,Northeast,Providence,44,007,50,NA,NA,1,03,156520
+Rhode Island,Special District,Johnston Town Housing Authority,Total - All Government Employment Functions,8,R,44300,X,0,R,0,X,40400480300000,Northeast,Providence,44,007,50,NA,NA,1,03,134405
+Rhode Island,Special District,Johnston Town Housing Authority,Housing and Community Development,8,R,44300,X,0,R,0,X,40400480300000,Northeast,Providence,44,007,50,NA,NA,1,03,134405
+Rhode Island,Special District,Lincoln Town Housing Authority,Total - All Government Employment Functions,12,R,54718,R,0,R,0,R,40400480400000,Northeast,Providence,44,007,50,NA,NA,1,03,156521
+Rhode Island,Special District,Lincoln Town Housing Authority,Housing and Community Development,12,R,54718,R,0,R,0,R,40400480400000,Northeast,Providence,44,007,50,NA,NA,1,03,156521
+Rhode Island,Special District,North Providence Housing Authority,Total - All Government Employment Functions,5,G,25014,G,1,G,386,G,40400480500000,Northeast,Providence,44,007,50,NA,NA,1,03,112828
+Rhode Island,Special District,North Providence Housing Authority,Housing and Community Development,5,G,25014,G,1,G,386,G,40400480500000,Northeast,Providence,44,007,50,NA,NA,1,03,112828
+Rhode Island,Special District,Bonnet Shores Fire District,Total - All Government Employment Functions,0,R,0,R,4,R,1593,R,40400500100000,Northeast,Washington,44,009,99,NA,NA,1,07,192258
+Rhode Island,Special District,Bonnet Shores Fire District,Sea and Inland Port Facilities,0,R,0,R,1,R,493,R,40400500100000,Northeast,Washington,44,009,99,NA,NA,1,07,192258
+Rhode Island,Special District,Bonnet Shores Fire District,All other and unallocable,0,R,0,R,3,R,1100,R,40400500100000,Northeast,Washington,44,009,99,NA,NA,1,07,192258
+Rhode Island,Special District,Bradford Fire District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400500200000,Northeast,Washington,44,009,24,NA,NA,1,07,156522
+Rhode Island,Special District,Bradford Fire District,Fire Protection - Firefighters,0,R,0,R,0,R,0,R,40400500200000,Northeast,Washington,44,009,24,NA,NA,1,07,156522
+Rhode Island,Special District,Dunns Corner Fire District,Total - All Government Employment Functions,4,T,17311,T,0,T,0,T,40400500300000,Northeast,Washington,44,009,24,NA,NA,1,07,134406
+Rhode Island,Special District,Dunns Corner Fire District,Fire Protection - Firefighters,2,T,13103,T,0,T,0,T,40400500300000,Northeast,Washington,44,009,24,NA,NA,1,07,134406
+Rhode Island,Special District,Dunns Corner Fire District,Fire Protection - Other,2,T,4208,T,0,T,0,T,40400500300000,Northeast,Washington,44,009,24,NA,NA,1,07,134406
+Rhode Island,Special District,Indian Lake Shores Fire District,Total - All Government Employment Functions,0,C,0,C,5,C,89,C,40400500400000,Northeast,Washington,44,009,24,NA,NA,1,07,140186
+Rhode Island,Special District,Indian Lake Shores Fire District,Fire Protection - Other,0,C,0,C,5,C,89,C,40400500400000,Northeast,Washington,44,009,24,NA,NA,1,07,140186
+Rhode Island,Special District,Kingston Fire District,Total - All Government Employment Functions,1,C,2217,C,4,R,1608,R,40400500500000,Northeast,Washington,44,009,24,NA,NA,1,07,202546
+Rhode Island,Special District,Kingston Fire District,Fire Protection - Firefighters,0,R,0,R,4,R,1608,R,40400500500000,Northeast,Washington,44,009,24,NA,NA,1,07,202546
+Rhode Island,Special District,Kingston Fire District,Fire Protection - Other,1,C,2217,C,0,C,0,C,40400500500000,Northeast,Washington,44,009,24,NA,NA,1,07,202546
+Rhode Island,Special District,Misquamicut Fire District,Total - All Government Employment Functions,0,R,0,R,3,R,2298,R,40400500600000,Northeast,Washington,44,009,24,NA,NA,1,07,215613
+Rhode Island,Special District,Misquamicut Fire District,Fire Protection - Firefighters,0,R,0,R,3,R,2298,R,40400500600000,Northeast,Washington,44,009,24,NA,NA,1,07,215613
+Rhode Island,Special District,Shelter Harbor Fire District,Total - All Government Employment Functions,0,C,0,C,3,C,3321,C,40400500900000,Northeast,Washington,44,009,96,NA,NA,1,07,140187
+Rhode Island,Special District,Shelter Harbor Fire District,All other and unallocable,0,C,0,C,3,C,3321,C,40400500900000,Northeast,Washington,44,009,96,NA,NA,1,07,140187
+Rhode Island,Special District,Union Fire District Of South Kingstown,Total - All Government Employment Functions,7,R,34293,R,11,R,12872,R,40400501000000,Northeast,Washington,44,009,24,NA,NA,1,07,156524
+Rhode Island,Special District,Union Fire District Of South Kingstown,Fire Protection - Firefighters,0,R,0,R,5,R,3935,R,40400501000000,Northeast,Washington,44,009,24,NA,NA,1,07,156524
+Rhode Island,Special District,Union Fire District Of South Kingstown,Fire Protection - Other,7,R,34293,R,6,R,8937,R,40400501000000,Northeast,Washington,44,009,24,NA,NA,1,07,156524
+Rhode Island,Special District,Watch Hill Fire District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,40400501100000,Northeast,Washington,44,009,24,NA,NA,1,07,192917
+Rhode Island,Special District,Watch Hill Fire District,Fire Protection - Firefighters,0,G,0,G,0,G,0,G,40400501100000,Northeast,Washington,44,009,24,NA,NA,1,07,192917
+Rhode Island,Special District,Weekapaug Fire District,Total - All Government Employment Functions,0,C,0,C,2,C,1548,C,40400501200000,Northeast,Washington,44,009,99,NA,NA,1,07,112829
+Rhode Island,Special District,Weekapaug Fire District,All other and unallocable,0,C,0,C,2,C,1548,C,40400501200000,Northeast,Washington,44,009,99,NA,NA,1,07,112829
+Rhode Island,Special District,Westerly Fire District,Total - All Government Employment Functions,5,G,21033,G,4,G,6033,G,40400501300000,Northeast,Washington,44,009,24,NA,NA,1,07,191476
+Rhode Island,Special District,Westerly Fire District,Fire Protection - Firefighters,0,G,0,G,3,G,2858,G,40400501300000,Northeast,Washington,44,009,24,NA,NA,1,07,191476
+Rhode Island,Special District,Westerly Fire District,Fire Protection - Other,5,G,21033,G,1,G,3175,G,40400501300000,Northeast,Washington,44,009,24,NA,NA,1,07,191476
+Rhode Island,Special District,Boone Lake Dam Management District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400516700000,Northeast,Washington,44,009,63,NA,NA,1,03,219593
+Rhode Island,Special District,Boone Lake Dam Management District,Natural Resources,0,R,0,R,0,R,0,R,40400516700000,Northeast,Washington,44,009,63,NA,NA,1,03,219593
+Rhode Island,Special District,Ashaway Fire District,Total - All Government Employment Functions,2,Q,8937,Q,10,Q,4354,Q,40400518700000,Northeast,Washington,44,009,24,NA,NA,1,07,215606
+Rhode Island,Special District,Ashaway Fire District,Fire Protection - Firefighters,1,Q,5231,Q,10,Q,4354,Q,40400518700000,Northeast,Washington,44,009,24,NA,NA,1,07,215606
+Rhode Island,Special District,Ashaway Fire District,Fire Protection - Other,1,Q,3706,Q,0,Q,0,Q,40400518700000,Northeast,Washington,44,009,24,NA,NA,1,07,215606
+Rhode Island,Special District,Shannock Water District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400518800000,Northeast,Washington,44,009,91,NA,NA,1,03,215612
+Rhode Island,Special District,Shannock Water District,Water Supply,0,R,0,R,0,R,0,R,40400518800000,Northeast,Washington,44,009,91,NA,NA,1,03,215612
+Rhode Island,Special District,Exeter Fire District,Total - All Government Employment Functions,7,R,37731,R,8,R,6250,R,40400519800000,Northeast,Washington,44,009,24,NA,NA,1,07,215610
+Rhode Island,Special District,Exeter Fire District,Fire Protection - Firefighters,7,R,37731,R,8,R,6250,R,40400519800000,Northeast,Washington,44,009,24,NA,NA,1,07,215610
+Rhode Island,Special District,Richmond Carolina Fire District,Total - All Government Employment Functions,1,C,3454,C,0,C,0,C,40400520100000,Northeast,Washington,44,009,24,NA,NA,1,07,156525
+Rhode Island,Special District,Richmond Carolina Fire District,Fire Protection - Firefighters,1,C,3454,C,0,C,0,C,40400520100000,Northeast,Washington,44,009,24,NA,NA,1,07,156525
+Rhode Island,Special District,Kingston Water District,Total - All Government Employment Functions,4,G,17904,G,1,G,400,G,40400530100000,Northeast,Washington,44,009,91,NA,NA,1,03,134407
+Rhode Island,Special District,Kingston Water District,Water Supply,4,G,17904,G,1,G,400,G,40400530100000,Northeast,Washington,44,009,91,NA,NA,1,03,134407
+Rhode Island,Special District,Charlestown Fire District,Total - All Government Employment Functions,0,G,0,G,16,G,5043,G,40400540100000,Northeast,Washington,44,009,24,NA,NA,1,07,156526
+Rhode Island,Special District,Charlestown Fire District,Fire Protection - Firefighters,0,G,0,G,16,G,5043,G,40400540100000,Northeast,Washington,44,009,24,NA,NA,1,07,156526
+Rhode Island,Special District,Hope Valley-Wyoming Fire District,Total - All Government Employment Functions,3,G,14991,G,3,G,448,G,40400540300000,Northeast,Washington,44,009,24,NA,NA,1,07,140188
+Rhode Island,Special District,Hope Valley-Wyoming Fire District,Fire Protection - Firefighters,2,G,11879,G,3,G,448,G,40400540300000,Northeast,Washington,44,009,24,NA,NA,1,07,140188
+Rhode Island,Special District,Hope Valley-Wyoming Fire District,Fire Protection - Other,1,G,3112,G,0,G,0,G,40400540300000,Northeast,Washington,44,009,24,NA,NA,1,07,140188
+Rhode Island,Special District,New Shoreham Water District,Total - All Government Employment Functions,3,G,18062,G,0,G,0,G,40400540400000,Northeast,Washington,44,009,91,NA,NA,1,03,140189
+Rhode Island,Special District,New Shoreham Water District,Water Supply,3,G,18062,G,0,G,0,G,40400540400000,Northeast,Washington,44,009,91,NA,NA,1,03,140189
+Rhode Island,Special District,South Kingstown Housing Authority,Total - All Government Employment Functions,4,G,17927,G,1,G,1510,G,40400580200000,Northeast,Washington,44,009,50,NA,NA,1,03,112830
+Rhode Island,Special District,South Kingstown Housing Authority,Housing and Community Development,4,G,17927,G,1,G,1510,G,40400580200000,Northeast,Washington,44,009,50,NA,NA,1,03,112830
+Rhode Island,Special District,Westerly Town Housing Authority,Total - All Government Employment Functions,6,G,24486,G,0,G,0,G,40400580300000,Northeast,Washington,44,009,50,NA,NA,1,03,156529
+Rhode Island,Special District,Westerly Town Housing Authority,Housing and Community Development,6,G,24486,G,0,G,0,G,40400580300000,Northeast,Washington,44,009,50,NA,NA,1,03,156529
+Rhode Island,Special District,Narragansett Housing Authority,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,40400590200000,Northeast,Washington,44,009,50,NA,NA,1,03,156530
+Rhode Island,Special District,Narragansett Housing Authority,Housing and Community Development,0,R,0,R,0,R,0,R,40400590200000,Northeast,Washington,44,009,50,NA,NA,1,03,156530
+Rhode Island,Independent School District,Bristol-Warren Regional School District,Total - All Government Employment Functions,417,R,2638892,R,144,R,283534,R,40500120100000,Northeast,Bristol,44,001,3173,NA,Elementary and Secondary,1,08,182714
+Rhode Island,Independent School District,Bristol-Warren Regional School District,Education - Elementary and Secondary Instructional,357,R,2353879,R,59,R,137343,R,40500120100000,Northeast,Bristol,44,001,3173,NA,Elementary and Secondary,1,08,182714
+Rhode Island,Independent School District,Bristol-Warren Regional School District,Education - Elementary and Secondary Other,60,R,285014,R,85,R,146191,R,40500120100000,Northeast,Bristol,44,001,3173,NA,Elementary and Secondary,1,08,182714
+Rhode Island,Independent School District,West Bay Collaborative,Total - All Government Employment Functions,62,R,278495,R,1,R,2374,R,40500220100000,Northeast,Kent,44,003,0,NA,Educational Service Agency (ESA),1,08,112831
+Rhode Island,Independent School District,West Bay Collaborative,Education - Elementary and Secondary Instructional,49,R,204719,R,1,R,2374,R,40500220100000,Northeast,Kent,44,003,0,NA,Educational Service Agency (ESA),1,08,112831
+Rhode Island,Independent School District,West Bay Collaborative,Education - Elementary and Secondary Other,13,R,73775,R,0,R,0,R,40500220100000,Northeast,Kent,44,003,0,NA,Educational Service Agency (ESA),1,08,112831
+Rhode Island,Independent School District,East Bay Educational Collaborative,Total - All Government Employment Functions,24,R,126620,R,10,R,21846,R,40500320100000,Northeast,Newport,44,005,0,NA,Educational Service Agency (ESA),1,08,182715
+Rhode Island,Independent School District,East Bay Educational Collaborative,Education - Elementary and Secondary Instructional,13,R,68979,R,9,R,21344,R,40500320100000,Northeast,Newport,44,005,0,NA,Educational Service Agency (ESA),1,08,182715
+Rhode Island,Independent School District,East Bay Educational Collaborative,Education - Elementary and Secondary Other,11,R,57640,R,1,R,503,R,40500320100000,Northeast,Newport,44,005,0,NA,Educational Service Agency (ESA),1,08,182715
+Rhode Island,Independent School District,Northern Rhode Island Collaborative,Total - All Government Employment Functions,51,R,230295,R,40,R,70018,R,40500420100000,Northeast,Providence,44,007,0,NA,Educational Service Agency (ESA),1,08,182716
+Rhode Island,Independent School District,Northern Rhode Island Collaborative,Education - Elementary and Secondary Instructional,38,R,169349,R,15,R,39399,R,40500420100000,Northeast,Providence,44,007,0,NA,Educational Service Agency (ESA),1,08,182716
+Rhode Island,Independent School District,Northern Rhode Island Collaborative,Education - Elementary and Secondary Other,13,R,60946,R,25,R,30619,R,40500420100000,Northeast,Providence,44,007,0,NA,Educational Service Agency (ESA),1,08,182716
+Rhode Island,Independent School District,Urban Collaborative Accelerated Program,Total - All Government Employment Functions,22,G,102112,G,3,G,764,G,40500420200000,Northeast,Providence,44,007,0,NA,Educational Service Agency (ESA),1,08,112832
+Rhode Island,Independent School District,Urban Collaborative Accelerated Program,Education - Elementary and Secondary Instructional,14,G,67722,G,0,G,0,G,40500420200000,Northeast,Providence,44,007,0,NA,Educational Service Agency (ESA),1,08,112832
+Rhode Island,Independent School District,Urban Collaborative Accelerated Program,Education - Elementary and Secondary Other,8,G,34390,G,3,G,764,G,40500420200000,Northeast,Providence,44,007,0,NA,Educational Service Agency (ESA),1,08,112832
+Rhode Island,Independent School District,Foster-Glocester Regional School District,Total - All Government Employment Functions,196,R,1131393,X,21,R,30141,R,40500450100000,Northeast,Providence,44,007,1355,NA,Elementary and Secondary,1,08,182717
+Rhode Island,Independent School District,Foster-Glocester Regional School District,Education - Elementary and Secondary Instructional,150,R,959022,X,10,R,9743,R,40500450100000,Northeast,Providence,44,007,1355,NA,Elementary and Secondary,1,08,182717
+Rhode Island,Independent School District,Foster-Glocester Regional School District,Education - Elementary and Secondary Other,46,R,172371,R,11,R,20398,R,40500450100000,Northeast,Providence,44,007,1355,NA,Elementary and Secondary,1,08,182717
+Rhode Island,Independent School District,Chariho Regional School District,Total - All Government Employment Functions,466,R,2969063,R,76,R,110763,R,40500550100000,Northeast,Washington,44,009,3238,NA,Elementary and Secondary,1,08,182718
+Rhode Island,Independent School District,Chariho Regional School District,Education - Elementary and Secondary Instructional,392,R,2629192,R,65,R,92105,R,40500550100000,Northeast,Washington,44,009,3238,NA,Elementary and Secondary,1,08,182718
+Rhode Island,Independent School District,Chariho Regional School District,Education - Elementary and Secondary Other,74,R,339871,R,11,R,18658,R,40500550100000,Northeast,Washington,44,009,3238,NA,Elementary and Secondary,1,08,182718
+Rhode Island,Independent School District,Exeter-West Greenwich Regional School District,Total - All Government Employment Functions,223,R,1482614,R,28,R,63019,R,40500570100000,Northeast,Washington,44,009,1663,NA,Elementary and Secondary,1,08,134408
+Rhode Island,Independent School District,Exeter-West Greenwich Regional School District,Education - Elementary and Secondary Instructional,183,R,1286790,R,20,R,52070,R,40500570100000,Northeast,Washington,44,009,1663,NA,Elementary and Secondary,1,08,134408
+Rhode Island,Independent School District,Exeter-West Greenwich Regional School District,Education - Elementary and Secondary Other,40,R,195824,R,8,R,10948,R,40500570100000,Northeast,Washington,44,009,1663,NA,Elementary and Secondary,1,08,134408

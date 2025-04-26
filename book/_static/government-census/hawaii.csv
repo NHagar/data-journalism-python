@@ -1,0 +1,112 @@
+State,Type of Government,Name of Government,Government Function,Full-time Employees,Full-time Employees Data Flag,Full-time Payroll,Full-time Payroll Data Flag,Part-time Employees,Part-time Employees Data Flag,Part-time Payroll,Part-time Payroll Data Flag,Individual Unit ID,Census Region,County Name,FIPS State,FIPS County,Population/Enrollment/Function Code,Year of Population/Enrollment,School Level,Probability of Selection,Worksheet Code,New Individual Unit ID
+Hawaii,State,Hawaii,Total - All Government Employment Functions,50032,R,272911554,R,15199,R,20312963,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Financial Administration,649,R,3477982,R,2,R,726,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Other Government Administration,745,R,3800568,R,33,R,51833,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Judicial and Legal,2441,R,15043392,R,56,R,424875,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Corrections,2392,R,15385536,R,15,C,74064,C,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Highways,754,R,4438178,R,2,R,3112,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Air Transportation,1144,R,6331324,R,4,R,6488,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Sea and Inland Port Facilities,226,R,1196936,R,0,R,0,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Public Welfare,1226,T,6166339,T,19,R,29010,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Health,2137,R,13624796,R,28,R,113050,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Hospitals,2435,R,15236664,R,694,C,3804424,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Social Insurance Administration,305,R,1435828,R,8,R,22474,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Parks and Recreation,119,R,544266,R,474,R,37350,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Housing and Community Development,279,C,1347452,C,11,C,12209,C,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Natural Resources,815,R,4430670,R,5,R,6936,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Education - Elementary and Secondary Instructional,17007,R,94297198,R,8285,R,9084406,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Education - Elementary and Secondary Other,5519,R,21672370,R,920,R,488464,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Education - Higher Education Instructional,3076,R,25183580,R,1104,R,2992420,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Education - Higher Education Other,5980,R,24527246,R,3448,R,3039968,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Education - Other,323,T,1621526,T,2,T,3476,T,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,Libraries,427,R,1767201,R,74,R,81544,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,State,Hawaii,All other and unallocable,2033,R,11382502,R,15,R,36134,R,12000000000000,West,NA,15,NA,1407006,20,NA,1,00,227524
+Hawaii,County,Hawaii,Total - All Government Employment Functions,2626,R,24481476,R,130,R,202470,C,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Financial Administration,155,R,1065217,R,0,R,0,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Other Government Administration,193,R,1592910,R,4,R,13622,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Judicial and Legal,97,R,815620,R,1,R,631,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Police Protection - Persons with Power of Arrest,438,R,5987659,R,22,C,20180,C,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Police Protection - Other,138,R,904094,R,0,R,0,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Fire Protection - Firefighters,293,T,5410034,T,16,C,64467,C,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Fire Protection - Other,162,T,651030,T,0,T,0,T,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Highways,217,R,1666383,R,1,R,553,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Public Welfare,24,R,158320,R,27,R,6333,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Health,51,R,303812,R,14,R,38537,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Solid Waste Management,134,R,1146788,R,0,R,0,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Sewerage,55,R,501330,R,0,R,0,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Parks and Recreation,279,R,1793396,R,45,R,58147,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Housing and Community Development,55,R,397403,R,0,R,0,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Water Supply,160,R,754705,R,0,R,0,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,Transit,15,R,147612,R,0,R,0,R,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Hawaii,All other and unallocable,160,C,1185163,C,0,C,0,C,12100100100000,West,Hawaii,15,001,203340,20,NA,1,04,184856
+Hawaii,County,Kauai,Total - All Government Employment Functions,1314,R,7981873,R,31,R,84962,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Financial Administration,96,R,500007,R,0,R,0,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Other Government Administration,103,R,604273,R,2,C,2802,C,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Judicial and Legal,53,R,437717,R,3,R,16356,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Police Protection - Persons with Power of Arrest,146,R,1342122,C,0,R,0,C,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Police Protection - Other,53,R,244768,R,3,R,4570,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Fire Protection - Firefighters,190,R,1466151,R,6,R,16653,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Fire Protection - Other,7,R,38295,R,0,R,0,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Highways,82,R,454370,R,0,R,0,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Public Welfare,16,R,80298,R,0,R,0,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Solid Waste Management,68,R,360469,R,0,R,0,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Sewerage,36,R,216993,R,0,R,0,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Parks and Recreation,171,R,739569,R,1,R,1501,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Housing and Community Development,28,C,141215,C,0,C,0,C,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Water Supply,90,R,546931,R,1,R,2560,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,Transit,88,R,407308,R,14,R,39746,R,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Kauai,All other and unallocable,87,C,401387,C,1,C,775,C,12100300300000,West,Kauai,15,007,71851,20,NA,1,04,162013
+Hawaii,County,Maui,Total - All Government Employment Functions,2426,R,15770750,R,119,R,214145,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Financial Administration,207,R,1105830,R,1,R,2616,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Other Government Administration,233,C,1412458,C,20,R,67832,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Judicial and Legal,112,R,842422,R,2,C,4687,C,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Police Protection - Persons with Power of Arrest,302,R,3281650,R,0,R,0,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Police Protection - Other,102,R,522476,R,28,R,20996,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Fire Protection - Firefighters,290,R,2351830,R,0,R,0,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Fire Protection - Other,79,R,447536,R,0,R,0,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Highways,220,R,1120430,R,0,R,0,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Public Welfare,80,R,401974,R,37,R,51862,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Solid Waste Management,110,R,590724,R,0,R,0,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Sewerage,112,R,754672,R,0,R,0,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Parks and Recreation,305,R,1343304,R,29,R,57682,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Housing and Community Development,26,R,134698,R,0,R,0,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Water Supply,192,R,1140358,R,1,R,2474,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,Transit,7,R,52032,R,1,R,5996,R,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,County,Maui,All other and unallocable,49,C,268356,C,0,C,0,C,12100400400000,West,Maui,15,009,167902,20,NA,1,04,189877
+Hawaii,Municipality,Honolulu,Total - All Government Employment Functions,10697,C,67575369,C,1282,X,624255,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Financial Administration,700,C,3867658,C,17,X,17101,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Other Government Administration,668,T,4021254,T,167,X,55263,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Judicial and Legal,349,R,2424102,R,14,X,36418,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Police Protection - Persons with Power of Arrest,2461,C,21126602,C,4,X,2133,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Police Protection - Other,648,X,2993892,X,33,X,11372,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Fire Protection - Firefighters,1102,R,9348994,R,0,R,0,R,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Fire Protection - Other,70,X,342859,X,6,X,17067,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Highways,411,T,1706552,T,8,X,4918,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Health,272,T,1913602,T,0,T,0,T,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Solid Waste Management,334,C,2212564,C,0,C,0,C,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Sewerage,502,C,3318844,C,2,X,956,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Parks and Recreation,1261,T,4101462,T,975,X,366318,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Housing and Community Development,280,C,1537404,C,6,X,4433,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Natural Resources,207,T,771440,T,46,X,108181,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Water Supply,569,R,3422614,R,0,R,0,R,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Transit,155,T,684322,T,4,X,95,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,Libraries,4,X,12858,X,0,X,0,X,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Municipality,Honolulu,All other and unallocable,704,C,3768346,C,0,C,0,C,12200200100000,West,Honolulu City And County,15,003,963826,20,NA,1,04,183701
+Hawaii,Special District,Ka'u Soil And Water Conservation District,Total - All Government Employment Functions,3,C,19216,C,0,C,0,C,12400100100000,West,Hawaii,15,001,88,NA,NA,1,03,124631
+Hawaii,Special District,Ka'u Soil And Water Conservation District,Natural Resources,3,C,19216,C,0,C,0,C,12400100100000,West,Hawaii,15,001,88,NA,NA,1,03,124631
+Hawaii,Special District,Kona Soil And Water Conservation District,Total - All Government Employment Functions,2,R,6820,R,0,R,0,R,12400100200000,West,Hawaii,15,001,88,NA,NA,1,03,102360
+Hawaii,Special District,Kona Soil And Water Conservation District,Natural Resources,2,R,6820,R,0,R,0,R,12400100200000,West,Hawaii,15,001,88,NA,NA,1,03,102360
+Hawaii,Special District,Mauna Kea Soil And Water Conservation District,Total - All Government Employment Functions,1,C,2935,C,0,C,0,C,12400100300000,West,Hawaii,15,001,88,NA,NA,1,03,144968
+Hawaii,Special District,Mauna Kea Soil And Water Conservation District,Natural Resources,1,C,2935,C,0,C,0,C,12400100300000,West,Hawaii,15,001,88,NA,NA,1,03,144968
+Hawaii,Special District,Hamakua Soil And Water Conservation District,Total - All Government Employment Functions,1,R,2879,R,0,R,0,R,12400120100000,West,Hawaii,15,001,88,NA,NA,1,03,124632
+Hawaii,Special District,Hamakua Soil And Water Conservation District,Natural Resources,1,R,2879,R,0,R,0,R,12400120100000,West,Hawaii,15,001,88,NA,NA,1,03,124632
+Hawaii,Special District,Office Of Hawaiian Affairs,Total - All Government Employment Functions,98,C,564650,C,8,C,6748,C,12400200100000,West,Honolulu City And County,15,003,99,NA,NA,1,07,137838
+Hawaii,Special District,Office Of Hawaiian Affairs,All other and unallocable,98,C,564650,C,8,C,6748,C,12400200100000,West,Honolulu City And County,15,003,99,NA,NA,1,07,137838
+Hawaii,Special District,West Oahu Soil And Water Conservation District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,12400200600000,West,Honolulu City And County,15,003,88,NA,NA,1,03,144971
+Hawaii,Special District,West Oahu Soil And Water Conservation District,Natural Resources,0,G,0,G,0,G,0,G,12400200600000,West,Honolulu City And County,15,003,88,NA,NA,1,03,144971
+Hawaii,Special District,East Kauai Soil And Water Conservation District,Total - All Government Employment Functions,1,G,3869,G,1,G,1232,G,12400300100000,West,Kauai,15,007,88,NA,NA,1,03,144973
+Hawaii,Special District,East Kauai Soil And Water Conservation District,Natural Resources,1,G,3869,G,1,G,1232,G,12400300100000,West,Kauai,15,007,88,NA,NA,1,03,144973
+Hawaii,Special District,West Kauai Soil And Water Conservation District,Total - All Government Employment Functions,1,G,3869,G,1,G,1232,G,12400320100000,West,Kauai,15,007,88,NA,NA,1,03,124634
+Hawaii,Special District,West Kauai Soil And Water Conservation District,Natural Resources,1,G,3869,G,1,G,1232,G,12400320100000,West,Kauai,15,007,88,NA,NA,1,03,124634
+Hawaii,Special District,West Maui Soil And Water Conservation District,Total - All Government Employment Functions,1,R,3026,R,1,R,2197,R,12400400400000,West,Maui,15,009,88,NA,NA,1,03,144974
+Hawaii,Special District,West Maui Soil And Water Conservation District,Natural Resources,1,R,3026,R,1,R,2197,R,12400400400000,West,Maui,15,009,88,NA,NA,1,03,144974

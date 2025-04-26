@@ -1,0 +1,838 @@
+State,Type of Government,Name of Government,Government Function,Full-time Employees,Full-time Employees Data Flag,Full-time Payroll,Full-time Payroll Data Flag,Part-time Employees,Part-time Employees Data Flag,Part-time Payroll,Part-time Payroll Data Flag,Individual Unit ID,Census Region,County Name,FIPS State,FIPS County,Population/Enrollment/Function Code,Year of Population/Enrollment,School Level,Probability of Selection,Worksheet Code,New Individual Unit ID
+Nevada,State,Nevada,Total - All Government Employment Functions,25482,X,150567542,X,9763,X,13734730,X,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Financial Administration,1840,R,8253802,R,2,R,5030,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Other Government Administration,658,R,3813607,R,31,R,115084,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Judicial and Legal,772,R,5547668,R,6,R,18136,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Police Protection - Persons with Power of Arrest,413,T,3624369,T,0,R,0,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Police Protection - Other,344,R,1720768,R,0,R,0,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Corrections,2901,R,15979056,R,12,R,35016,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Highways,1595,R,8024736,R,1,R,270,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Public Welfare,3004,R,14224186,R,15,R,43608,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Health,1656,R,8247562,R,32,R,92838,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Hospitals,805,R,4265802,R,12,R,59314,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Social Insurance Administration,612,R,2670204,R,1,R,854,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Parks and Recreation,224,R,972210,R,7,R,16478,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Housing and Community Development,24,R,132688,R,0,R,0,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Natural Resources,718,R,3628222,X,70,X,161364,X,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Water Supply,4,T,25902,T,0,R,0,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Electric Power,18,T,108158,T,1,T,6486,T,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Education - Higher Education Instructional,2252,X,24164964,X,4354,X,7262906,X,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Education - Higher Education Other,5406,X,33498732,X,5122,X,5778074,X,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Education - Other,291,R,1476276,R,0,R,0,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,Libraries,23,R,97740,R,1,R,1562,R,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,State,Nevada,All other and unallocable,1922,R,10090890,R,96,X,137711,X,29000000000000,West,NA,32,NA,3138259,20,NA,1,00,226090
+Nevada,County,Churchill,Total - All Government Employment Functions,272,R,1592771,R,57,C,61074,C,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Financial Administration,18,R,98243,R,1,R,2243,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Other Government Administration,13,R,89568,R,10,R,11782,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Judicial and Legal,37,R,232008,R,3,R,5168,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Police Protection - Persons with Power of Arrest,25,R,195893,R,0,R,0,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Police Protection - Other,8,R,38743,R,1,R,1426,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Corrections,39,R,214124,R,3,R,1404,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Highways,14,R,79245,R,0,R,0,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Public Welfare,11,R,46925,R,1,R,1036,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Health,10,R,40747,R,0,R,0,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Parks and Recreation,14,C,66021,C,27,C,22327,C,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,Libraries,5,R,29142,R,3,R,3231,R,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Churchill,All other and unallocable,78,R,462110,R,8,C,12458,C,29100100100000,West,Churchill,32,001,25363,20,NA,1,04,130688
+Nevada,County,Clark,Total - All Government Employment Functions,19895,NA,146156853,R,1556,R,1728843,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Financial Administration,429,R,3058068,R,16,R,16912,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Other Government Administration,544,R,3979548,R,19,R,26410,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Judicial and Legal,1752,R,12031149,R,116,R,151339,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Police Protection - Persons with Power of Arrest,3093,R,28320222,R,9,R,11165,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Police Protection - Other,1772,R,11101021,R,101,R,116867,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Fire Protection - Firefighters,653,R,7582847,R,0,R,0,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Fire Protection - Other,60,R,479726,R,11,R,12615,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Corrections,1202,R,10628545,R,56,R,68146,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Highways,352,R,2275373,R,3,R,2976,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Air Transportation,1260,R,7389639,R,2,R,1907,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Public Welfare,999,R,7000677,R,108,R,122720,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Health,828,R,5159462,R,12,R,22326,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Hospitals,4464,NA,27817955,NA,74,NA,231443,NA,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Sewerage,347,R,2626890,R,21,R,30870,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Parks and Recreation,468,R,3078852,R,905,R,764382,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,Water Supply,1258,R,11280245,R,26,R,40272,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Clark,All other and unallocable,414,R,2346633,R,77,R,108495,R,29100200200000,West,Clark,32,003,2315963,20,NA,1,04,169979
+Nevada,County,Douglas,Total - All Government Employment Functions,477,R,2813199,R,78,R,136440,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Financial Administration,38,R,225882,R,1,R,3842,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Other Government Administration,33,R,189609,R,8,R,9471,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Judicial and Legal,56,R,375333,R,2,R,3472,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Police Protection - Persons with Power of Arrest,66,R,471359,R,0,R,0,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Police Protection - Other,15,R,100845,R,1,R,2458,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Corrections,92,R,508196,R,15,R,23243,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Highways,6,R,30121,R,0,R,0,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Public Welfare,25,R,117116,R,10,R,16959,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Health,5,R,18996,R,0,R,0,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Solid Waste Management,27,R,148091,R,3,R,4108,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Sewerage,6,R,27557,R,0,R,0,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Parks and Recreation,31,R,145049,R,33,R,68641,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Housing and Community Development,10,R,62066,R,0,R,0,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Water Supply,9,R,55787,R,0,R,0,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Transit,2,R,16074,R,0,R,0,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,Libraries,14,R,67673,R,3,R,2265,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Douglas,All other and unallocable,42,R,253445,R,2,R,1982,R,29100300300000,West,Douglas,32,005,49088,20,NA,1,04,169980
+Nevada,County,Elko,Total - All Government Employment Functions,356,R,1916518,R,36,R,27585,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Financial Administration,27,R,147139,R,0,R,0,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Other Government Administration,24,R,112260,R,1,R,884,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Judicial and Legal,88,R,492546,R,4,R,4893,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Police Protection - Persons with Power of Arrest,40,R,269120,R,0,R,0,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Police Protection - Other,13,R,54689,R,0,R,0,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Fire Protection - Firefighters,3,R,12072,R,5,R,2763,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Corrections,48,R,272815,R,0,R,0,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Highways,21,R,107068,R,1,R,1578,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Public Welfare,13,R,47448,R,0,R,0,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Health,13,R,93338,R,8,R,5500,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Sewerage,0,C,0,C,3,C,2259,C,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Parks and Recreation,1,R,5112,R,4,R,847,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Housing and Community Development,15,R,80526,R,1,R,1262,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Natural Resources,2,R,11461,R,0,R,0,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Transit,11,R,36884,R,0,R,0,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,Libraries,16,R,60715,R,8,R,7080,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Elko,All other and unallocable,21,R,113326,R,1,R,519,R,29100400400000,West,Elko,32,007,53006,20,NA,1,04,108904
+Nevada,County,Esmeralda,Total - All Government Employment Functions,59,G,167010,G,16,G,16689,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Financial Administration,7,G,24698,G,1,G,2422,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Other Government Administration,6,G,17613,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Judicial and Legal,3,G,18624,G,2,G,2538,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Police Protection - Persons with Power of Arrest,12,G,44428,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Police Protection - Other,4,G,13650,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Fire Protection - Firefighters,4,G,1686,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Fire Protection - Other,0,G,0,G,1,G,56,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Highways,10,G,32964,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Public Welfare,0,G,0,G,5,G,4267,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Solid Waste Management,1,G,2636,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Sewerage,1,G,1746,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Parks and Recreation,0,G,0,G,3,G,1787,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Water Supply,0,G,0,G,4,G,5618,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,Libraries,3,G,3725,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Esmeralda,All other and unallocable,8,G,5240,G,0,G,0,G,29100500500000,West,Esmeralda,32,009,886,20,NA,1,04,130689
+Nevada,County,Eureka,Total - All Government Employment Functions,91,R,480999,R,8,R,13734,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Financial Administration,9,R,48711,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Other Government Administration,8,R,28977,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Judicial and Legal,8,R,50252,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Police Protection - Persons with Power of Arrest,10,R,62763,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Police Protection - Other,9,R,51473,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Fire Protection - Firefighters,0,C,0,C,1,C,1132,C,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Highways,16,R,71067,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Public Welfare,5,R,27483,R,6,R,10506,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Health,4,R,25998,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Solid Waste Management,2,R,11198,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Sewerage,0,R,0,R,1,R,2096,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Parks and Recreation,2,C,7834,C,0,C,0,C,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Natural Resources,3,R,12872,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,Water Supply,3,R,15881,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Eureka,All other and unallocable,12,R,66491,R,0,R,0,R,29100600600000,West,Eureka,32,011,2065,20,NA,1,04,169981
+Nevada,County,Humboldt,Total - All Government Employment Functions,550,R,3871678,R,67,R,145063,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Financial Administration,22,R,118789,R,0,R,0,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Other Government Administration,18,R,90741,R,0,R,0,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Judicial and Legal,35,R,219564,R,3,R,5867,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Police Protection - Persons with Power of Arrest,22,R,196929,R,3,R,2205,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Police Protection - Other,16,R,84940,R,1,R,3607,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Fire Protection - Other,1,R,3066,R,0,R,0,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Corrections,32,R,200211,R,4,R,4442,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Highways,19,R,97702,R,0,R,0,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Health,1,R,6353,R,0,R,0,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Hospitals,345,R,2671807,R,52,R,119617,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Parks and Recreation,13,R,64856,R,1,R,2693,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Housing and Community Development,1,R,7186,R,0,R,0,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Water Supply,1,R,4025,R,0,R,0,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,Libraries,10,R,39054,R,2,R,4374,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Humboldt,All other and unallocable,14,R,66455,R,1,R,2257,R,29100700700000,West,Humboldt,32,013,16962,20,NA,1,04,169982
+Nevada,County,Lander,Total - All Government Employment Functions,200,R,1093657,R,32,R,48876,R,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Financial Administration,8,G,39658,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Other Government Administration,16,G,81237,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Judicial and Legal,10,G,68270,G,2,G,2507,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Police Protection - Persons with Power of Arrest,14,G,121254,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Police Protection - Other,11,G,60956,G,1,G,1661,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Corrections,6,G,42835,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Highways,20,G,83992,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Public Welfare,5,G,25965,G,2,G,1647,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Health,1,G,4681,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Hospitals,94,R,499314,R,25,R,41387,R,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Solid Waste Management,3,G,13279,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Sewerage,2,G,12431,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Parks and Recreation,4,G,16871,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Natural Resources,1,G,4871,G,0,G,0,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,Water Supply,2,G,8523,G,1,G,591,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lander,All other and unallocable,3,G,9519,G,1,G,1083,G,29100800800000,West,Lander,32,015,5514,20,NA,1,04,169983
+Nevada,County,Lincoln,Total - All Government Employment Functions,168,R,763461,R,52,R,35542,R,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Financial Administration,11,G,46837,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Other Government Administration,14,G,47825,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Judicial and Legal,10,G,42943,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Police Protection - Persons with Power of Arrest,18,G,85956,G,3,G,1709,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Police Protection - Other,5,G,16902,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Fire Protection - Other,0,G,0,G,10,G,2387,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Corrections,14,G,67921,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Highways,15,G,66848,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Public Welfare,3,G,8839,G,7,G,4761,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Health,0,G,0,G,1,G,1274,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Hospitals,60,R,316910,R,16,R,16891,R,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Solid Waste Management,6,G,21882,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Parks and Recreation,1,G,1275,G,5,G,2452,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Natural Resources,5,G,18125,G,3,G,2342,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Water Supply,1,G,3521,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Electric Power,1,G,6750,G,0,G,0,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,Libraries,1,G,1957,G,4,G,1314,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lincoln,All other and unallocable,3,G,8970,G,3,G,2412,G,29100900900000,West,Lincoln,32,017,5159,20,NA,1,04,108905
+Nevada,County,Lyon,Total - All Government Employment Functions,318,R,1772100,R,32,R,49837,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Financial Administration,25,R,142405,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Other Government Administration,8,R,56951,R,5,C,6003,C,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Judicial and Legal,48,R,256523,R,2,R,2031,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Police Protection - Persons with Power of Arrest,54,R,374927,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Police Protection - Other,22,R,112960,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Corrections,46,R,233240,R,4,R,3220,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Highways,14,R,71823,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Public Welfare,7,T,35619,T,12,R,27198,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Health,30,T,134500,T,0,T,0,T,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Sewerage,5,R,32399,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Parks and Recreation,3,R,12544,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Housing and Community Development,7,R,49232,R,4,R,1063,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Natural Resources,1,R,6007,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Water Supply,22,R,127333,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,Libraries,6,R,31536,R,5,R,10323,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Lyon,All other and unallocable,20,R,94101,R,0,R,0,R,29101001000000,West,Lyon,32,019,58319,20,NA,1,04,190871
+Nevada,County,Mineral,Total - All Government Employment Functions,205,R,976761,R,53,R,86547,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Financial Administration,9,R,39405,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Other Government Administration,11,R,45074,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Judicial and Legal,14,R,73140,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Police Protection - Persons with Power of Arrest,18,R,108429,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Police Protection - Other,5,R,14836,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Fire Protection - Firefighters,3,R,17595,R,18,R,3102,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Fire Protection - Other,1,R,3096,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Highways,6,R,19612,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Public Welfare,2,R,6258,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Health,1,R,2887,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Hospitals,109,R,554973,R,29,R,78756,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Solid Waste Management,5,R,15400,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Sewerage,2,R,7823,R,0,R,0,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Parks and Recreation,0,C,0,C,1,C,935,C,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Water Supply,5,R,20414,R,1,R,388,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,Libraries,4,R,13038,R,1,R,489,R,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Mineral,All other and unallocable,10,C,34782,C,3,C,2876,C,29101101100000,West,Mineral,32,021,4518,20,NA,1,04,169984
+Nevada,County,Nye,Total - All Government Employment Functions,570,R,2938043,R,34,R,44787,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Financial Administration,63,R,333192,R,3,R,4200,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Other Government Administration,54,R,266150,R,2,R,2293,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Judicial and Legal,53,C,339019,C,0,C,0,C,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Police Protection - Persons with Power of Arrest,116,R,699594,R,3,R,4774,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Police Protection - Other,28,R,162573,R,1,R,2088,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Fire Protection - Firefighters,31,R,248534,R,0,R,0,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Fire Protection - Other,10,R,71070,R,0,R,0,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Corrections,27,R,104972,R,5,R,5038,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Highways,51,R,248399,R,0,R,0,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Public Welfare,29,R,78699,R,6,R,7030,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Health,9,NA,27807,NA,0,NA,0,NA,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Sewerage,1,R,5640,R,1,R,1563,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Parks and Recreation,15,R,45170,R,1,R,1116,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Natural Resources,1,C,3614,C,0,C,0,C,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Water Supply,2,R,11942,R,0,R,0,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,Libraries,39,C,94431,C,0,C,0,C,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Nye,All other and unallocable,41,R,197238,R,12,R,16685,R,29101201200000,West,Nye,32,023,48054,20,NA,1,04,169985
+Nevada,County,Pershing,Total - All Government Employment Functions,157,R,816050,R,47,R,69341,R,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Financial Administration,10,G,41492,G,3,G,6965,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Other Government Administration,2,G,10793,G,4,G,10322,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Judicial and Legal,22,G,107766,G,2,G,6353,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Police Protection - Persons with Power of Arrest,8,G,50698,G,0,G,0,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Police Protection - Other,6,G,25058,G,0,G,0,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Corrections,16,G,84369,G,2,G,3024,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Highways,10,G,53610,G,0,G,0,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Public Welfare,0,G,0,G,2,G,1165,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Health,0,G,0,G,1,G,1746,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Hospitals,68,R,388046,R,19,R,21052,R,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Solid Waste Management,2,G,7739,G,1,G,460,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Parks and Recreation,0,G,0,G,2,G,2916,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,Libraries,3,G,10283,G,1,G,2364,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Pershing,All other and unallocable,10,G,36196,G,10,G,12974,G,29101401400000,West,Pershing,32,027,6573,20,NA,1,04,169986
+Nevada,County,Storey,Total - All Government Employment Functions,147,NA,991836,NA,17,NA,14101,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Financial Administration,9,NA,55011,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Other Government Administration,21,NA,126716,NA,3,NA,3923,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Judicial and Legal,8,NA,44164,NA,1,NA,1114,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Police Protection - Persons with Power of Arrest,13,NA,82016,NA,1,NA,849,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Police Protection - Other,3,NA,12473,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Fire Protection - Firefighters,40,NA,350486,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Fire Protection - Other,2,NA,9276,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Corrections,5,NA,55683,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Highways,6,NA,31212,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Public Welfare,6,NA,25280,NA,9,NA,6622,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Sewerage,1,NA,7160,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Housing and Community Development,2,NA,8829,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Water Supply,3,NA,17713,NA,0,NA,0,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,Libraries,1,NA,6782,NA,1,NA,471,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Storey,All other and unallocable,27,NA,159038,NA,2,NA,1122,NA,29101501500000,West,Storey,32,029,4207,20,NA,1,04,211204
+Nevada,County,Washoe,Total - All Government Employment Functions,2931,R,19282172,R,295,R,324324,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Financial Administration,220,R,1507139,R,4,R,3809,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Other Government Administration,69,R,422335,R,1,R,787,X,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Judicial and Legal,553,R,4004003,R,49,R,56278,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Police Protection - Persons with Power of Arrest,209,R,1522598,R,0,R,0,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Police Protection - Other,209,R,1349517,R,13,R,14747,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Fire Protection - Firefighters,5,R,28665,R,1,R,863,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Corrections,506,R,3131896,R,16,R,16217,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Highways,74,R,434664,R,3,R,4812,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Public Welfare,426,C,2560976,C,6,R,5524,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Health,168,R,1058832,R,22,R,27266,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Sewerage,31,R,223397,R,6,R,2330,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Parks and Recreation,76,R,569685,R,118,R,136578,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Natural Resources,6,R,66087,R,0,R,0,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Transit,64,T,539867,T,1,T,2378,T,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,Libraries,107,R,590655,R,46,R,47719,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,Washoe,All other and unallocable,208,R,1271857,R,9,R,5015,R,29101601600000,West,Washoe,32,031,477082,20,NA,1,04,193706
+Nevada,County,White Pine,Total - All Government Employment Functions,265,R,1654431,R,54,R,148958,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Financial Administration,9,R,77879,R,0,R,0,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Other Government Administration,14,R,61400,R,1,R,150,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Judicial and Legal,19,R,118535,R,5,R,7580,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Police Protection - Persons with Power of Arrest,19,R,109915,R,2,R,1052,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Police Protection - Other,8,R,31704,R,0,R,0,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Fire Protection - Firefighters,1,R,7462,R,0,R,0,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Corrections,8,R,37390,R,0,R,0,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Highways,14,R,66767,R,0,R,0,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Air Transportation,0,R,0,R,1,R,1435,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Public Welfare,6,R,26673,R,0,R,0,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Health,0,C,0,C,1,C,3379,C,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Hospitals,140,R,994078,R,22,R,118459,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Parks and Recreation,6,R,28044,R,12,R,6216,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Housing and Community Development,1,R,3786,R,0,R,0,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Natural Resources,6,R,23830,R,1,R,1687,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,Libraries,2,R,12044,R,4,R,6751,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,County,White Pine,All other and unallocable,12,R,54923,R,5,R,2250,R,29101701700000,West,White Pine,32,033,9466,20,NA,1,04,211385
+Nevada,Municipality,Fallon,Total - All Government Employment Functions,104,R,687193,R,16,R,15590,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Financial Administration,2,R,19782,R,0,R,0,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Other Government Administration,15,R,90230,R,3,R,3189,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Judicial and Legal,6,R,65888,R,1,R,784,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Police Protection - Persons with Power of Arrest,22,R,182716,R,0,R,0,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Police Protection - Other,6,R,28243,R,1,R,651,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Fire Protection - Other,5,R,25834,R,0,R,0,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Solid Waste Management,10,R,46828,R,0,R,0,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Sewerage,2,R,16594,R,0,R,0,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Parks and Recreation,15,R,58402,R,10,R,6762,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Water Supply,9,R,64316,R,0,R,0,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,Electric Power,4,R,39804,R,0,R,0,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Fallon,All other and unallocable,8,R,48555,R,1,R,4204,R,29200100100000,West,Churchill,32,001,8751,20,NA,1,04,130690
+Nevada,Municipality,Henderson,Total - All Government Employment Functions,2117,R,17600257,R,728,R,844715,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Financial Administration,131,R,1055732,R,13,R,28265,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Other Government Administration,130,R,1028237,R,12,R,18396,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Judicial and Legal,104,R,818125,R,4,R,6778,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Police Protection - Persons with Power of Arrest,353,R,3365260,R,0,R,0,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Police Protection - Other,141,R,1048971,R,16,R,34505,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Fire Protection - Firefighters,266,R,2734313,R,0,R,0,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Fire Protection - Other,27,R,269884,R,9,R,25478,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Corrections,132,R,1129762,R,9,R,14734,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Highways,28,R,210384,R,0,R,0,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Sewerage,137,R,1018638,R,7,R,17347,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Parks and Recreation,207,R,1253295,R,614,R,611017,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Housing and Community Development,43,R,350831,C,2,R,4513,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,Water Supply,165,R,1287933,R,19,R,44461,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Henderson,All other and unallocable,253,R,2028892,R,23,R,39222,R,29200200100000,West,Clark,32,003,329172,20,NA,1,04,169987
+Nevada,Municipality,Las Vegas,Total - All Government Employment Functions,2605,R,20498017,R,652,R,616021,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Financial Administration,132,T,1041864,T,9,T,10299,T,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Other Government Administration,182,T,1350845,T,1,T,1112,T,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Judicial and Legal,188,R,1323928,R,0,R,0,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Police Protection - Persons with Power of Arrest,91,R,613058,R,0,R,0,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Fire Protection - Firefighters,578,R,6251287,R,0,R,0,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Fire Protection - Other,165,R,1172757,R,15,R,23046,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Corrections,288,R,2248733,R,1,R,1986,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Highways,139,R,1128134,R,2,R,2356,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Public Welfare,17,R,99393,R,22,R,31520,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Health,21,R,114866,R,0,R,0,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Solid Waste Management,27,R,161025,R,0,R,0,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Sewerage,202,R,1361403,R,1,R,1050,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Parks and Recreation,242,R,1361113,R,578,R,517352,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Housing and Community Development,60,R,403990,R,16,R,14021,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,Natural Resources,3,R,33476,R,1,R,1280,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,Las Vegas,All other and unallocable,270,R,1832147,R,6,C,11999,R,29200200200000,West,Clark,32,003,662368,20,NA,1,04,169988
+Nevada,Municipality,North Las Vegas,Total - All Government Employment Functions,1191,G,8885955,G,213,G,87318,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Financial Administration,68,G,494149,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Other Government Administration,78,G,562626,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Judicial and Legal,57,G,403965,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Police Protection - Persons with Power of Arrest,320,G,2760678,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Police Protection - Other,78,G,494567,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Fire Protection - Firefighters,177,G,1669857,G,8,G,6464,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Fire Protection - Other,6,G,29525,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Corrections,96,G,478545,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Highways,37,G,230472,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Solid Waste Management,9,G,28923,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Sewerage,28,G,180314,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Parks and Recreation,28,G,150540,G,204,G,79876,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Housing and Community Development,66,G,423631,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Natural Resources,44,G,384686,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Water Supply,57,G,360627,G,1,G,979,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,Libraries,19,G,92998,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,North Las Vegas,All other and unallocable,23,G,139852,G,0,G,0,G,29200200300000,West,Clark,32,003,260098,20,NA,1,04,208734
+Nevada,Municipality,Boulder,Total - All Government Employment Functions,198,R,1611693,R,92,R,88475,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Financial Administration,10,R,79730,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Other Government Administration,16,R,108278,R,2,R,1847,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Judicial and Legal,8,R,62074,R,3,R,5473,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Police Protection - Persons with Power of Arrest,39,R,377466,R,5,R,4735,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Police Protection - Other,12,R,73747,R,16,R,10766,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Fire Protection - Firefighters,24,R,237154,R,13,R,19063,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Fire Protection - Other,2,R,14397,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Highways,9,R,58811,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Air Transportation,4,R,24588,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Health,3,R,20542,R,1,R,2004,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Sewerage,1,R,7371,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Parks and Recreation,10,R,69560,R,49,R,39159,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Housing and Community Development,5,R,38296,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Water Supply,9,R,64342,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,Electric Power,11,R,119753,R,0,R,0,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Boulder,All other and unallocable,35,R,255582,R,3,R,5426,R,29200200400000,West,Clark,32,003,16410,20,NA,1,04,130691
+Nevada,Municipality,Mesquite,Total - All Government Employment Functions,180,R,1065365,R,62,R,56582,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Financial Administration,10,R,65898,R,2,R,3937,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Other Government Administration,23,R,124419,R,2,R,1417,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Judicial and Legal,7,R,40655,R,5,R,8007,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Police Protection - Persons with Power of Arrest,33,R,248871,R,0,R,0,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Police Protection - Other,19,R,86730,R,4,R,4619,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Fire Protection - Firefighters,30,R,209724,R,3,R,2673,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Fire Protection - Other,2,R,13100,R,3,R,3175,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Corrections,7,R,46535,R,0,R,0,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Highways,8,R,27791,R,3,R,5727,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Public Welfare,4,R,18953,R,5,R,3883,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Sewerage,9,R,44014,R,0,R,0,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,Parks and Recreation,18,R,90705,R,35,R,23145,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Mesquite,All other and unallocable,10,R,47971,R,0,R,0,R,29200240100000,West,Clark,32,003,20438,20,NA,1,04,108907
+Nevada,Municipality,Carlin,Total - All Government Employment Functions,23,G,113513,G,4,G,1926,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Financial Administration,1,G,7451,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Other Government Administration,3,G,27563,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Judicial and Legal,2,G,2476,G,1,G,903,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Police Protection - Persons with Power of Arrest,5,G,24785,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Police Protection - Other,2,G,8631,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Fire Protection - Firefighters,0,G,0,G,3,G,1023,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Highways,1,G,3844,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Sewerage,3,G,13226,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,Water Supply,3,G,17285,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Carlin,All other and unallocable,3,G,8253,G,0,G,0,G,29200400100000,West,Elko,32,007,2281,20,NA,1,04,169989
+Nevada,Municipality,Elko,Total - All Government Employment Functions,170,R,1073612,R,14,R,15445,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Financial Administration,6,R,35046,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Other Government Administration,17,R,88837,R,1,R,1284,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Police Protection - Persons with Power of Arrest,40,R,314515,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Police Protection - Other,6,R,27333,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Fire Protection - Firefighters,17,R,128130,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Fire Protection - Other,4,R,33006,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Highways,11,R,62250,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Air Transportation,4,R,23006,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Public Welfare,1,R,4424,R,2,R,5259,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Health,6,C,30010,C,0,C,0,C,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Solid Waste Management,8,R,41265,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Sewerage,9,R,53597,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Parks and Recreation,13,R,67538,R,10,R,7475,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Housing and Community Development,4,R,24415,R,1,R,1426,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Water Supply,11,R,66728,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,Electric Power,2,R,12400,R,0,R,0,R,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Elko,All other and unallocable,11,C,61112,C,0,C,0,C,29200400200000,West,Elko,32,007,20531,20,NA,1,04,130692
+Nevada,Municipality,Wells,Total - All Government Employment Functions,13,R,55833,R,10,C,5108,C,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Financial Administration,4,R,19096,R,0,R,0,R,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Other Government Administration,1,R,1829,R,5,C,755,C,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Fire Protection - Firefighters,0,C,0,C,1,C,100,C,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Highways,3,R,17714,R,0,R,0,R,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Air Transportation,1,R,5204,R,0,R,0,R,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Public Welfare,3,R,7856,R,0,R,0,R,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Parks and Recreation,0,C,0,C,3,C,2869,C,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,Water Supply,1,R,4134,R,0,R,0,R,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,Wells,All other and unallocable,0,C,0,C,1,C,1384,C,29200400300000,West,Elko,32,007,1254,20,NA,1,04,183877
+Nevada,Municipality,West Wendover,Total - All Government Employment Functions,66,R,331111,R,7,R,786,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Financial Administration,8,R,43086,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Other Government Administration,8,R,23662,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Judicial and Legal,5,R,20947,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Police Protection - Persons with Power of Arrest,14,R,91144,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Police Protection - Other,8,R,34857,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Fire Protection - Firefighters,4,R,30057,R,7,R,786,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Solid Waste Management,3,R,12982,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Sewerage,4,R,19860,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Housing and Community Development,1,R,4734,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,Water Supply,8,R,38075,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,West Wendover,All other and unallocable,3,R,11707,R,0,R,0,R,29200420100000,West,Elko,32,007,4268,20,NA,1,04,169990
+Nevada,Municipality,Winnemucca,Total - All Government Employment Functions,60,R,315436,R,17,R,12599,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Financial Administration,5,R,20616,R,0,R,0,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Other Government Administration,7,R,20961,R,0,R,0,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Judicial and Legal,1,R,7802,R,0,R,0,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Police Protection - Persons with Power of Arrest,23,R,154977,R,6,R,6266,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Police Protection - Other,4,R,18645,R,0,R,0,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Fire Protection - Firefighters,0,C,0,C,1,C,1633,C,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Highways,5,R,27344,R,1,R,1488,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Sewerage,4,R,16935,R,0,R,0,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Parks and Recreation,5,R,22144,R,9,R,3212,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,Water Supply,3,R,10848,R,0,R,0,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Winnemucca,All other and unallocable,3,R,15164,R,0,R,0,R,29200700100000,West,Humboldt,32,013,7801,20,NA,1,04,169991
+Nevada,Municipality,Caliente,Total - All Government Employment Functions,9,R,33173,R,5,R,800,R,29200900100000,West,Lincoln,32,017,1077,20,NA,1,04,139229
+Nevada,Municipality,Caliente,Financial Administration,2,R,5066,R,0,R,0,R,29200900100000,West,Lincoln,32,017,1077,20,NA,1,04,139229
+Nevada,Municipality,Caliente,Other Government Administration,2,R,10834,R,5,R,800,R,29200900100000,West,Lincoln,32,017,1077,20,NA,1,04,139229
+Nevada,Municipality,Caliente,Highways,1,R,3577,R,0,R,0,R,29200900100000,West,Lincoln,32,017,1077,20,NA,1,04,139229
+Nevada,Municipality,Caliente,Solid Waste Management,1,R,3534,R,0,R,0,R,29200900100000,West,Lincoln,32,017,1077,20,NA,1,04,139229
+Nevada,Municipality,Caliente,Parks and Recreation,2,R,5212,R,0,R,0,R,29200900100000,West,Lincoln,32,017,1077,20,NA,1,04,139229
+Nevada,Municipality,Caliente,Water Supply,1,R,4950,R,0,R,0,R,29200900100000,West,Lincoln,32,017,1077,20,NA,1,04,139229
+Nevada,Municipality,Yerington,Total - All Government Employment Functions,23,R,109844,R,9,R,7637,C,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Financial Administration,4,R,12298,R,2,R,1957,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Other Government Administration,3,R,19413,R,5,R,1799,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Judicial and Legal,0,C,0,C,1,C,2758,C,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Police Protection - Persons with Power of Arrest,8,R,40672,R,0,R,0,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Police Protection - Other,1,R,3530,R,0,R,0,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Sewerage,3,R,15501,R,0,R,0,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Parks and Recreation,0,R,0,R,1,R,1123,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,Water Supply,3,R,12672,R,0,R,0,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Yerington,All other and unallocable,1,R,5757,R,0,R,0,R,29201000100000,West,Lyon,32,019,3253,20,NA,1,04,169992
+Nevada,Municipality,Fernley,Total - All Government Employment Functions,78,R,414514,R,3,R,4690,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Financial Administration,8,R,44713,R,0,R,0,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Other Government Administration,20,R,87429,R,1,R,1579,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Judicial and Legal,9,R,50251,R,1,R,354,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Highways,4,R,15781,R,0,R,0,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Health,2,R,8399,R,0,R,0,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Sewerage,5,R,26507,R,0,R,0,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Parks and Recreation,2,R,9296,R,0,R,0,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,Water Supply,12,R,71231,R,0,R,0,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Fernley,All other and unallocable,16,R,100907,R,1,R,2757,R,29201000200000,West,Lyon,32,019,21926,20,NA,1,04,213325
+Nevada,Municipality,Carson City,Total - All Government Employment Functions,652,R,4568861,R,147,R,168730,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Financial Administration,38,R,253601,R,2,R,3383,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Other Government Administration,32,R,199510,R,5,R,6769,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Judicial and Legal,68,R,459786,R,10,R,12242,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Police Protection - Persons with Power of Arrest,60,R,449841,R,0,R,0,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Police Protection - Other,35,R,244004,R,12,R,12315,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Fire Protection - Firefighters,67,R,785184,R,4,R,7718,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Fire Protection - Other,19,R,115803,R,3,R,1962,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Corrections,79,R,544923,R,10,R,23523,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Highways,59,R,403375,R,7,R,22802,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Public Welfare,6,R,42959,R,1,R,1353,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Health,34,R,196874,R,9,R,19951,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Solid Waste Management,11,R,50194,R,0,R,0,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Sewerage,30,R,200206,R,0,R,0,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Parks and Recreation,38,C,210747,C,69,R,40991,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Natural Resources,18,R,76199,R,2,R,2302,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Water Supply,21,R,130745,R,1,R,1736,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,Libraries,9,R,50782,R,6,R,4325,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Carson City,All other and unallocable,28,C,154130,C,6,R,7357,R,29201300100000,West,Carson City,32,510,56034,20,NA,1,04,194943
+Nevada,Municipality,Lovelock,Total - All Government Employment Functions,10,R,38594,R,1,R,1439,R,29201400100000,West,Pershing,32,027,1819,20,NA,1,04,194952
+Nevada,Municipality,Lovelock,Financial Administration,2,C,6377,C,0,C,0,C,29201400100000,West,Pershing,32,027,1819,20,NA,1,04,194952
+Nevada,Municipality,Lovelock,Other Government Administration,0,R,0,R,1,R,1439,R,29201400100000,West,Pershing,32,027,1819,20,NA,1,04,194952
+Nevada,Municipality,Lovelock,Police Protection - Other,2,R,10728,R,0,R,0,R,29201400100000,West,Pershing,32,027,1819,20,NA,1,04,194952
+Nevada,Municipality,Lovelock,Health,2,C,4960,C,0,C,0,C,29201400100000,West,Pershing,32,027,1819,20,NA,1,04,194952
+Nevada,Municipality,Lovelock,Solid Waste Management,2,R,6820,R,0,R,0,R,29201400100000,West,Pershing,32,027,1819,20,NA,1,04,194952
+Nevada,Municipality,Lovelock,Sewerage,2,R,9709,R,0,R,0,R,29201400100000,West,Pershing,32,027,1819,20,NA,1,04,194952
+Nevada,Municipality,Reno,Total - All Government Employment Functions,1229,R,10475725,R,265,R,208042,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Financial Administration,63,T,478020,T,1,T,1010,T,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Other Government Administration,40,C,312054,C,10,R,7878,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Judicial and Legal,81,R,764346,R,1,R,1661,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Police Protection - Persons with Power of Arrest,330,R,3170912,R,0,R,0,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Police Protection - Other,51,X,354459,X,8,R,7784,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Fire Protection - Firefighters,268,R,2605914,R,0,R,0,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Fire Protection - Other,26,R,218136,R,0,R,0,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Highways,34,T,224170,T,3,T,9019,T,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Sewerage,44,R,277493,R,1,R,1129,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Parks and Recreation,82,R,397270,R,233,R,169079,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,Housing and Community Development,2,R,12613,R,0,R,0,R,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Reno,All other and unallocable,208,T,1660338,T,8,T,10482,T,29201600100000,West,Washoe,32,031,259290,20,NA,1,04,169993
+Nevada,Municipality,Sparks,Total - All Government Employment Functions,508,R,4841174,R,109,R,99956,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Financial Administration,30,R,227450,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Other Government Administration,49,R,405452,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Judicial and Legal,26,R,238496,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Police Protection - Persons with Power of Arrest,119,R,1405684,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Police Protection - Other,55,R,401280,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Fire Protection - Firefighters,85,R,938910,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Fire Protection - Other,3,R,19180,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Highways,21,R,162995,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Sewerage,95,R,893238,R,0,R,0,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Sparks,Parks and Recreation,25,R,148490,R,109,R,99956,R,29201600200000,West,Washoe,32,031,106900,20,NA,1,04,108910
+Nevada,Municipality,Ely,Total - All Government Employment Functions,39,R,217722,R,2,R,2635,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Financial Administration,3,R,13833,R,1,R,2290,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Other Government Administration,2,R,9648,R,0,R,0,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Judicial and Legal,4,R,15082,R,0,R,0,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Fire Protection - Firefighters,9,R,80458,R,1,R,345,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Highways,3,R,15476,R,0,R,0,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Health,1,C,4344,C,0,C,0,C,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Solid Waste Management,6,R,25730,R,0,R,0,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Sewerage,3,R,11833,R,0,R,0,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Parks and Recreation,3,R,13855,R,0,R,0,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,Water Supply,4,R,20208,R,0,R,0,R,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Municipality,Ely,All other and unallocable,1,C,7256,C,0,C,0,C,29201700100000,West,White Pine,32,033,4014,20,NA,1,04,130693
+Nevada,Special District,Lahontan Conservation District,Total - All Government Employment Functions,1,C,1748,C,0,C,0,C,29400100100000,West,Churchill,32,001,88,NA,NA,1,03,152086
+Nevada,Special District,Lahontan Conservation District,Natural Resources,1,C,1748,C,0,C,0,C,29400100100000,West,Churchill,32,001,88,NA,NA,1,03,152086
+Nevada,Special District,Truckee-Carson Irrigation District,Total - All Government Employment Functions,44,R,210171,R,5,R,3090,R,29400100200000,West,Churchill,32,001,64,NA,NA,1,03,195201
+Nevada,Special District,Truckee-Carson Irrigation District,Natural Resources,44,R,210171,R,5,R,3090,R,29400100200000,West,Churchill,32,001,64,NA,NA,1,03,195201
+Nevada,Special District,Stillwater Conservation District,Total - All Government Employment Functions,0,R,0,R,1,R,74,R,29400100300000,West,Churchill,32,001,88,NA,NA,1,03,130694
+Nevada,Special District,Stillwater Conservation District,Natural Resources,0,R,0,R,1,R,74,R,29400100300000,West,Churchill,32,001,88,NA,NA,1,03,130694
+Nevada,Special District,Carson Truckee Water Conservancy District,Total - All Government Employment Functions,0,C,0,C,6,C,480,C,29400100400000,West,Churchill,32,001,63,NA,NA,1,03,152087
+Nevada,Special District,Carson Truckee Water Conservancy District,Natural Resources,0,C,0,C,6,C,480,C,29400100400000,West,Churchill,32,001,63,NA,NA,1,03,152087
+Nevada,Special District,Churchill County Mosquito And Weed Abatement District,Total - All Government Employment Functions,6,R,21380,R,4,R,1804,R,29400140100000,West,Churchill,32,001,32,NA,NA,1,03,152088
+Nevada,Special District,Churchill County Mosquito And Weed Abatement District,Health,6,R,21380,R,4,R,1804,R,29400140100000,West,Churchill,32,001,32,NA,NA,1,03,152088
+Nevada,Special District,Southern Nevada Regional Housing Authority,Total - All Government Employment Functions,222,R,1234214,R,0,R,0,R,29400200200000,West,Clark,32,003,50,NA,NA,1,03,130695
+Nevada,Special District,Southern Nevada Regional Housing Authority,Housing and Community Development,222,R,1234214,R,0,R,0,R,29400200200000,West,Clark,32,003,50,NA,NA,1,03,130695
+Nevada,Special District,Overton Power District 5,Total - All Government Employment Functions,54,R,400396,R,8,C,4000,C,29400200700000,West,Clark,32,003,92,NA,NA,1,03,152090
+Nevada,Special District,Overton Power District 5,Electric Power,54,R,400396,R,8,C,4000,C,29400200700000,West,Clark,32,003,92,NA,NA,1,03,152090
+Nevada,Special District,Moapa Valley Water District,Total - All Government Employment Functions,19,R,131053,R,5,C,2500,C,29400220100000,West,Clark,32,003,91,NA,NA,1,03,130696
+Nevada,Special District,Moapa Valley Water District,Water Supply,19,R,131053,R,5,C,2500,C,29400220100000,West,Clark,32,003,91,NA,NA,1,03,130696
+Nevada,Special District,Virgin Valley Water District,Total - All Government Employment Functions,21,R,136900,R,5,R,400,R,29400233500000,West,Clark,32,003,91,NA,NA,1,03,139232
+Nevada,Special District,Virgin Valley Water District,Water Supply,21,R,136900,R,5,R,400,R,29400233500000,West,Clark,32,003,91,NA,NA,1,03,139232
+Nevada,Special District,Big Bend Water District,Total - All Government Employment Functions,15,P,93002,P,6,P,4990,P,29400233600000,West,Clark,32,003,91,NA,NA,1,03,130697
+Nevada,Special District,Big Bend Water District,Water Supply,15,P,93002,P,6,P,4990,P,29400233600000,West,Clark,32,003,91,NA,NA,1,03,130697
+Nevada,Special District,Southern Nye County Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,220,G,29400238000000,West,Clark,32,003,88,NA,NA,1,03,196630
+Nevada,Special District,Southern Nye County Conservation District,Natural Resources,0,G,0,G,1,G,220,G,29400238000000,West,Clark,32,003,88,NA,NA,1,03,196630
+Nevada,Special District,Moapa Valley Television Maintenance District,Total - All Government Employment Functions,0,R,0,R,6,R,325,R,29400250300000,West,Clark,32,003,03,NA,NA,1,03,206825
+Nevada,Special District,Moapa Valley Television Maintenance District,All other and unallocable,0,R,0,R,6,R,325,R,29400250300000,West,Clark,32,003,03,NA,NA,1,03,206825
+Nevada,Special District,Southern Nevada Conservation District,Total - All Government Employment Functions,1,G,5117,G,7,G,7384,G,29400260200000,West,Clark,32,003,88,NA,NA,1,03,152093
+Nevada,Special District,Southern Nevada Conservation District,Natural Resources,1,G,5117,G,7,G,7384,G,29400260200000,West,Clark,32,003,88,NA,NA,1,03,152093
+Nevada,Special District,Boulder City Library District,Total - All Government Employment Functions,9,R,34175,R,17,R,20270,R,29400290100000,West,Clark,32,003,52,NA,NA,1,03,190872
+Nevada,Special District,Boulder City Library District,Libraries,9,R,34175,R,17,R,20270,R,29400290100000,West,Clark,32,003,52,NA,NA,1,03,190872
+Nevada,Special District,Henderson District Public Libraries,Total - All Government Employment Functions,56,R,358525,R,28,R,39258,R,29400290200000,West,Clark,32,003,52,NA,NA,1,03,139233
+Nevada,Special District,Henderson District Public Libraries,Libraries,56,R,358525,R,28,R,39258,R,29400290200000,West,Clark,32,003,52,NA,NA,1,03,139233
+Nevada,Special District,Las Vegas-Clark County Library District,Total - All Government Employment Functions,331,R,1938220,R,276,R,380092,R,29400290300000,West,Clark,32,003,52,NA,NA,1,03,130699
+Nevada,Special District,Las Vegas-Clark County Library District,Libraries,331,R,1938220,R,276,R,380092,R,29400290300000,West,Clark,32,003,52,NA,NA,1,03,130699
+Nevada,Special District,Carson Valley Conservation District,Total - All Government Employment Functions,1,G,5110,G,1,G,1256,G,29400300100000,West,Douglas,32,005,88,NA,NA,1,03,152095
+Nevada,Special District,Carson Valley Conservation District,Natural Resources,1,G,5110,G,1,G,1256,G,29400300100000,West,Douglas,32,005,88,NA,NA,1,03,152095
+Nevada,Special District,Douglas County Lake Tahoe Sewer Authority,Total - All Government Employment Functions,11,R,92595,R,5,C,3750,C,29400300200100,West,Douglas,32,005,80,NA,NA,1,03,247628
+Nevada,Special District,Douglas County Lake Tahoe Sewer Authority,Sewerage,11,R,92595,R,5,C,3750,C,29400300200100,West,Douglas,32,005,80,NA,NA,1,03,247628
+Nevada,Special District,Tahoe Douglas Fire Protection District,Total - All Government Employment Functions,62,G,598378,G,8,G,7846,G,29400300300000,West,Douglas,32,005,24,NA,NA,1,07,152096
+Nevada,Special District,Tahoe Douglas Fire Protection District,Fire Protection - Firefighters,53,G,532694,G,8,G,7846,G,29400300300000,West,Douglas,32,005,24,NA,NA,1,07,152096
+Nevada,Special District,Tahoe Douglas Fire Protection District,Fire Protection - Other,9,G,65684,G,0,G,0,G,29400300300000,West,Douglas,32,005,24,NA,NA,1,07,152096
+Nevada,Special District,East Fork Swimming Pool District,Total - All Government Employment Functions,7,R,40969,R,43,R,43259,R,29400340100000,West,Douglas,32,005,61,NA,NA,1,03,130700
+Nevada,Special District,East Fork Swimming Pool District,Parks and Recreation,7,R,40969,R,43,R,43259,R,29400340100000,West,Douglas,32,005,61,NA,NA,1,03,130700
+Nevada,Special District,Zephyr Heights General Improvement District,Total - All Government Employment Functions,0,R,0,R,8,R,3636,R,29400350200000,West,Douglas,32,005,44,NA,NA,1,03,206826
+Nevada,Special District,Zephyr Heights General Improvement District,Highways,0,R,0,R,8,R,3636,R,29400350200000,West,Douglas,32,005,44,NA,NA,1,03,206826
+Nevada,Special District,Kingsbury General Improvement District,Total - All Government Employment Functions,16,G,90920,G,0,G,0,G,29400350300000,West,Douglas,32,005,99,NA,NA,1,07,152097
+Nevada,Special District,Kingsbury General Improvement District,Highways,2,G,12118,G,0,G,0,G,29400350300000,West,Douglas,32,005,99,NA,NA,1,07,152097
+Nevada,Special District,Kingsbury General Improvement District,Water Supply,5,G,45332,G,0,G,0,G,29400350300000,West,Douglas,32,005,99,NA,NA,1,07,152097
+Nevada,Special District,Kingsbury General Improvement District,All other and unallocable,9,G,33470,G,0,G,0,G,29400350300000,West,Douglas,32,005,99,NA,NA,1,07,152097
+Nevada,Special District,Carson Water Subconservancy District,Total - All Government Employment Functions,2,R,19323,R,4,R,17482,R,29400380100000,West,Douglas,32,005,88,NA,NA,1,03,152098
+Nevada,Special District,Carson Water Subconservancy District,Natural Resources,2,R,19323,R,4,R,17482,R,29400380100000,West,Douglas,32,005,88,NA,NA,1,03,152098
+Nevada,Special District,Douglas County Mosquito Abatement District,Total - All Government Employment Functions,2,R,11401,R,4,R,4591,R,29400380200000,West,Douglas,32,005,32,NA,NA,1,03,108914
+Nevada,Special District,Douglas County Mosquito Abatement District,Health,2,R,11401,R,4,R,4591,R,29400380200000,West,Douglas,32,005,32,NA,NA,1,03,108914
+Nevada,Special District,Gardnerville Ranchos General Improvement District,Total - All Government Employment Functions,8,T,43243,T,5,R,3831,R,29400380500000,West,Douglas,32,005,99,NA,NA,1,07,152099
+Nevada,Special District,Gardnerville Ranchos General Improvement District,Highways,2,T,12799,T,0,T,0,T,29400380500000,West,Douglas,32,005,99,NA,NA,1,07,152099
+Nevada,Special District,Gardnerville Ranchos General Improvement District,Sewerage,1,T,6379,T,0,T,0,T,29400380500000,West,Douglas,32,005,99,NA,NA,1,07,152099
+Nevada,Special District,Gardnerville Ranchos General Improvement District,Parks and Recreation,2,T,6696,T,0,T,0,T,29400380500000,West,Douglas,32,005,99,NA,NA,1,07,152099
+Nevada,Special District,Gardnerville Ranchos General Improvement District,Water Supply,1,T,8656,T,0,T,0,T,29400380500000,West,Douglas,32,005,99,NA,NA,1,07,152099
+Nevada,Special District,Gardnerville Ranchos General Improvement District,All other and unallocable,2,T,8713,T,5,R,3831,R,29400380500000,West,Douglas,32,005,99,NA,NA,1,07,152099
+Nevada,Special District,Marla Bay General Improvement District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,29400381000000,West,Douglas,32,005,44,NA,NA,1,03,130702
+Nevada,Special District,Marla Bay General Improvement District,Highways,0,G,0,G,0,G,0,G,29400381000000,West,Douglas,32,005,44,NA,NA,1,03,130702
+Nevada,Special District,Minden-Gardnerville Sanitation District,Total - All Government Employment Functions,14,R,82318,R,5,R,2500,R,29400381100000,West,Douglas,32,005,80,NA,NA,1,03,152100
+Nevada,Special District,Minden-Gardnerville Sanitation District,Sewerage,14,R,82318,R,5,R,2500,R,29400381100000,West,Douglas,32,005,80,NA,NA,1,03,152100
+Nevada,Special District,Round Hill General Improvement District,Total - All Government Employment Functions,5,R,30163,R,0,R,0,R,29400381300000,West,Douglas,32,005,99,NA,NA,1,07,152101
+Nevada,Special District,Round Hill General Improvement District,Water Supply,3,R,15358,R,0,R,0,R,29400381300000,West,Douglas,32,005,99,NA,NA,1,07,152101
+Nevada,Special District,Round Hill General Improvement District,All other and unallocable,2,R,14805,R,0,R,0,R,29400381300000,West,Douglas,32,005,99,NA,NA,1,07,152101
+Nevada,Special District,Skyland General Improvement District,Total - All Government Employment Functions,0,R,0,R,5,R,1019,R,29400381400000,West,Douglas,32,005,44,NA,NA,1,03,108915
+Nevada,Special District,Skyland General Improvement District,Highways,0,R,0,R,5,R,1019,R,29400381400000,West,Douglas,32,005,44,NA,NA,1,03,108915
+Nevada,Special District,Zephyr Cove General Improvement District,Total - All Government Employment Functions,0,G,0,G,4,G,89,G,29400381500000,West,Douglas,32,005,99,NA,NA,1,07,130703
+Nevada,Special District,Zephyr Cove General Improvement District,Highways,0,G,0,G,4,G,89,G,29400381500000,West,Douglas,32,005,99,NA,NA,1,07,130703
+Nevada,Special District,Topaz Ranch Estates General Improvement District,Total - All Government Employment Functions,11,T,19139,T,0,T,0,T,29400390300000,West,Douglas,32,005,99,NA,NA,1,07,130704
+Nevada,Special District,Topaz Ranch Estates General Improvement District,Highways,4,T,7268,T,0,T,0,T,29400390300000,West,Douglas,32,005,99,NA,NA,1,07,130704
+Nevada,Special District,Topaz Ranch Estates General Improvement District,Water Supply,5,T,8237,T,0,T,0,T,29400390300000,West,Douglas,32,005,99,NA,NA,1,07,130704
+Nevada,Special District,Topaz Ranch Estates General Improvement District,All other and unallocable,2,T,3634,T,0,T,0,T,29400390300000,West,Douglas,32,005,99,NA,NA,1,07,130704
+Nevada,Special District,Indian Hills General Improvement District,Total - All Government Employment Functions,10,C,51819,C,6,C,8826,C,29400390500000,West,Douglas,32,005,99,NA,NA,1,07,152106
+Nevada,Special District,Indian Hills General Improvement District,Sewerage,2,R,11253,R,0,R,0,R,29400390500000,West,Douglas,32,005,99,NA,NA,1,07,152106
+Nevada,Special District,Indian Hills General Improvement District,Parks and Recreation,2,R,7267,R,0,R,0,R,29400390500000,West,Douglas,32,005,99,NA,NA,1,07,152106
+Nevada,Special District,Indian Hills General Improvement District,Water Supply,2,R,10657,R,0,R,0,R,29400390500000,West,Douglas,32,005,99,NA,NA,1,07,152106
+Nevada,Special District,Indian Hills General Improvement District,All other and unallocable,4,C,22641,C,6,C,8826,C,29400390500000,West,Douglas,32,005,99,NA,NA,1,07,152106
+Nevada,Special District,Sierra Estates General Improvement District,Total - All Government Employment Functions,0,C,0,C,1,C,1677,C,29400390600000,West,Douglas,32,005,91,NA,NA,1,03,152107
+Nevada,Special District,Sierra Estates General Improvement District,Water Supply,0,C,0,C,1,C,1677,C,29400390600000,West,Douglas,32,005,91,NA,NA,1,03,152107
+Nevada,Special District,Tahoe Douglas Sewer District,Total - All Government Employment Functions,4,G,77723,G,4,G,7530,G,29400390700000,West,Douglas,32,005,80,NA,NA,1,03,130705
+Nevada,Special District,Tahoe Douglas Sewer District,Sewerage,4,G,77723,G,4,G,7530,G,29400390700000,West,Douglas,32,005,80,NA,NA,1,03,130705
+Nevada,Special District,Jiggs Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,36,G,29400400400000,West,Elko,32,007,88,NA,NA,1,03,152108
+Nevada,Special District,Jiggs Conservation District,Natural Resources,0,G,0,G,1,G,36,G,29400400400000,West,Elko,32,007,88,NA,NA,1,03,152108
+Nevada,Special District,Lamoille Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,36,G,29400400500000,West,Elko,32,007,88,NA,NA,1,03,130706
+Nevada,Special District,Lamoille Conservation District,Natural Resources,0,G,0,G,1,G,36,G,29400400500000,West,Elko,32,007,88,NA,NA,1,03,130706
+Nevada,Special District,Northeast Elko Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,36,G,29400400600000,West,Elko,32,007,88,NA,NA,1,03,108917
+Nevada,Special District,Northeast Elko Conservation District,Natural Resources,0,G,0,G,1,G,36,G,29400400600000,West,Elko,32,007,88,NA,NA,1,03,108917
+Nevada,Special District,Owyhee Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,36,G,29400400800000,West,Elko,32,007,88,NA,NA,1,03,152109
+Nevada,Special District,Owyhee Conservation District,Natural Resources,0,G,0,G,1,G,36,G,29400400800000,West,Elko,32,007,88,NA,NA,1,03,152109
+Nevada,Special District,Starr Valley Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,36,G,29400401000000,West,Elko,32,007,88,NA,NA,1,03,152111
+Nevada,Special District,Starr Valley Conservation District,Natural Resources,0,G,0,G,1,G,36,G,29400401000000,West,Elko,32,007,88,NA,NA,1,03,152111
+Nevada,Special District,Ruby Valley Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,80,G,29400420400000,West,Elko,32,007,88,NA,NA,1,03,152112
+Nevada,Special District,Ruby Valley Conservation District,Natural Resources,0,G,0,G,1,G,80,G,29400420400000,West,Elko,32,007,88,NA,NA,1,03,152112
+Nevada,Special District,Duck Valley Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,36,G,29400420500000,West,Elko,32,007,88,NA,NA,1,03,108918
+Nevada,Special District,Duck Valley Conservation District,Natural Resources,0,G,0,G,1,G,36,G,29400420500000,West,Elko,32,007,88,NA,NA,1,03,108918
+Nevada,Special District,Elko-Lander-Eureka Library System,Total - All Government Employment Functions,9,R,43960,R,15,R,23836,R,29400421000000,West,Elko,32,007,52,NA,NA,1,03,130707
+Nevada,Special District,Elko-Lander-Eureka Library System,Libraries,9,R,43960,R,15,R,23836,R,29400421000000,West,Elko,32,007,52,NA,NA,1,03,130707
+Nevada,Special District,West Wendover Recreation District,Total - All Government Employment Functions,15,R,74082,R,24,R,12016,R,29400440300000,West,Elko,32,007,61,NA,NA,1,03,152114
+Nevada,Special District,West Wendover Recreation District,Parks and Recreation,15,R,74082,R,24,R,12016,R,29400440300000,West,Elko,32,007,61,NA,NA,1,03,152114
+Nevada,Special District,Elko Convention And Vistors Authority,Total - All Government Employment Functions,10,R,47155,R,0,R,0,R,29400440400000,West,Elko,32,007,61,NA,NA,1,03,190873
+Nevada,Special District,Elko Convention And Vistors Authority,Parks and Recreation,10,R,47155,R,0,R,0,R,29400440400000,West,Elko,32,007,61,NA,NA,1,03,190873
+Nevada,Special District,Clover Valley Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,36,G,29400450100000,West,Elko,32,007,88,NA,NA,1,03,108919
+Nevada,Special District,Clover Valley Conservation District,Natural Resources,0,G,0,G,1,G,36,G,29400450100000,West,Elko,32,007,88,NA,NA,1,03,108919
+Nevada,Special District,Elko Television District,Total - All Government Employment Functions,0,R,0,R,5,R,1750,R,29400490100000,West,Elko,32,007,03,NA,NA,1,03,108920
+Nevada,Special District,Elko Television District,All other and unallocable,0,R,0,R,5,R,1750,R,29400490100000,West,Elko,32,007,03,NA,NA,1,03,108920
+Nevada,Special District,Eureka Conservation District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,29400600100000,West,Eureka,32,011,88,NA,NA,1,03,152120
+Nevada,Special District,Eureka Conservation District,Natural Resources,0,G,0,G,0,G,0,G,29400600100000,West,Eureka,32,011,88,NA,NA,1,03,152120
+Nevada,Special District,Devil's Gate General Improvement District,Total - All Government Employment Functions,0,C,0,C,1,C,1278,C,29400618500000,West,Eureka,32,011,89,NA,NA,1,03,220014
+Nevada,Special District,Devil's Gate General Improvement District,All other and unallocable,0,C,0,C,1,C,1278,C,29400618500000,West,Eureka,32,011,89,NA,NA,1,03,220014
+Nevada,Special District,Eureka County Television District,Total - All Government Employment Functions,0,R,0,R,4,R,400,R,29400640100000,West,Eureka,32,011,03,NA,NA,1,03,108921
+Nevada,Special District,Eureka County Television District,All other and unallocable,0,R,0,R,4,R,400,R,29400640100000,West,Eureka,32,011,03,NA,NA,1,03,108921
+Nevada,Special District,Golconda Fire Protection District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,29400700100000,West,Humboldt,32,013,24,NA,NA,1,07,130711
+Nevada,Special District,Golconda Fire Protection District,Fire Protection - Firefighters,0,G,0,G,0,G,0,G,29400700100000,West,Humboldt,32,013,24,NA,NA,1,07,130711
+Nevada,Special District,Paradise-Sonoma Conservation District,Total - All Government Employment Functions,0,P,0,P,1,P,74,P,29400700400000,West,Humboldt,32,013,88,NA,NA,1,03,130712
+Nevada,Special District,Paradise-Sonoma Conservation District,Natural Resources,0,P,0,P,1,P,74,P,29400700400000,West,Humboldt,32,013,88,NA,NA,1,03,130712
+Nevada,Special District,Orovada Community Services District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,29400740100000,West,Humboldt,32,013,99,NA,NA,1,07,152123
+Nevada,Special District,Orovada Community Services District,All other and unallocable,0,R,0,R,0,R,0,R,29400740100000,West,Humboldt,32,013,99,NA,NA,1,07,152123
+Nevada,Special District,Orovada General Improvement District,Total - All Government Employment Functions,0,G,0,G,1,G,483,G,29400740200000,West,Humboldt,32,013,98,NA,NA,1,07,206828
+Nevada,Special District,Orovada General Improvement District,Water Supply,0,G,0,G,1,G,483,G,29400740200000,West,Humboldt,32,013,98,NA,NA,1,07,206828
+Nevada,Special District,Golconda Water District,Total - All Government Employment Functions,0,R,0,R,1,R,1440,R,29400740300000,West,Humboldt,32,013,91,NA,NA,1,03,130713
+Nevada,Special District,Golconda Water District,Water Supply,0,R,0,R,1,R,1440,R,29400740300000,West,Humboldt,32,013,91,NA,NA,1,03,130713
+Nevada,Special District,Quinn River Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,85,G,29400750300000,West,Humboldt,32,013,88,NA,NA,1,03,190874
+Nevada,Special District,Quinn River Conservation District,Natural Resources,0,G,0,G,1,G,85,G,29400750300000,West,Humboldt,32,013,88,NA,NA,1,03,190874
+Nevada,Special District,Winnemucca Rural Fire Protection District,Total - All Government Employment Functions,0,R,0,X,1,R,3602,X,29400750400000,West,Humboldt,32,013,24,NA,NA,1,07,108923
+Nevada,Special District,Winnemucca Rural Fire Protection District,Fire Protection - Firefighters,0,R,0,X,1,R,3602,X,29400750400000,West,Humboldt,32,013,24,NA,NA,1,07,108923
+Nevada,Special District,Lander County General Improvement District 1,Total - All Government Employment Functions,0,C,0,C,6,C,1953,C,29400820100000,West,Lander,32,015,03,NA,NA,1,03,152128
+Nevada,Special District,Lander County General Improvement District 1,All other and unallocable,0,C,0,C,6,C,1953,C,29400820100000,West,Lander,32,015,03,NA,NA,1,03,152128
+Nevada,Special District,Lander County Conservation District,Total - All Government Employment Functions,0,C,0,C,1,C,1000,C,29400860100000,West,Lander,32,015,88,NA,NA,1,03,152129
+Nevada,Special District,Lander County Conservation District,Natural Resources,0,C,0,C,1,C,1000,C,29400860100000,West,Lander,32,015,88,NA,NA,1,03,152129
+Nevada,Special District,Lander County Sewer And Water District 2,Total - All Government Employment Functions,1,G,2081,G,1,G,1016,G,29400880300000,West,Lander,32,015,98,NA,NA,1,07,204914
+Nevada,Special District,Lander County Sewer And Water District 2,Sewerage,1,G,2081,G,0,G,0,G,29400880300000,West,Lander,32,015,98,NA,NA,1,07,204914
+Nevada,Special District,Lander County Sewer And Water District 2,Water Supply,0,G,0,G,1,G,1016,G,29400880300000,West,Lander,32,015,98,NA,NA,1,07,204914
+Nevada,Special District,Alamo Power District 3,Total - All Government Employment Functions,5,R,28874,R,5,C,250,C,29400900100000,West,Lincoln,32,017,92,NA,NA,1,03,130715
+Nevada,Special District,Alamo Power District 3,Electric Power,5,R,28874,R,5,C,250,C,29400900100000,West,Lincoln,32,017,92,NA,NA,1,03,130715
+Nevada,Special District,Lincoln County Housing Authority,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,29400900200000,West,Lincoln,32,017,50,NA,NA,1,03,152131
+Nevada,Special District,Lincoln County Housing Authority,Housing and Community Development,0,R,0,R,0,R,0,R,29400900200000,West,Lincoln,32,017,50,NA,NA,1,03,152131
+Nevada,Special District,Pioche Fire Protection District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,29400900300000,West,Lincoln,32,017,24,NA,NA,1,07,152132
+Nevada,Special District,Pioche Fire Protection District,Fire Protection - Firefighters,0,G,0,G,0,G,0,G,29400900300000,West,Lincoln,32,017,24,NA,NA,1,07,152132
+Nevada,Special District,Lincoln County Power District 1,Total - All Government Employment Functions,18,R,144840,R,6,R,1750,R,29400900400000,West,Lincoln,32,017,92,NA,NA,1,03,130716
+Nevada,Special District,Lincoln County Power District 1,Electric Power,18,R,144840,R,6,R,1750,R,29400900400000,West,Lincoln,32,017,92,NA,NA,1,03,130716
+Nevada,Special District,Lincoln County Conservation District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,29400900600000,West,Lincoln,32,017,88,NA,NA,1,03,108925
+Nevada,Special District,Lincoln County Conservation District,Natural Resources,0,R,0,R,0,R,0,R,29400900600000,West,Lincoln,32,017,88,NA,NA,1,03,108925
+Nevada,Special District,Lincoln County Television District,Total - All Government Employment Functions,0,R,0,R,8,R,1364,R,29400950100000,West,Lincoln,32,017,03,NA,NA,1,03,152134
+Nevada,Special District,Lincoln County Television District,All other and unallocable,0,R,0,R,8,R,1364,R,29400950100000,West,Lincoln,32,017,03,NA,NA,1,03,152134
+Nevada,Special District,Pahranagat Valley Fire Protection District,Total - All Government Employment Functions,0,R,0,R,7,R,4034,R,29400980100000,West,Lincoln,32,017,24,NA,NA,1,07,108926
+Nevada,Special District,Pahranagat Valley Fire Protection District,Fire Protection - Other,0,R,0,R,7,R,4034,R,29400980100000,West,Lincoln,32,017,24,NA,NA,1,07,108926
+Nevada,Special District,Alamo Sewer And Water General Improvement District,Total - All Government Employment Functions,2,R,8834,R,8,R,3904,R,29400990100000,West,Lincoln,32,017,98,NA,NA,1,07,152135
+Nevada,Special District,Alamo Sewer And Water General Improvement District,Water Supply,2,R,8834,R,8,R,3904,R,29400990100000,West,Lincoln,32,017,98,NA,NA,1,07,152135
+Nevada,Special District,Smith Valley Conservation District,Total - All Government Employment Functions,6,R,13695,R,0,R,0,R,29401020100000,West,Lyon,32,019,88,NA,NA,1,03,190875
+Nevada,Special District,Smith Valley Conservation District,Natural Resources,6,R,13695,R,0,R,0,R,29401020100000,West,Lyon,32,019,88,NA,NA,1,03,190875
+Nevada,Special District,Fernley Swimming Pool District,Total - All Government Employment Functions,3,R,12418,R,19,R,22931,R,29401020200000,West,Lyon,32,019,61,NA,NA,1,03,152136
+Nevada,Special District,Fernley Swimming Pool District,Parks and Recreation,3,R,12418,R,19,R,22931,R,29401020200000,West,Lyon,32,019,61,NA,NA,1,03,152136
+Nevada,Special District,Mason Valley Swimming Pool District,Total - All Government Employment Functions,0,R,0,R,1,R,1036,R,29401020300000,West,Lyon,32,019,61,NA,NA,1,03,152137
+Nevada,Special District,Mason Valley Swimming Pool District,Parks and Recreation,0,R,0,R,1,R,1036,R,29401020300000,West,Lyon,32,019,61,NA,NA,1,03,152137
+Nevada,Special District,Central Lyon County Fire Protection District,Total - All Government Employment Functions,45,R,345016,R,0,R,0,R,29401032100000,West,Lyon,32,019,24,NA,NA,1,07,139245
+Nevada,Special District,Central Lyon County Fire Protection District,Fire Protection - Firefighters,31,R,258793,R,0,R,0,R,29401032100000,West,Lyon,32,019,24,NA,NA,1,07,139245
+Nevada,Special District,Central Lyon County Fire Protection District,Fire Protection - Other,14,R,86223,R,0,R,0,R,29401032100000,West,Lyon,32,019,24,NA,NA,1,07,139245
+Nevada,Special District,North Lyon County Fire Protection District,Total - All Government Employment Functions,15,G,81130,G,10,G,9925,G,29401037100000,West,Lyon,32,019,24,NA,NA,1,07,196561
+Nevada,Special District,North Lyon County Fire Protection District,Fire Protection - Firefighters,14,G,76481,G,10,G,9925,G,29401037100000,West,Lyon,32,019,24,NA,NA,1,07,196561
+Nevada,Special District,North Lyon County Fire Protection District,Fire Protection - Other,1,G,4649,G,0,G,0,G,29401037100000,West,Lyon,32,019,24,NA,NA,1,07,196561
+Nevada,Special District,Mason Valley Fire Protection District,Total - All Government Employment Functions,6,G,35568,G,0,G,0,G,29401037200000,West,Lyon,32,019,24,NA,NA,1,07,196562
+Nevada,Special District,Mason Valley Fire Protection District,Fire Protection - Firefighters,5,G,30062,G,0,G,0,G,29401037200000,West,Lyon,32,019,24,NA,NA,1,07,196562
+Nevada,Special District,Mason Valley Fire Protection District,Fire Protection - Other,1,G,5506,G,0,G,0,G,29401037200000,West,Lyon,32,019,24,NA,NA,1,07,196562
+Nevada,Special District,Smith Valley Fire Protection District,Total - All Government Employment Functions,0,G,0,G,1,G,671,G,29401037300000,West,Lyon,32,019,24,NA,NA,1,07,196563
+Nevada,Special District,Smith Valley Fire Protection District,Fire Protection - Other,0,G,0,G,1,G,671,G,29401037300000,West,Lyon,32,019,24,NA,NA,1,07,196563
+Nevada,Special District,Silver Springs General Improvement District,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,29401037600000,West,Lyon,32,019,80,NA,NA,1,03,196564
+Nevada,Special District,Silver Springs General Improvement District,Sewerage,0,R,0,R,0,R,0,R,29401037600000,West,Lyon,32,019,80,NA,NA,1,03,196564
+Nevada,Special District,Stagecoach General Improvement District,Total - All Government Employment Functions,4,R,23217,R,5,C,750,C,29401040500000,West,Lyon,32,019,98,NA,NA,1,07,152140
+Nevada,Special District,Stagecoach General Improvement District,Water Supply,4,R,23217,R,5,C,750,C,29401040500000,West,Lyon,32,019,98,NA,NA,1,07,152140
+Nevada,Special District,Mason Valley Conservation District,Total - All Government Employment Functions,0,G,0,G,4,G,13684,G,29401060100000,West,Lyon,32,019,64,NA,NA,1,03,130718
+Nevada,Special District,Mason Valley Conservation District,Natural Resources,0,G,0,G,4,G,13684,G,29401060100000,West,Lyon,32,019,64,NA,NA,1,03,130718
+Nevada,Special District,Walker River Irrigation District,Total - All Government Employment Functions,7,R,26393,R,8,R,14204,R,29401140200000,West,Mineral,32,021,59,NA,NA,1,03,152141
+Nevada,Special District,Walker River Irrigation District,Natural Resources,7,R,26393,R,8,R,14204,R,29401140200000,West,Mineral,32,021,59,NA,NA,1,03,152141
+Nevada,Special District,Mineral Television District 1,Total - All Government Employment Functions,0,C,0,X,5,C,2214,X,29401150100000,West,Mineral,32,021,03,NA,NA,1,03,152142
+Nevada,Special District,Mineral Television District 1,All other and unallocable,0,C,0,X,5,C,2214,X,29401150100000,West,Mineral,32,021,03,NA,NA,1,03,152142
+Nevada,Special District,Tonopah Conservation District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,29401200300000,West,Nye,32,023,64,NA,NA,1,03,108929
+Nevada,Special District,Tonopah Conservation District,Natural Resources,0,G,0,G,0,G,0,G,29401200300000,West,Nye,32,023,64,NA,NA,1,03,108929
+Nevada,Special District,Beatty Library District,Total - All Government Employment Functions,0,G,0,G,4,G,3034,G,29401210100000,West,Nye,32,023,52,NA,NA,1,03,217177
+Nevada,Special District,Beatty Library District,Libraries,0,G,0,G,4,G,3034,G,29401210100000,West,Nye,32,023,52,NA,NA,1,03,217177
+Nevada,Special District,Pahrump Community Library District,Total - All Government Employment Functions,7,G,33841,G,6,G,2177,G,29401220100000,West,Nye,32,023,52,NA,NA,1,03,152144
+Nevada,Special District,Pahrump Community Library District,Libraries,7,G,33841,G,6,G,2177,G,29401220100000,West,Nye,32,023,52,NA,NA,1,03,152144
+Nevada,Special District,Smoky Valley Library District,Total - All Government Employment Functions,12,R,52642,R,4,R,6052,R,29401237700000,West,Nye,32,023,52,NA,NA,1,03,198211
+Nevada,Special District,Smoky Valley Library District,Libraries,12,R,52642,R,4,R,6052,R,29401237700000,West,Nye,32,023,52,NA,NA,1,03,198211
+Nevada,Special District,Tonopah Library District,Total - All Government Employment Functions,0,C,0,C,6,C,7627,C,29401237800000,West,Nye,32,023,52,NA,NA,1,03,198212
+Nevada,Special District,Tonopah Library District,Libraries,0,C,0,C,6,C,7627,C,29401237800000,West,Nye,32,023,52,NA,NA,1,03,198212
+Nevada,Special District,Amargosa Valley Library District,Total - All Government Employment Functions,2,R,6466,R,1,R,797,R,29401237900000,West,Nye,32,023,52,NA,NA,1,03,198213
+Nevada,Special District,Amargosa Valley Library District,Libraries,2,R,6466,R,1,R,797,R,29401237900000,West,Nye,32,023,52,NA,NA,1,03,198213
+Nevada,Special District,Beatty General Improvement District,Total - All Government Employment Functions,0,R,0,R,3,R,4366,R,29401260100000,West,Nye,32,023,61,NA,NA,1,03,186511
+Nevada,Special District,Beatty General Improvement District,Parks and Recreation,0,R,0,R,3,R,4366,R,29401260100000,West,Nye,32,023,61,NA,NA,1,03,186511
+Nevada,Special District,Beatty Water And Sanitation District,Total - All Government Employment Functions,3,R,9743,R,0,R,0,R,29401280100000,West,Nye,32,023,98,NA,NA,1,07,130722
+Nevada,Special District,Beatty Water And Sanitation District,Water Supply,2,R,6731,R,0,R,0,R,29401280100000,West,Nye,32,023,98,NA,NA,1,07,130722
+Nevada,Special District,Beatty Water And Sanitation District,All other and unallocable,1,R,3011,R,0,R,0,R,29401280100000,West,Nye,32,023,98,NA,NA,1,07,130722
+Nevada,Special District,Dayton Valley Conservation District,Total - All Government Employment Functions,1,G,5810,G,0,G,0,G,29401338000000,West,Carson City,32,510,88,NA,NA,1,03,196628
+Nevada,Special District,Dayton Valley Conservation District,Natural Resources,1,G,5810,G,0,G,0,G,29401338000000,West,Carson City,32,510,88,NA,NA,1,03,196628
+Nevada,Special District,Big Meadow Conservation District,Total - All Government Employment Functions,0,R,0,R,1,R,428,R,29401400100000,West,Pershing,32,027,97,NA,NA,1,07,152148
+Nevada,Special District,Big Meadow Conservation District,Natural Resources,0,R,0,R,1,R,428,R,29401400100000,West,Pershing,32,027,97,NA,NA,1,07,152148
+Nevada,Special District,Lovelock Meadows Water District,Total - All Government Employment Functions,7,R,33499,R,5,R,500,R,29401420100000,West,Pershing,32,027,91,NA,NA,1,03,130723
+Nevada,Special District,Lovelock Meadows Water District,Water Supply,7,R,33499,R,5,R,500,R,29401420100000,West,Pershing,32,027,91,NA,NA,1,03,130723
+Nevada,Special District,Pershing County Water Conservancy District,Total - All Government Employment Functions,8,R,40110,R,7,C,840,C,29401440200000,West,Pershing,32,027,64,NA,NA,1,03,202146
+Nevada,Special District,Pershing County Water Conservancy District,Natural Resources,8,R,40110,R,7,C,840,C,29401440200000,West,Pershing,32,027,64,NA,NA,1,03,202146
+Nevada,Special District,Canyon General Improvement District,Total - All Government Employment Functions,2,T,11902,R,4,T,4220,R,29401533300000,West,Storey,32,029,99,NA,NA,1,07,152151
+Nevada,Special District,Canyon General Improvement District,Sewerage,1,T,5950,C,2,T,2228,R,29401533300000,West,Storey,32,029,99,NA,NA,1,07,152151
+Nevada,Special District,Canyon General Improvement District,Water Supply,1,T,5952,R,2,T,1993,C,29401533300000,West,Storey,32,029,99,NA,NA,1,07,152151
+Nevada,Special District,Tahoe Reno Industrial General Improvement District,Total - All Government Employment Functions,6,R,40709,R,1,R,2979,R,29401537000000,West,Storey,32,029,44,NA,NA,1,03,196560
+Nevada,Special District,Tahoe Reno Industrial General Improvement District,Highways,6,R,40709,R,1,R,2979,R,29401537000000,West,Storey,32,029,44,NA,NA,1,03,196560
+Nevada,Special District,Reno Housing Authority,Total - All Government Employment Functions,69,R,341859,R,1,R,1677,R,29401600100000,West,Washoe,32,031,50,NA,NA,1,03,152153
+Nevada,Special District,Reno Housing Authority,Housing and Community Development,69,R,341859,R,1,R,1677,R,29401600100000,West,Washoe,32,031,50,NA,NA,1,03,152153
+Nevada,Special District,Washoe-Storey Conservation District,Total - All Government Employment Functions,0,G,0,G,0,G,0,G,29401600300000,West,Washoe,32,031,88,NA,NA,1,03,130724
+Nevada,Special District,Washoe-Storey Conservation District,Natural Resources,0,G,0,G,0,G,0,G,29401600300000,West,Washoe,32,031,88,NA,NA,1,03,130724
+Nevada,Special District,Washoe County Water Conservancy District,Total - All Government Employment Functions,2,T,8202,T,9,T,2066,T,29401620300000,West,Washoe,32,031,64,NA,NA,1,03,108932
+Nevada,Special District,Washoe County Water Conservancy District,Natural Resources,2,T,8202,T,9,T,2066,T,29401620300000,West,Washoe,32,031,64,NA,NA,1,03,108932
+Nevada,Special District,Truckee Meadows Water Authority,Total - All Government Employment Functions,235,R,2721122,R,1,R,298,R,29401637700000,West,Washoe,32,031,91,NA,NA,1,03,197158
+Nevada,Special District,Truckee Meadows Water Authority,Water Supply,235,R,2721122,R,1,R,298,R,29401637700000,West,Washoe,32,031,91,NA,NA,1,03,197158
+Nevada,Special District,Nevada Commission For The Reconstruction Of The V&t Railway,Total - All Government Employment Functions,0,R,0,R,0,R,0,R,29401637800000,West,Washoe,32,031,89,NA,NA,1,03,198220
+Nevada,Special District,Nevada Commission For The Reconstruction Of The V&t Railway,All other and unallocable,0,R,0,R,0,R,0,R,29401637800000,West,Washoe,32,031,89,NA,NA,1,03,198220
+Nevada,Special District,North Lake Tahoe Fire Protection District,Total - All Government Employment Functions,76,C,672052,C,1,R,2605,R,29401650100000,West,Washoe,32,031,24,NA,NA,1,07,152157
+Nevada,Special District,North Lake Tahoe Fire Protection District,Fire Protection - Firefighters,68,C,593455,C,1,R,2605,R,29401650100000,West,Washoe,32,031,24,NA,NA,1,07,152157
+Nevada,Special District,North Lake Tahoe Fire Protection District,Fire Protection - Other,8,R,78597,R,0,R,0,R,29401650100000,West,Washoe,32,031,24,NA,NA,1,07,152157
+Nevada,Special District,Incline Village General Improvement District,Total - All Government Employment Functions,112,R,813640,R,288,R,486845,R,29401650200000,West,Washoe,32,031,99,NA,NA,1,07,152158
+Nevada,Special District,Incline Village General Improvement District,Solid Waste Management,2,R,13361,R,1,R,611,R,29401650200000,West,Washoe,32,031,99,NA,NA,1,07,152158
+Nevada,Special District,Incline Village General Improvement District,Sewerage,11,R,83259,R,0,R,0,R,29401650200000,West,Washoe,32,031,99,NA,NA,1,07,152158
+Nevada,Special District,Incline Village General Improvement District,Parks and Recreation,48,R,328787,R,286,R,483210,R,29401650200000,West,Washoe,32,031,99,NA,NA,1,07,152158
+Nevada,Special District,Incline Village General Improvement District,Water Supply,23,R,190862,R,1,R,3024,R,29401650200000,West,Washoe,32,031,99,NA,NA,1,07,152158
+Nevada,Special District,Incline Village General Improvement District,All other and unallocable,28,R,197372,R,0,R,0,R,29401650200000,West,Washoe,32,031,99,NA,NA,1,07,152158
+Nevada,Special District,Reno-Tahoe Airport Authority,Total - All Government Employment Functions,250,R,1733617,R,22,R,22812,R,29401660100000,West,Washoe,32,031,01,NA,NA,1,03,130726
+Nevada,Special District,Reno-Tahoe Airport Authority,Air Transportation,250,R,1733617,R,22,R,22812,R,29401660100000,West,Washoe,32,031,01,NA,NA,1,03,130726
+Nevada,Special District,Palomino Valley General Improvement District,Total - All Government Employment Functions,2,R,10947,R,0,R,0,R,29401660200000,West,Washoe,32,031,44,NA,NA,1,03,152159
+Nevada,Special District,Palomino Valley General Improvement District,Highways,2,R,10947,R,0,R,0,R,29401660200000,West,Washoe,32,031,44,NA,NA,1,03,152159
+Nevada,Special District,Gerlach General Improvement District,Total - All Government Employment Functions,1,R,3665,R,3,R,3921,R,29401660300000,West,Washoe,32,031,99,NA,NA,1,07,152160
+Nevada,Special District,Gerlach General Improvement District,Solid Waste Management,0,R,0,R,1,R,510,R,29401660300000,West,Washoe,32,031,99,NA,NA,1,07,152160
+Nevada,Special District,Gerlach General Improvement District,Water Supply,1,R,3665,R,1,R,2313,R,29401660300000,West,Washoe,32,031,99,NA,NA,1,07,152160
+Nevada,Special District,Gerlach General Improvement District,All other and unallocable,0,R,0,R,1,R,1098,R,29401660300000,West,Washoe,32,031,99,NA,NA,1,07,152160
+Nevada,Special District,Verdi Television District,Total - All Government Employment Functions,0,C,0,C,6,C,3000,C,29401670200000,West,Washoe,32,031,03,NA,NA,1,03,108933
+Nevada,Special District,Verdi Television District,All other and unallocable,0,C,0,C,6,C,3000,C,29401670200000,West,Washoe,32,031,03,NA,NA,1,03,108933
+Nevada,Special District,Nevada Tahoe Conservation District,Total - All Government Employment Functions,5,R,40567,R,0,R,0,R,29401680200000,West,Washoe,32,031,99,NA,NA,1,07,130727
+Nevada,Special District,Nevada Tahoe Conservation District,Natural Resources,5,R,40567,R,0,R,0,R,29401680200000,West,Washoe,32,031,99,NA,NA,1,07,130727
+Nevada,Special District,Sun Valley General Improvement District,Total - All Government Employment Functions,15,R,93002,R,6,R,4990,R,29401690500000,West,Washoe,32,031,91,NA,NA,1,03,204915
+Nevada,Special District,Sun Valley General Improvement District,Water Supply,15,R,93002,R,6,R,4990,R,29401690500000,West,Washoe,32,031,91,NA,NA,1,03,204915
+Nevada,Special District,White Pine County Conservation District,Total - All Government Employment Functions,0,G,0,G,1,G,80,G,29401700600000,West,White Pine,32,033,88,NA,NA,1,03,186512
+Nevada,Special District,White Pine County Conservation District,Natural Resources,0,G,0,G,1,G,80,G,29401700600000,West,White Pine,32,033,88,NA,NA,1,03,186512
+Nevada,Special District,Baker Sewer And Water General Improvement District,Total - All Government Employment Functions,0,C,0,C,3,C,1378,C,29401720200000,West,White Pine,32,033,91,NA,NA,1,03,152164
+Nevada,Special District,Baker Sewer And Water General Improvement District,Water Supply,0,C,0,C,3,C,1378,C,29401720200000,West,White Pine,32,033,91,NA,NA,1,03,152164
+Nevada,Special District,Mcgill-Ruth Water And Sewer General Improvement District,Total - All Government Employment Functions,3,R,15815,R,6,C,1983,R,29401740300000,West,White Pine,32,033,98,NA,NA,1,07,206832
+Nevada,Special District,Mcgill-Ruth Water And Sewer General Improvement District,Sewerage,1,R,5770,R,0,R,0,R,29401740300000,West,White Pine,32,033,98,NA,NA,1,07,206832
+Nevada,Special District,Mcgill-Ruth Water And Sewer General Improvement District,Water Supply,1,R,4759,R,0,R,0,R,29401740300000,West,White Pine,32,033,98,NA,NA,1,07,206832
+Nevada,Special District,Mcgill-Ruth Water And Sewer General Improvement District,All other and unallocable,1,R,5287,R,6,C,1983,R,29401740300000,West,White Pine,32,033,98,NA,NA,1,07,206832
+Nevada,Special District,White Pine County Television District,Total - All Government Employment Functions,0,R,0,R,7,R,2100,R,29401750300000,West,White Pine,32,033,03,NA,NA,1,03,152166
+Nevada,Special District,White Pine County Television District,All other and unallocable,0,R,0,R,7,R,2100,R,29401750300000,West,White Pine,32,033,03,NA,NA,1,03,152166
+Nevada,Independent School District,Churchill County School District,Total - All Government Employment Functions,305,G,1564481,G,191,G,168614,G,29500100100000,West,Churchill,32,001,3361,NA,Elementary and Secondary,1,08,181129
+Nevada,Independent School District,Churchill County School District,Education - Elementary and Secondary Instructional,221,G,1207239,G,136,G,111966,G,29500100100000,West,Churchill,32,001,3361,NA,Elementary and Secondary,1,08,181129
+Nevada,Independent School District,Churchill County School District,Education - Elementary and Secondary Other,84,G,357242,G,55,G,56648,G,29500100100000,West,Churchill,32,001,3361,NA,Elementary and Secondary,1,08,181129
+Nevada,Independent School District,Clark County School District,Total - All Government Employment Functions,26389,R,141047185,R,7929,R,16801163,R,29500200100000,West,Clark,32,003,328991,NA,Elementary and Secondary,1,08,108934
+Nevada,Independent School District,Clark County School District,Education - Elementary and Secondary Instructional,19833,R,112105992,R,4090,R,9802600,R,29500200100000,West,Clark,32,003,328991,NA,Elementary and Secondary,1,08,108934
+Nevada,Independent School District,Clark County School District,Education - Elementary and Secondary Other,6556,R,28941192,R,3839,R,6998562,R,29500200100000,West,Clark,32,003,328991,NA,Elementary and Secondary,1,08,108934
+Nevada,Independent School District,Douglas County School District,Total - All Government Employment Functions,506,R,2651533,R,319,T,471910,T,29500300100000,West,Douglas,32,005,5786,NA,Elementary and Secondary,1,08,181130
+Nevada,Independent School District,Douglas County School District,Education - Elementary and Secondary Instructional,385,R,2172496,R,202,T,261018,T,29500300100000,West,Douglas,32,005,5786,NA,Elementary and Secondary,1,08,181130
+Nevada,Independent School District,Douglas County School District,Education - Elementary and Secondary Other,121,R,479037,R,117,T,210892,T,29500300100000,West,Douglas,32,005,5786,NA,Elementary and Secondary,1,08,181130
+Nevada,Independent School District,Elko County School District,Total - All Government Employment Functions,911,G,4717701,G,406,G,608997,G,29500400100000,West,Elko,32,007,10247,NA,Elementary and Secondary,1,08,108935
+Nevada,Independent School District,Elko County School District,Education - Elementary and Secondary Instructional,684,G,3789451,G,271,G,434868,G,29500400100000,West,Elko,32,007,10247,NA,Elementary and Secondary,1,08,108935
+Nevada,Independent School District,Elko County School District,Education - Elementary and Secondary Other,227,G,928250,G,135,G,174129,G,29500400100000,West,Elko,32,007,10247,NA,Elementary and Secondary,1,08,108935
+Nevada,Independent School District,Esmeralda County School District,Total - All Government Employment Functions,30,R,100416,R,8,R,5722,R,29500500100000,West,Esmeralda,32,009,81,NA,Elementary Only,1,08,181131
+Nevada,Independent School District,Esmeralda County School District,Education - Elementary and Secondary Instructional,20,R,68076,R,2,R,908,R,29500500100000,West,Esmeralda,32,009,81,NA,Elementary Only,1,08,181131
+Nevada,Independent School District,Esmeralda County School District,Education - Elementary and Secondary Other,10,R,32340,R,6,R,4814,R,29500500100000,West,Esmeralda,32,009,81,NA,Elementary Only,1,08,181131
+Nevada,Independent School District,Eureka County School District,Total - All Government Employment Functions,51,R,378665,R,38,R,84196,R,29500600100000,West,Eureka,32,011,349,NA,Elementary and Secondary,1,08,108936
+Nevada,Independent School District,Eureka County School District,Education - Elementary and Secondary Instructional,36,R,285720,R,21,R,48167,R,29500600100000,West,Eureka,32,011,349,NA,Elementary and Secondary,1,08,108936
+Nevada,Independent School District,Eureka County School District,Education - Elementary and Secondary Other,15,R,92945,R,17,R,36029,R,29500600100000,West,Eureka,32,011,349,NA,Elementary and Secondary,1,08,108936
+Nevada,Independent School District,Humboldt County School District,Total - All Government Employment Functions,344,R,1772280,R,227,R,304225,R,29500700100000,West,Humboldt,32,013,3484,NA,Elementary and Secondary,1,08,108937
+Nevada,Independent School District,Humboldt County School District,Education - Elementary and Secondary Instructional,232,R,1390498,R,172,R,287789,R,29500700100000,West,Humboldt,32,013,3484,NA,Elementary and Secondary,1,08,108937
+Nevada,Independent School District,Humboldt County School District,Education - Elementary and Secondary Other,112,R,381782,R,55,R,16436,R,29500700100000,West,Humboldt,32,013,3484,NA,Elementary and Secondary,1,08,108937
+Nevada,Independent School District,Lander County School District,Total - All Government Employment Functions,128,G,635250,G,25,G,23706,G,29500800100000,West,Lander,32,015,1034,NA,Elementary and Secondary,1,08,130729
+Nevada,Independent School District,Lander County School District,Education - Elementary and Secondary Instructional,111,G,526344,G,15,G,15370,G,29500800100000,West,Lander,32,015,1034,NA,Elementary and Secondary,1,08,130729
+Nevada,Independent School District,Lander County School District,Education - Elementary and Secondary Other,17,G,108906,G,10,G,8336,G,29500800100000,West,Lander,32,015,1034,NA,Elementary and Secondary,1,08,130729
+Nevada,Independent School District,Lincoln County School District,Total - All Government Employment Functions,136,C,642917,R,43,R,49253,C,29500900100000,West,Lincoln,32,017,951,NA,Elementary and Secondary,1,08,181132
+Nevada,Independent School District,Lincoln County School District,Education - Elementary and Secondary Instructional,106,C,534623,R,29,R,19586,R,29500900100000,West,Lincoln,32,017,951,NA,Elementary and Secondary,1,08,181132
+Nevada,Independent School District,Lincoln County School District,Education - Elementary and Secondary Other,30,R,108294,R,14,C,29668,C,29500900100000,West,Lincoln,32,017,951,NA,Elementary and Secondary,1,08,181132
+Nevada,Independent School District,Lyon County School District,Total - All Government Employment Functions,1209,G,4774899,G,32,G,24745,G,29501000100000,West,Lyon,32,019,9034,NA,Elementary and Secondary,1,08,108938
+Nevada,Independent School District,Lyon County School District,Education - Elementary and Secondary Instructional,793,G,3230314,G,32,G,24745,G,29501000100000,West,Lyon,32,019,9034,NA,Elementary and Secondary,1,08,108938
+Nevada,Independent School District,Lyon County School District,Education - Elementary and Secondary Other,416,G,1544585,G,0,G,0,G,29501000100000,West,Lyon,32,019,9034,NA,Elementary and Secondary,1,08,108938
+Nevada,Independent School District,Mineral County School District,Total - All Government Employment Functions,103,R,379296,R,18,R,14718,R,29501100100000,West,Mineral,32,021,562,NA,Elementary and Secondary,1,08,181133
+Nevada,Independent School District,Mineral County School District,Education - Elementary and Secondary Instructional,73,R,279722,R,5,R,5858,R,29501100100000,West,Mineral,32,021,562,NA,Elementary and Secondary,1,08,181133
+Nevada,Independent School District,Mineral County School District,Education - Elementary and Secondary Other,30,R,99574,R,13,R,8860,R,29501100100000,West,Mineral,32,021,562,NA,Elementary and Secondary,1,08,181133
+Nevada,Independent School District,Nye County School District,Total - All Government Employment Functions,570,R,2548500,R,332,R,719016,R,29501200100000,West,Nye,32,023,5582,NA,Elementary and Secondary,1,08,186513
+Nevada,Independent School District,Nye County School District,Education - Elementary and Secondary Instructional,454,R,2081578,R,129,R,256091,R,29501200100000,West,Nye,32,023,5582,NA,Elementary and Secondary,1,08,186513
+Nevada,Independent School District,Nye County School District,Education - Elementary and Secondary Other,116,R,466923,R,203,R,462925,R,29501200100000,West,Nye,32,023,5582,NA,Elementary and Secondary,1,08,186513
+Nevada,Independent School District,Carson City School District,Total - All Government Employment Functions,866,R,3989266,R,154,R,182918,R,29501300100000,West,Carson City,32,510,8133,NA,Elementary and Secondary,1,08,213040
+Nevada,Independent School District,Carson City School District,Education - Elementary and Secondary Instructional,569,R,2837442,R,89,R,120368,R,29501300100000,West,Carson City,32,510,8133,NA,Elementary and Secondary,1,08,213040
+Nevada,Independent School District,Carson City School District,Education - Elementary and Secondary Other,297,R,1151824,R,65,R,62550,R,29501300100000,West,Carson City,32,510,8133,NA,Elementary and Secondary,1,08,213040
+Nevada,Independent School District,Pershing County School District,Total - All Government Employment Functions,128,G,584271,G,25,G,16498,G,29501400100000,West,Pershing,32,027,674,NA,Elementary and Secondary,1,08,108939
+Nevada,Independent School District,Pershing County School District,Education - Elementary and Secondary Instructional,87,G,457434,G,20,G,15390,G,29501400100000,West,Pershing,32,027,674,NA,Elementary and Secondary,1,08,108939
+Nevada,Independent School District,Pershing County School District,Education - Elementary and Secondary Other,41,G,126837,G,5,G,1108,G,29501400100000,West,Pershing,32,027,674,NA,Elementary and Secondary,1,08,108939
+Nevada,Independent School District,Storey County School District,Total - All Government Employment Functions,64,R,315304,R,21,R,14428,R,29501500100000,West,Storey,32,029,449,NA,Elementary and Secondary,1,08,181134
+Nevada,Independent School District,Storey County School District,Education - Elementary and Secondary Instructional,46,R,244438,R,10,R,7932,R,29501500100000,West,Storey,32,029,449,NA,Elementary and Secondary,1,08,181134
+Nevada,Independent School District,Storey County School District,Education - Elementary and Secondary Other,18,R,70866,R,11,R,6496,R,29501500100000,West,Storey,32,029,449,NA,Elementary and Secondary,1,08,181134
+Nevada,Independent School District,Washoe County School District,Total - All Government Employment Functions,7312,X,31161060,T,2156,X,2672795,T,29501600100000,West,Washoe,32,031,67301,NA,Elementary and Secondary,1,08,108940
+Nevada,Independent School District,Washoe County School District,Education - Elementary and Secondary Instructional,5029,X,22599500,T,854,X,853103,T,29501600100000,West,Washoe,32,031,67301,NA,Elementary and Secondary,1,08,108940
+Nevada,Independent School District,Washoe County School District,Education - Elementary and Secondary Other,2283,X,8561559,T,1302,X,1819692,T,29501600100000,West,Washoe,32,031,67301,NA,Elementary and Secondary,1,08,108940
+Nevada,Independent School District,White Pine County School District,Total - All Government Employment Functions,141,R,705354,R,85,R,118521,R,29501700100000,West,White Pine,32,033,1274,NA,Elementary and Secondary,1,08,181135
+Nevada,Independent School District,White Pine County School District,Education - Elementary and Secondary Instructional,102,R,555241,R,65,R,95615,R,29501700100000,West,White Pine,32,033,1274,NA,Elementary and Secondary,1,08,181135
+Nevada,Independent School District,White Pine County School District,Education - Elementary and Secondary Other,39,R,150113,R,20,R,22906,R,29501700100000,West,White Pine,32,033,1274,NA,Elementary and Secondary,1,08,181135
