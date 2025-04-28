@@ -2,7 +2,7 @@ title: The Art of Data Journalism
 author: Adapted to Python by Nick Hagar, from Matt Waite's <a href="https://github.com/The-Art-of-Data-Journalism/DataJournalismTutorials">The Art of Data Journalism</a>; licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a>
 
 execute:
-  execute_notebooks: "off" # Replace this if you want don't have notebooks with output and you want to add notebook output during build
+  execute_notebooks: "force" # Replace this if you want don't have notebooks with output and you want to add notebook output during build
 
 only_build_toc_files: true # Replace this with false if you want to build all files in the book, allowing you to refer to pages which are not included in the table of contents
 
