@@ -10,6 +10,8 @@ parts:
           - file: file_to_be_added_to_toc.md
       - file: python_basics/01-python-basics.ipynb
         title: "Python Basics for Data Journalism"
+      - file: python_basics/02-data-basics.ipynb
+        title: "Data Basics"
       - file: exercises.md
         sections:
           - file: exercises/001.md
