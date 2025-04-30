@@ -12,6 +12,8 @@ parts:
         title: "Python Basics for Data Journalism"
       - file: python_basics/02-data-basics.ipynb
         title: "Data Basics"
+      - file: python_basics/03-aggregates1.ipynb
+        title: "Aggregates, Part 1"
       - file: exercises.md
         sections:
           - file: exercises/001.md
