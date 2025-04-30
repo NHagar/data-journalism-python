@@ -14,6 +14,8 @@ parts:
         title: "Data Basics"
       - file: python_basics/03-aggregates1.ipynb
         title: "Aggregates, Part 1"
+      - file: python_basics/04-aggregates2.ipynb
+        title: "Aggregates, Part 2"
       - file: exercises.md
         sections:
           - file: exercises/001.md
