@@ -16,6 +16,8 @@ parts:
         title: "Aggregates, Part 1"
       - file: python_basics/04-aggregates2.ipynb
         title: "Aggregates, Part 2"
+      - file: python_basics/05-filters.ipynb
+        title: "Filters"
       - file: exercises.md
         sections:
           - file: exercises/001.md
