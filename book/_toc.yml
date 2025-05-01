@@ -18,6 +18,8 @@ parts:
         title: "Aggregates, Part 2"
       - file: python_basics/05-filters.ipynb
         title: "Filters"
+      - file: python_basics/06-mutating.ipynb
+        title: "Mutating data"
       - file: exercises.md
         sections:
           - file: exercises/001.md
