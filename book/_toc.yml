@@ -20,6 +20,8 @@ parts:
         title: "Filters"
       - file: python_basics/06-mutating.ipynb
         title: "Mutating data"
+      - file: python_basics/07-workingwithdates.ipynb
+        title: "Working with dates"
       - file: exercises.md
         sections:
           - file: exercises/001.md
