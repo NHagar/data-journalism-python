@@ -22,6 +22,8 @@ parts:
         title: "Mutating data"
       - file: python_basics/07-workingwithdates.ipynb
         title: "Working with dates"
+      - file: python_basics/08-datacleaning1.ipynb
+        title: "Data Smells"
       - file: exercises.md
         sections:
           - file: exercises/001.md
