@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "download-link-replacer>=1.0.4",
     "jupyterbook-patches>=1.4.4",
+    "pyjanitor>=0.31.0",
     "sphinx-exercise>=1.0.1",
     "sphinx-iframes>=1.0.5",
     "sphinx-image-inverter>=1.1.3",

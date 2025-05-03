@@ -24,6 +24,8 @@ parts:
         title: "Working with dates"
       - file: python_basics/08-datacleaning1.ipynb
         title: "Data Smells"
+      - file: python_basics/09-datacleaning2.ipynb
+        title: "Data Cleaning with pyjanitor"
       - file: exercises.md
         sections:
           - file: exercises/001.md
