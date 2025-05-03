@@ -26,6 +26,8 @@ parts:
         title: "Data Smells"
       - file: python_basics/09-datacleaning2.ipynb
         title: "Data Cleaning with pyjanitor"
+      - file: python_basics/10-datacleaning3.ipynb
+        title: "Cleaning text"
       - file: exercises.md
         sections:
           - file: exercises/001.md
