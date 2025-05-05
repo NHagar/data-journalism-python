@@ -30,6 +30,8 @@ parts:
         title: "Cleaning text"
       - file: python_basics/11-joins.ipynb
         title: "Joining"
+      - file: python_basics/12-spreadsheets.ipynb
+        title: "Working with spreadsheets"
       - file: exercises.md
         sections:
           - file: exercises/001.md
