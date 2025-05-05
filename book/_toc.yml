@@ -28,6 +28,8 @@ parts:
         title: "Data Cleaning with pyjanitor"
       - file: python_basics/10-datacleaning3.ipynb
         title: "Cleaning text"
+      - file: python_basics/11-joins.ipynb
+        title: "Joining"
       - file: exercises.md
         sections:
           - file: exercises/001.md
