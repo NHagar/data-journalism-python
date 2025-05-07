@@ -46,6 +46,8 @@ parts:
         title: "Slope charts"
       - file: python_basics/19-dumbbells.ipynb
         title: "Dumbbell charts"
+      - file: python_basics/20-scatter-plots.ipynb
+        title: "Scatter plots"
       - file: exercises.md
         sections:
           - file: exercises/001.md
