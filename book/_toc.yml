@@ -52,6 +52,8 @@ parts:
         title: "Bubble charts"
       - file: python_basics/22-beeswarm-plots.ipynb
         title: "Beeswarm charts"
+      - file: python_basics/23-tables.ipynb
+        title: "Tables"
       - file: exercises.md
         sections:
           - file: exercises/001.md
