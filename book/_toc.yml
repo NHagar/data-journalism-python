@@ -40,6 +40,8 @@ parts:
         title: "Stacked bar charts"
       - file: python_basics/16-waffles.ipynb
         title: "Waffle charts"
+      - file: python_basics/17-line-charts.ipynb
+        title: "Line charts"
       - file: exercises.md
         sections:
           - file: exercises/001.md
