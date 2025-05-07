@@ -34,6 +34,8 @@ parts:
         title: "Working with spreadsheets"
       - file: python_basics/13-census.ipynb
         title: "Getting census data from an API"
+      - file: python_basics/14-bars.ipynb
+        title: "Bar charts"
       - file: exercises.md
         sections:
           - file: exercises/001.md
