@@ -50,6 +50,8 @@ parts:
         title: "Scatter plots"
       - file: python_basics/21-bubbles.ipynb
         title: "Bubble charts"
+      - file: python_basics/22-beeswarm-plots.ipynb
+        title: "Beeswarm charts"
       - file: exercises.md
         sections:
           - file: exercises/001.md
