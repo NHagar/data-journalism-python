@@ -36,6 +36,8 @@ parts:
         title: "Getting census data from an API"
       - file: python_basics/14-bars.ipynb
         title: "Bar charts"
+      - file: python_basics/15-stacked-bars.ipynb
+        title: "Stacked bar charts"
       - file: exercises.md
         sections:
           - file: exercises/001.md
