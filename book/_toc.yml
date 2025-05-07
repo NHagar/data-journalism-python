@@ -44,6 +44,8 @@ parts:
         title: "Line charts"
       - file: python_basics/18-slope-charts.ipynb
         title: "Slope charts"
+      - file: python_basics/19-dumbbells.ipynb
+        title: "Dumbbell charts"
       - file: exercises.md
         sections:
           - file: exercises/001.md
