@@ -60,6 +60,8 @@ parts:
         title: "Color"
       - file: python_basics/26-finishing-touches.ipynb
         title: "Finishing touches"
+      - file: python_basics/27-datawrapper-for-charts.ipynb
+        title: "Datawrapper for charts"
       - file: exercises.md
         sections:
           - file: exercises/001.md
