@@ -58,6 +58,8 @@ parts:
         title: "The importance of text"
       - file: python_basics/25-color.ipynb
         title: "Color"
+      - file: python_basics/26-finishing-touches.ipynb
+        title: "Finishing touches"
       - file: exercises.md
         sections:
           - file: exercises/001.md
