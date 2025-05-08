@@ -62,6 +62,8 @@ parts:
         title: "Finishing touches"
       - file: python_basics/27-datawrapper-for-charts.ipynb
         title: "Datawrapper for charts"
+      - file: python_basics/28-datawrapper-for-maps.ipynb
+        title: "Datawrapper for maps"
       - file: exercises.md
         sections:
           - file: exercises/001.md
