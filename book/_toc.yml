@@ -54,6 +54,8 @@ parts:
         title: "Beeswarm charts"
       - file: python_basics/23-tables.ipynb
         title: "Tables"
+      - file: python_basics/24-annotations.ipynb
+        title: "The importance of text"
       - file: exercises.md
         sections:
           - file: exercises/001.md
